@@ -1,0 +1,15 @@
+{
+  "labels": {
+    "PersInfo": "Hush, Hussa, 0405, res, JSP expert",
+    "WorkExp": [
+      {"Name": "KFS", "StartDate": "", "EndDate": ""}
+    ],
+    "Skills": [
+      {"name": "JSP", "level": "expert"}
+    ],
+    "Education": [
+      {"id": "education1", "degree": "Master of Science in Information Technology", "university": "KENNESAW STATE UNIVERSITY", "graduationDate": "May 2015"}
+    ]
+  },
+  "Spelling": [["WrongWord"]]
+}
