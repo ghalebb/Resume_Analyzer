@@ -3,7 +3,7 @@ from SecondPhase.Checker import Checker
 from SecondPhase.Response import Response
 
 RESUME_RAW_TEXT_PATH = "RESUME_TEST.txt"
-LABEL_DATA_PATH = r"C:\Users\Hussam Salamh\Desktop\Projects\chatGptInteraction\labelDataTmp.json"
+LABEL_DATA_PATH = r"labelDataTmp.json"
 SECRET_KEY = "AIzaSyB1-RLEHFheGAlC80C4WfGReFBRN6sccPc"
 
 
