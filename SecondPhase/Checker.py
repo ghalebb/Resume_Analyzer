@@ -41,12 +41,11 @@ class Checker:
         ]
 
     prompt_dict = {
-        "residence Location": "Check the string that between brackets if it contain a residence location, and if it contain only say yes " \
-                              "otherwise say no. The string is : ",
-        "email address": "Check if the following text includes an email address. Answer with yes or no only. The text: ",
-        "linkedIn account": "Given the following text, check if it includes LinkedIn address, answer with yes or no only. The text: ",
-        "phone number": "Given the following text, check if it includes a phone number, answer with yes or no only. The text: ",
-        "github": "Given the following text, check if it includes github address, answer with yes or no only. The text: ",
+        "residence Location": "Make sure that the following text has no address or any location mentioned. Answer by true or false only. The text",
+        "email address": "Check if the following text includes an email address.  Answer with true or false only. The text: ",
+        "linkedIn account": "Given the following text, check if it includes LinkedIn address. Answer with true or false only. The text: ",
+        "phone number": "Given the following text, check if it includes a phone number. Answer with true or false only. The text: ",
+        "github": "Given the following text, check if it includes github address. Answer with true or false only. The text: ",
 
     }
 
@@ -70,7 +69,7 @@ class Checker:
             for data_key in data_keys:
                 data += self.json["Labels"][data_key] + " "
             result = self.check_function(self.prompt_dict[checker], data)
-            if result.text.lower() != "yes" and result.text.lower() != 'no':
+            if result.text.lower() != 'true' and result.text.lower() != 'false':
                 raise ValueError("Invalid response")
             results[checker] = result.text
         return results

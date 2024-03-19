@@ -18,7 +18,7 @@ class Response:
         responses = []
 
         for check, result in self.result_json.items():
-            if result.lower() == "no":
+            if result.lower() == "true":
                 response = f"✅ {check.replace('_', ' ')} check passed."
             else:
                 response = f"❌ {check.replace('_', ' ')} check failed: {result}."
