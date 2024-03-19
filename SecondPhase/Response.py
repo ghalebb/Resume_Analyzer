@@ -33,13 +33,3 @@ class Response:
         return final_response
 
 
-# if __name__ == '__main__':
-#     result_json = {
-#         "ResidenceLocationCheck": "No",
-#         # Add other checks here
-#     }
-#     spelling_errors = ["wrod1", "wrod2"]
-#
-#     response_generator = Response(result_json, spelling_errors)
-#     user_response = response_generator.generate_response()
-#     print(user_response)

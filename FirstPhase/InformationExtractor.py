@@ -18,11 +18,5 @@ class InformationExtractor:
         """
         pass
 
-import ollama
-response = ollama.chat(model='mistral', messages=[
-    {
-        'role': 'user',
-        'content': 'Why is the sky blue?',
-    },])
 
 
