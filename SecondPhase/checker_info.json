@@ -1,0 +1,23 @@
+[
+            {"Checker": "related_experience", "data_key": "WorkExp"},
+            {"Checker": "wordCount", "data_key": "wordCount"},
+            {"Checker": "residence_location", "data_key": "PersInfo"},
+            {"Checker": "email_address", "data_key": "PersInfo"},
+            {"Checker": "linkedIn_account", "data_key": "PersInfo"},
+            {"Checker": "phone_number", "data_key": "PersInfo"},
+            {"Checker": "github", "data_key": "PersInfo"},
+            {"Checker": "personal_info", "data_key": "PersInfo"},
+            {"Checker": "related_experience", "data_key": "WorkExp"},
+            {"Checker": "not_related_experience", "data_key": "WorkExp"},
+            {"Checker": "work_experience_order", "data_key": "WorkExp"},
+            {"Checker": "volunteering", "data_key": "Volunteering"},
+            {"Checker": "volunteering_description", "data_key": "Volunteering"},
+            {"Checker": "technical_skills", "data_key": "Skills"},
+            {"Checker": "soft_skills", "data_key": "Skills"},
+            {"Checker": "education_background", "data_key": "Education"},
+            {"Checker": "education_center", "data_key": "Education"},
+            {"Checker": "education_grad_year", "data_key": "Education"},
+            {"Checker": "projects", "data_key": "Projects"},
+            {"Checker": "projects_relevant", "data_key": "Projects"},
+            {"Checker": "project_description", "data_key": "Projects"}
+]
