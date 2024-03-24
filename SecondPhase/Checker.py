@@ -16,8 +16,8 @@ class Checker:
     """
 
     def __init__(self, key, pathOrJson, misspelling=None):
-        self.prompt_dict = readJsonFIle('prompts.json')
-        self.checks = readJsonFIle('checker_info.json')
+        self.prompt_dict = readJsonFIle('./SecondPhase/prompts.json')
+        self.checks = readJsonFIle('./SecondPhase/checker_info.json')
         genai.configure(api_key=key)
         if type(pathOrJson) == str:
             if not os.path.exists(pathOrJson):
@@ -48,6 +48,8 @@ class Checker:
         return self.spelling
 
     def extract_data(self, data_key):
+        if data_key not in self.json["Labels"]:
+            return None
         data = ""
         if isinstance(self.json["Labels"][data_key], str):
             data += self.json["Labels"][data_key] + " "
@@ -67,10 +69,13 @@ class Checker:
             data_key = check["data_key"]
             checker = check["Checker"]
             data = self.extract_data(data_key)
-            result = self.check(checker, data)
-            if result.text.lower() != "true" and result.text.lower() != "false" and result.text.lower() != "none":
-                raise ValueError("Invalid response")
-            results[checker] = result.text
+            if data is None:
+                results[checker] = ""
+            else:
+                result = self.check(checker, data)
+                if result.text.lower() != "true" and result.text.lower() != "false" and result.text.lower() != "none":
+                    raise ValueError("Invalid response")
+                results[checker] = result.text
         end_time = time.time()
         elapsed_time = end_time - start_time
         print(f"Elapsed time: {elapsed_time} seconds")

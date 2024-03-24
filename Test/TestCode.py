@@ -3,7 +3,7 @@ from SecondPhase.Checker import Checker
 from SecondPhase.Response import Response
 
 RESUME_RAW_TEXT_PATH = "RESUME_TEST.txt"
-LABEL_DATA_PATH = r"labelDataTmp.json"
+LABEL_DATA_PATH = r"./Test/labelDataTmp.json"
 SECRET_KEY = "AIzaSyB1-RLEHFheGAlC80C4WfGReFBRN6sccPc"
 
 
@@ -23,10 +23,9 @@ def CheckSecondPhase():
     print("This the result after calling the checker class")
     print(results)
     print('---------------------------')
-    res = Response(results, checker.get_spelling())
-    recommendations = res.generate_response()
+    res = Response(results,"./SecondPhase/notes.json")
+    recommendations = res.generate_notes()
     print(recommendations)
-
 
 if __name__ == '__main__':
     # print(checkPreprocess())
