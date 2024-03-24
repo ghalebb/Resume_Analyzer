@@ -1,122 +1,122 @@
 {
   "wordCount": {
-    "prompt": "Given the following number, check if the number is between 300 - 600, if it is answer True, Answer False otherwise",
+    "prompt": "Given the following number, check if the number is between 200 - 450. Answer True, if it is in the range, False otherwise.",
     "desired_answer": "True",
     "if_success": "q",
-    "if_fail": "w"
+    "if_fail": "Keep your resume concise with 300 to 600 words only."
   },
   "residence_location": {
     "prompt": "Make sure that the following text has no address or any location mentioned. Answer by True or False only. The text:",
     "desired_answer": "True",
     "if_success": "q",
-    "if_fail": "w"
+    "if_fail": "Omit your address or residence location."
   },
   "email_address": {
     "prompt": "Check if the following text includes an email address.  Answer with True or False only. The text:",
     "desired_answer": "True",
     "if_success": "a",
-    "if_fail": "s"
+    "if_fail": "Ensure your email address is included"
   },
   "linkedIn_account": {
     "prompt": "Given the following text, check if it includes LinkedIn address. Answer with True or False only. The text:",
     "desired_answer": "True",
     "if_success": "a",
-    "if_fail": "s"
+    "if_fail": "Include your LinkedIn account"
   },
   "phone_number": {
     "prompt": "Given the following text, check if it includes a phone number. Answer with True or False only. The text:",
     "desired_answer": "True",
     "if_success": "a",
-    "if_fail": "s"
+    "if_fail": "Provide your phone number"
   },
   "github": {
     "prompt": "Given the following text, check if it includes github address. Answer with True or False only. The text:",
     "desired_answer": "True",
     "if_success": "a",
-    "if_fail": "s"
+    "if_fail": "It is preferred to Include your GitHub account, if you have one."
   },
   "personal_info": {
     "prompt": "Given the following text, check if it include ‘Id number’, ‘gender’, ‘marital status’, ‘date of birth’, ‘age’ or ‘number of children’ answer True if it include anyone of them otherwise Answer False. The text:",
     "desired_answer": "False",
     "if_success": "a",
-    "if_fail": "s"
+    "if_fail": "Avoid including personal information like ID number, gender, marital status, date of birth, age, or number of children."
   },
   "related_experience": {
     "prompt": "Given the following text, check how many roles are related to computer science/ engineering field, if most of the roles are related to these fields and they do not exceed 3 roles answer True, Answer False if they exceed 3, and if most of the roles are not related answer None. The text:",
     "desired_answer": "True",
     "if_success": "a",
-    "if_fail": "s"
+    "if_fail": "Limit relevant work experience in the high-tech industry to a maximum of three positions"
   },
   "not_related_experience": {
     "prompt": "Given the following text, check how many roles are related to computer science/ engineering field, if more than half of the roles are not related, check if num of roles exceed 5 , if it is answer True, if not answer False, and if most of them are related answer None. The text:",
     "desired_answer": "False",
     "if_success": "a",
-    "if_fail": "s"
+    "if_fail": "Include a maximum of five different roles/jobs in your work experience"
   },
   "work_experience_order": {
     "prompt": "Given the following text, check if they appear in decreasing order by the end year. Answer True if they appear in order, False otherwise. The text:",
     "desired_answer": "True",
     "if_success": "a",
-    "if_fail": "s"
+    "if_fail": "Arrange work experience in decreasing order by years"
   },
   "volunteering": {
     "prompt": "Given the following text, check if it exceed 3 volunteering experiences, if it does answer True, otherwise Answer False. The text:",
     "desired_answer": "False",
     "if_success": "a",
-    "if_fail": "s"
+    "if_fail": "Limit volunteering experiences to a maximum of three."
   },
   "volunteering_description": {
     "prompt": "Given the following text, check if each volunteering experience includes a concise description, Answer True if it does, False otherwise. The text:",
     "desired_answer": "True",
     "if_success": "a",
-    "if_fail": "s"
+    "if_fail": "Elaborate on your volunteering experiences"
   },
   "technical_skills": {
     "prompt": "Given the following text, check if it include at least 4 technical skills related to computer science/ engineering field, if it include Answer True, Answer False otherwise. The text:",
     "desired_answer": "True",
     "if_success": "a",
-    "if_fail": "s"
+    "if_fail": "Include at least four technical skills in your skills section."
   },
   "soft_skills": {
     "prompt": "Given the following text, check if it include at least 4 soft skills related to computer science/ engineering field, if it include Answer True, Answer False otherwise. The text:",
     "desired_answer": "True",
     "if_success": "a",
-    "if_fail": "s"
+    "if_fail": "Include at least four soft skills in your skills section."
   },
   "education_background": {
     "prompt": "Given the following text, check if it includes at least one very relevant educational background for hi-tech roles, if it does answer True, False otherwise. The text:",
     "desired_answer": "True",
     "if_success": "a",
-    "if_fail": "s"
+    "if_fail": "Preferably, include at least one relevant educational background in computer science/engineering."
   },
   "education_center": {
     "prompt": "Given the following text, check if it includes an educational center name, if it does answer True, False otherwise. The text:",
     "desired_answer": "True",
     "if_success": "a",
-    "if_fail": "s"
+    "if_fail": "For your education background, consider mentioning the name of the educational institute or training center you attended"
   },
   "education_grad_year": {
     "prompt": "Given the following text, check if it includes graduation year, if it does answer True, False otherwise. The text:",
     "desired_answer": "True",
-    "if_success": "a",
-    "if_fail": "s"
+    "if_success": "When you mention your graduation year, it helps the hiring team to find you a matching position.",
+    "if_fail": "For your education background, consider mentioning year of graduation."
   },
   "projects": {
     "prompt": "Given the following text, check if it include 3 to 5 projects, if it does answer True, False otherwise. The text:",
     "desired_answer": "True",
-    "if_success": "a",
-    "if_fail": "s"
+    "if_success": "Good job! You mentioned three to five relevant projects",
+    "if_fail": "Include three to five related projects in your resume."
   },
   "projects_relevant": {
     "prompt": "Given the following text, check if the projects are relevant to computer science/ engineering, if it does answer True, False otherwise. The text:",
     "desired_answer": "True",
-    "if_success": "a",
-    "if_fail": "s"
+    "if_success": "Good job! It looks like you mentioned relevant projects you contributed to.",
+    "if_fail": "Ensure your projects are related to computer science/engineering."
   },
   "project_description": {
     "prompt": "Given the following text, check if each project includes a concise description, Answer True if it does, False otherwise. The text:",
     "desired_answer": "True",
-    "if_success": "a",
-    "if_fail": "s"
+    "if_success": "Great, you projects' descriptions look good",
+    "if_fail": "Revise project descriptions to be clear, concise and short."
   }
 }
