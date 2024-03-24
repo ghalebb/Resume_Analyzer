@@ -1,0 +1,56 @@
+{
+  "Labels": {
+    "wordCount" : "900",
+    "PersInfo": "mike sgva kdjnh@gmail.com +972541231231",
+    "WorkExp": [
+      {
+        "Role": "developer",
+        "StartDate": "2015",
+        "EndDate": "2017"
+      },
+      {
+        "Role": "QA",
+        "StartDate": "2017",
+        "EndDate": "2022"
+      }
+    ],
+    "Skills": [
+      "java", "self-learner"
+    ],
+    "Education": [
+      {
+        "id": "education1",
+        "degree": "Master of Science in Information Technology",
+        "educational_center": "KENNESAW STATE UNIVERSITY",
+        "graduationDate": "May 2015"
+      }
+    ],
+    "Volunteering": [
+    {
+      "Name": "volunteer in school",
+      "Description" : "tutor math to 5th grade students"
+    },
+    {
+      "Name": "volunteer in school",
+      "Description" : "tutor math to 5th grade students"
+    },
+    {
+      "Name": "volunteer in school",
+      "Description" : "tutor math to 5th grade students"
+    },
+    {
+      "Name": "volunteer in school",
+      "Description" : "tutor math to 5th grade students"
+    }
+  ],
+  "Projects": [
+    {
+      "Name": "Machine Learning Project",
+      "Description" : "Artificial Natural Network model"
+    }
+  ]
+  },
+  "Spelling": [
+    "WrongWord", "wirk"
+  ]
+}

@@ -1,8 +1,8 @@
+import concurrent.futures
 import json
 import os.path
-
+import time
 import google.generativeai as genai
-from google.generativeai.types import GenerateContentResponse
 
 
 class Checker:
@@ -16,8 +16,10 @@ class Checker:
     """
 
     def __init__(self, key, pathOrJson, misspelling=None):
+        self.prompt_dict = readJsonFIle('prompts.json')
+        self.checks = readJsonFIle('checker_info.json')
         genai.configure(api_key=key)
-        if type(pathOrJson) is str:
+        if type(pathOrJson) == str:
             if not os.path.exists(pathOrJson):
                 raise ValueError("File not found")
             self.json = readJsonFIle(pathOrJson)
@@ -32,48 +34,48 @@ class Checker:
             self.spelling = self.json["Spelling"]
 
         self.model = genai.GenerativeModel('gemini-pro')
-        self.checks = [
-            {"Checker": "residence Location", "data_key": ["PersInfo"]},
-            {"Checker": "email address", "data_key": ["PersInfo"]},
-            {"Checker": "linkedIn account", "data_key": ["PersInfo"]},
-            {"Checker": "phone number", "data_key": ["PersInfo"]},
-            {"Checker": "github", "data_key": ["PersInfo"]},
-        ]
 
-    prompt_dict = {
-        "residence Location": "Check the string that between brackets if it contain a residence location, and if it contain only say yes " \
-                              "otherwise say no. The string is : ",
-        "email address": "Check if the following text includes an email address. Answer with yes or no only. The text: ",
-        "linkedIn account": "Given the following text, check if it includes LinkedIn address, answer with yes or no only. The text: ",
-        "phone number": "Given the following text, check if it includes a phone number, answer with yes or no only. The text: ",
-        "github": "Given the following text, check if it includes github address, answer with yes or no only. The text: ",
 
-    }
+    def check(self, checker_name, data):
+        prompt = self.prompt_dict[checker_name]
+        return self.model.generate_content(prompt + data)
 
-    def get_labels(self):
-        return self.labels
+
+    # def get_labels(self):
+    #     return self.labels
 
     def get_spelling(self):
         return self.spelling
 
-        ## TODO : Add more checks here
-
-    def check_function(self, prompt, data):
-        return self.model.generate_content(prompt + data)
+    def extract_data(self, data_key):
+        data = ""
+        if isinstance(self.json["Labels"][data_key], str):
+            data += self.json["Labels"][data_key] + " "
+        else:
+            for i in self.json["Labels"][data_key]:
+                if isinstance(i, dict):
+                    for key, value in i.items():
+                        data += f"{key}: {value} "
+                else:
+                    data += " ".join(map(str, i)) + " "
+        return data
 
     def apply_checks(self):
+        start_time = time.time()
         results = {}
         for check in self.checks:
-            data_keys = check["data_key"]
+            data_key = check["data_key"]
             checker = check["Checker"]
-            data = ""
-            for data_key in data_keys:
-                data += self.json["Labels"][data_key] + " "
-            result = self.check_function(self.prompt_dict[checker], data)
-            if result.text.lower() != "yes" and result.text.lower() != 'no':
+            data = self.extract_data(data_key)
+            result = self.check(checker, data)
+            if result.text.lower() != "true" and result.text.lower() != "false" and result.text.lower() != "none":
                 raise ValueError("Invalid response")
             results[checker] = result.text
+        end_time = time.time()
+        elapsed_time = end_time - start_time
+        print(f"Elapsed time: {elapsed_time} seconds")
         return results
+
 
 
 def readJsonFIle(path):
