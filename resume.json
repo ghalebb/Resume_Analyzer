@@ -2,8 +2,17 @@
   "labels": {
     "PersInfo": "Hush, Hussa, 0405, res, JSP expert",
     "WorkExp": [
-      {"Name": "KFS", "StartDate": "", "EndDate": ""}
-    ],
+        {
+          "id":"KFS",
+          "StartDate": "",
+          "EndDate": ""
+        },
+        {
+          "id":"KFS",
+          "StartDate": "",
+          "EndDate": ""
+        }
+  ],
     "Skills": [
       {"name": "JSP", "level": "expert"}
     ],
