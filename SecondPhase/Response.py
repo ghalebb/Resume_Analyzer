@@ -42,9 +42,9 @@ class Response:
         for key in self.result_json.keys():
             if self.result_json[key].lower() == notes[key]['desired_answer'].lower():
                 generated_notes.append(notes[key]['if_success'])
-            elif self.result_json[key].lower() == 'none':
-                # figure this out!!
-                pass
+            # elif self.result_json[key].lower() == 'none':
+            #     # figure this out!!
+            #     pass
             else:
                 generated_notes.append(notes[key]['if_fail'])
         return generated_notes

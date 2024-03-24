@@ -14,31 +14,31 @@
   "email_address": {
     "prompt": "Check if the following text includes an email address.  Answer with True or False only. The text:",
     "desired_answer": "True",
-    "if_success": "a",
+    "if_success": "Great, your email address is written in the resume.",
     "if_fail": "Ensure your email address is included"
   },
   "linkedIn_account": {
     "prompt": "Given the following text, check if it includes LinkedIn address. Answer with True or False only. The text:",
     "desired_answer": "True",
-    "if_success": "a",
+    "if_success": "Great, your LinkedIn account appears on your resume.",
     "if_fail": "Include your LinkedIn account"
   },
   "phone_number": {
     "prompt": "Given the following text, check if it includes a phone number. Answer with True or False only. The text:",
     "desired_answer": "True",
-    "if_success": "a",
+    "if_success": "Your phone number appears on your resume, that's good.",
     "if_fail": "Provide your phone number"
   },
   "github": {
     "prompt": "Given the following text, check if it includes github address. Answer with True or False only. The text:",
     "desired_answer": "True",
-    "if_success": "a",
+    "if_success": "Your Github account appears on your resume, that's good.",
     "if_fail": "It is preferred to Include your GitHub account, if you have one."
   },
   "personal_info": {
     "prompt": "Given the following text, check if it include ‘Id number’, ‘gender’, ‘marital status’, ‘date of birth’, ‘age’ or ‘number of children’ answer True if it include anyone of them otherwise Answer False. The text:",
     "desired_answer": "False",
-    "if_success": "a",
+    "if_success": "ID number, gender, marital status, date of birth, age or number of children. That's good.",
     "if_fail": "Avoid including personal information like ID number, gender, marital status, date of birth, age, or number of children."
   },
   "related_experience": {
