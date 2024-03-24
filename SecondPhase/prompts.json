@@ -1,0 +1,22 @@
+{
+  "wordCount": "answer only with True or False, Given the following number, check if the number is between 300 - 600, if it is answer True, Answer False otherwise. the number: ",
+  "residence_location": "answer only with True or False, Make sure that the following text has no address or any location mentioned. Answer by true or false only. The text: ",
+  "email_address": "answer only with True or False, Check if the following text includes an email address.  Answer with true or false only. The text: ",
+  "linkedIn_account": "answer only with True or False, Given the following text, check if it includes LinkedIn address. Answer with true or false only. The text: ",
+  "phone_number": "answer only with True or False, Given the following text, check if it includes a phone number. Answer with true or false only. The text: ",
+  "github": "answer only with True or False, Given the following text, check if it includes github address. Answer with true or false only. The text: ",
+  "personal_info": "answer only with True or False, Given the following text, check if it include ‘Id number’, ‘gender’, ‘marital status’, ‘date of birth’, ‘age’ or ‘number of children’ answer True if it include anyone of them otherwise Answer False. The text:  ",
+  "related_experience": "answer only with True, False or None, Given the following text, check how many roles are related to computer science/ engineering field, if most of the roles are related to these fields and they do not exceed 3 roles answer True, Answer False if they exceed 3, and if most of the roles are not related answer None. The text: ",
+  "not_related_experience": "answer only with True, False or None: Given the following text, check how many roles are related to computer science/ engineering field, if more than half of the roles are not related, check if num of roles exceed 5 , if it is answer True, if not answer False, and if most of them are related answer None. The text: ",
+  "work_experience_order": "answer only with True or False, Given the following text, check if they appear in decreasing order by the end year. Answer True if they appear in order, false otherwise. The text: ",
+  "volunteering": "answer only with True or False, Given the following text, check if it exceed 3 volunteering experiences, if it does answer True, otherwise Answer False. The text: ",
+  "volunteering_description": "answer only with True or False, Given the following text, check if each volunteering experience includes a concise description, Answer True if it does, False otherwise. The text: ",
+  "technical_skills": "answer only with True or False, Given the following text, check if it include at least 4 technical skills related to computer science/ engineering field, if it include Answer True, Answer False otherwise. The text: ",
+  "soft_skills": "answer only with True or False, Given the following text, check if it include at least 4 soft skills related to computer science/ engineering field, if it include Answer True, Answer False otherwise. The text: ",
+  "education_background": "answer only with True or False, Given the following text, check if it includes at least one very relevant educational background for hi-tech roles, if it does answer True, False otherwise. The text: ",
+  "education_center": "answer only with True or False, Given the following text, check if it includes an educational center name, if it does answer True, False otherwise. The text: ",
+  "education_grad_year": "answer only with True or False, Given the following text, check if it includes graduation year, if it does answer True, False otherwise. The text: ",
+  "projects": "answer only with True or False, Given the following text, check if it include 3 to 5 projects, if it does answer True, False otherwise. The text: ",
+  "projects_relevant": "answer only with True or False, Given the following text, check if the projects are relevant to computer science/ engineering, if it does answer True, False otherwise. The text: ",
+  "project_description": "answer only with True or False, Given the following text, check if each project includes a concise description, Answer True if it does, False otherwise. The text: "
+}

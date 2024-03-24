@@ -1,35 +1,56 @@
+import json
+
+
 class Response:
-    def __init__(self, result_json, spelling_errors):
+    def __init__(self, result_json, notes_file):
         """
         Initialize the Response object with results from checks and spelling errors.
 
         :param result_json: JSON object containing the results of various checks
-        :param spelling_errors: List of strings representing spelling errors
+        :param notes_file: notes_file path
+
+        result_json = {'related_experience': 'True',
+                        'wordCount': 'False',
+                        'residence_location': 'True',
+                        'email_address': 'True',
+                        'linkedIn_account': 'False',
+                        'phone_number': 'True',
+                        'github': 'False',
+                        'personal_info': 'False',
+                        'not_related_experience': 'True',
+                        'work_experience_order': 'False',
+                        'volunteering': 'False',
+                        'volunteering_description': 'True',
+                        'technical_skills': 'False',
+                        'soft_skills': 'False',
+                        'education_background':
+                        'True', 'education_center':
+                        'True', 'education_grad_year':
+                        'True', 'projects': 'False',
+                        'projects_relevant': 'True',
+                        'project_description': 'True'}
+
         """
         self.result_json = result_json
-        self.spelling_errors = spelling_errors
+        self.notes_file = notes_file
 
-    def generate_response(self):
-        """
-        Generate a comprehensive response based on the check results and spelling errors.
 
-        :return: A formatted string containing the response to be given to the user.
-        """
-        responses = []
 
-        for check, result in self.result_json.items():
-            if result.lower() == "no":
-                response = f"✅ {check.replace('_', ' ')} check passed."
+    def generate_notes(self):
+        notes = readJsonFIle(self.notes_file)
+        generated_notes = []
+        for key in self.result_json.keys():
+            if self.result_json[key].lower() == notes[key]['desired_answer'].lower():
+                generated_notes.append(notes[key]['if_success'])
+            elif self.result_json[key].lower() == 'none':
+                # figure this out!!
+                pass
             else:
-                response = f"❌ {check.replace('_', ' ')} check failed: {result}."
-            responses.append(response)
-
-        if self.spelling_errors:
-            spelling_response = "Found spelling errors: " + ", ".join(self.spelling_errors)
-            responses.append(spelling_response)
-        else:
-            responses.append("✅ No spelling errors found.")
-        final_response = "\n".join(responses)
-        return final_response
+                generated_notes.append(notes[key]['if_fail'])
+        return generated_notes
 
 
+def readJsonFIle(path):
+    with open(path) as f:
+        data = json.load(f)
+    return data

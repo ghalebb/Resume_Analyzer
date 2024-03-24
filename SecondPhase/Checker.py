@@ -1,8 +1,8 @@
+import concurrent.futures
 import json
 import os.path
-
+import time
 import google.generativeai as genai
-from google.generativeai.types import GenerateContentResponse
 
 
 class Checker:
@@ -16,6 +16,8 @@ class Checker:
     """
 
     def __init__(self, key, pathOrJson, misspelling=None):
+        self.prompt_dict = readJsonFIle('prompts.json')
+        self.checks = readJsonFIle('checker_info.json')
         genai.configure(api_key=key)
         if type(pathOrJson) == str:
             if not os.path.exists(pathOrJson):
@@ -32,53 +34,47 @@ class Checker:
             self.spelling = self.json["Spelling"]
 
         self.model = genai.GenerativeModel('gemini-pro')
-        self.checks = [
-            {"Checker": "residenceLocation", "data_key": ["PersInfo"], "check_function": self.checkResidence},
-        ]
 
-    def get_labels(self):
-        return self.labels
+
+    def check(self, checker_name, data):
+        prompt = self.prompt_dict[checker_name]
+        return self.model.generate_content(prompt + data)
+
+
+    # def get_labels(self):
+    #     return self.labels
 
     def get_spelling(self):
         return self.spelling
 
-    def checkResidence(self, data: str) -> GenerateContentResponse:
-        PROMPT = "Check the string that between brackets if it contain a residence location, and if it contain only say yes " \
-                 "otherwise say no. The string is : "
-        # Simulate checking the personal info string
-        return self.model.generate_content(PROMPT + data)
-
-    ## TODO : Add more checks here
+    def extract_data(self, data_key):
+        data = ""
+        if isinstance(self.json["Labels"][data_key], str):
+            data += self.json["Labels"][data_key] + " "
+        else:
+            for i in self.json["Labels"][data_key]:
+                if isinstance(i, dict):
+                    for key, value in i.items():
+                        data += f"{key}: {value} "
+                else:
+                    data += " ".join(map(str, i)) + " "
+        return data
 
     def apply_checks(self):
-
+        start_time = time.time()
         results = {}
         for check in self.checks:
-            data_keys = check["data_key"]
-            check_function = check["check_function"]
+            data_key = check["data_key"]
             checker = check["Checker"]
-            data = ""
-            for data_key in data_keys:
-                data += self.json["Labels"][data_key] + " "
-            result = check_function(data)
-            if result.text != "yes" and result.text != "no":
+            data = self.extract_data(data_key)
+            result = self.check(checker, data)
+            if result.text.lower() != "true" and result.text.lower() != "false" and result.text.lower() != "none":
                 raise ValueError("Invalid response")
             results[checker] = result.text
+        end_time = time.time()
+        elapsed_time = end_time - start_time
+        print(f"Elapsed time: {elapsed_time} seconds")
         return results
-
-
-"""
-{ 
-Checker "residenceLocation" : Yes or No , 
-
-
-
-
-
-}
-
-
-"""
 
 
 
