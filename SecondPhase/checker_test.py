@@ -2,7 +2,7 @@ from Checker import Checker
 from Response import Response
 
 file_path = 'template.json'
-GOOGLE_API_KEY = 'AIzaSyC7t6rx9qAaFR7uSRKbWxY4EdgA9fN71Qk'
+GOOGLE_API_KEY = ''
 
 checker = Checker(GOOGLE_API_KEY, file_path)
 result = checker.apply_checks()
