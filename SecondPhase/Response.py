@@ -34,20 +34,20 @@ class Response:
         self.result_json = result_json
         self.notes_file = notes_file
 
-
-
     def generate_notes(self):
         notes = readJsonFIle(self.notes_file)
         generated_notes = []
         for key in self.result_json.keys():
             if self.result_json[key].lower() == notes[key]['desired_answer'].lower():
-                generated_notes.append(notes[key]['if_success'])
-            # elif self.result_json[key].lower() == 'none':
-            #     # figure this out!!
-            #     pass
+                generated_notes.append(notes[key]['if_success'] + '\n')
+            # todo handle cases where the tag does not appear
+
+            elif self.result_json[key].lower() == 'none':
+                # figure this out!!
+                pass
             else:
-                generated_notes.append(notes[key]['if_fail'])
-        return generated_notes
+                generated_notes.append(notes[key]['if_fail'] + '\n')
+        return " ".join(generated_notes)
 
 
 def readJsonFIle(path):

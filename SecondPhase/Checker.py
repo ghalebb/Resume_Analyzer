@@ -35,11 +35,9 @@ class Checker:
 
         self.model = genai.GenerativeModel('gemini-pro')
 
-
     def check(self, checker_name, data):
         prompt = self.prompt_dict[checker_name]
         return self.model.generate_content(prompt + data)
-
 
     # def get_labels(self):
     #     return self.labels
@@ -80,7 +78,6 @@ class Checker:
         elapsed_time = end_time - start_time
         print(f"Elapsed time: {elapsed_time} seconds")
         return results
-
 
 
 def readJsonFIle(path):
