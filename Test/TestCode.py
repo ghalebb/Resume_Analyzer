@@ -12,9 +12,11 @@ def checkPreprocess():
     cleanText, misspelling = p.preprocess()
     return cleanText, misspelling
 
+def append_data(result):
+    with open("output.txt", "w") as f:
+        f.write(str(result))
+        print('succeed')
 
-def checkInformationExtractor():
-    pass
 
 
 def CheckSecondPhase():
@@ -26,7 +28,9 @@ def CheckSecondPhase():
     res = Response(results,"./SecondPhase/notes.json")
     recommendations = res.generate_notes()
     print(recommendations)
+    return recommendations
 
 if __name__ == '__main__':
     # print(checkPreprocess())
-    CheckSecondPhase()
+    recommendations = CheckSecondPhase()
+    append_data(str([RESUME_RAW_TEXT_PATH, LABEL_DATA_PATH,recommendations]))

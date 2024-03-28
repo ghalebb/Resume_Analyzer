@@ -19,12 +19,15 @@ class Checker:
         self.prompt_dict = readJsonFIle('./SecondPhase/prompts.json')
         self.checks = readJsonFIle('./SecondPhase/checker_info.json')
         genai.configure(api_key=key)
-        if type(pathOrJson) == str:
+
+        #todo move json opening to main file, after first phase is done
+        if type(pathOrJson) is str:
             if not os.path.exists(pathOrJson):
                 raise ValueError("File not found")
             self.json = readJsonFIle(pathOrJson)
         else:
             self.json = pathOrJson
+
         self.labels = self.json["Labels"]
 
         # This could be passed inside the json file and as a list
@@ -38,9 +41,6 @@ class Checker:
     def check(self, checker_name, data):
         prompt = self.prompt_dict[checker_name]
         return self.model.generate_content(prompt + data)
-
-    # def get_labels(self):
-    #     return self.labels
 
     def get_spelling(self):
         return self.spelling
@@ -67,6 +67,7 @@ class Checker:
             data_key = check["data_key"]
             checker = check["Checker"]
             data = self.extract_data(data_key)
+            #todo check if the tag does not appear in json file
             if data is None:
                 results[checker] = ""
             else:
@@ -78,6 +79,7 @@ class Checker:
         elapsed_time = end_time - start_time
         print(f"Elapsed time: {elapsed_time} seconds")
         return results
+
 
 
 def readJsonFIle(path):

@@ -40,6 +40,7 @@ class Response:
         for key in self.result_json.keys():
             if self.result_json[key].lower() == notes[key]['desired_answer'].lower():
                 generated_notes.append(notes[key]['if_success'] + '\n')
+
             # todo handle cases where the tag does not appear
 
             elif self.result_json[key].lower() == 'none':

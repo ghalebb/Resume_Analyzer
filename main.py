@@ -35,18 +35,27 @@ def firstPhase(path):
 def secondPhase(key, labeledData, misspelling):
     checker = Checker(key, labeledData, misspelling)
     results = checker.apply_checks()
-    response = Response(results, checker.get_spelling())
-    recommendations = response.generate_response()
+    response = Response(results, './SecondPhase/notes.json')
+    recommendations = response.generate_notes()
     return recommendations
 
 
+def append_data(result):
+    with open("output.txt", "a") as f:
+        f.write(str(result))
+        print('succeed')
+
+
 def main():
+    resumes = []
     args = parse_arguments()
     check_arguments(args)
-    labeledData, misspelling = firstPhase(args.path)
-    recommendations = secondPhase(args.key, labeledData, misspelling)
-    print(recommendations)
-    pass
+    # todo check how we get the resumes
+    for resume in resumes:
+        labeled_data, misspelling = firstPhase(resume)
+        if labeled_data is not None:
+            recommendations = secondPhase(args.key, resume, labeled_data)
+            append_data(str([resume, labeled_data, recommendations]))
 
 
 if __name__ == '__main__':
