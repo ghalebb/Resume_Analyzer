@@ -1,0 +1,7 @@
+{
+    "skills": "Scripting Languages: Power Shell, YAML, Groovy, Bash, Python\nOperating System: Linux, Windows, Mac OS\nVersion Management Tools: GIT, GIT Lab, BITBUCKET, SVN\nCI/CD Tool: Jenkins, Spin Cloud, CODE PIPELINES\nDeployment: Dockers, Kubernetes, uDeploy\nBuild Tool: Maven, MS BUILD, Code Build\nMonitoring Tool: AWS Cloud Watch, ELK, Splunk, Grafana, Prometheus\nTicket Management Tool: JIRA, Secure24, Radar (Apple Inc)\nCloud Services: AWS, GCP\nConfiguration Tool: Ansible, Terraform, Whisper\nBinary Management tools: JFROG Artifactory\nWeb Servers & Application Servers: Apache Tomcat",
+    "education": "The provided resume does not contain any education-related information. Therefore, no output can be generated.",
+    "work_exp": "[{\"name\":\"Senior Software Engineer\"},{\"name\":\"Software engineer\"},{\"name\":\"DevOps Engineer\"},{\"name\":\"DevOps Engineer\"}]",
+    "personal_info": "[\"label\":\"Person\",\"ID\":\"p1\",\"Email\":\"ad4hyc@r.postjobfree.com\"},\n[\"label\":\"Person\",\"ID\":\"p2\",\"Email\":\"\"}",
+    "volunteer_info": "No volunteer work entities were found in the provided text."
+}

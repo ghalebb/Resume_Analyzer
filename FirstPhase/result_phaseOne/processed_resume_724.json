@@ -1,0 +1,7 @@
+{
+    "skills": "Selenium WebDriver, Quality Centre, HP Service Centre, JIRA, ALM, Informatica Power centre 8.6, Oracle 10g/11g, Server Studio, SQL, PL/SQL, Java, Cucumber, TestNG, Windows 10 and Mac, UNIX, SOAP UI, Agile",
+    "education": "[\"Edu1\":{\"degree\":\"B.E (CSE)\",\"university\":\"TJS Engineering College (Anna University)\",\"graduationDate\":\"2010\"},\n\"Edu2\":{\"degree\":\"Standard XII\",\"university\":\"Revoor Padmanaba Higher Secondary School\",\"graduationDate\":\"2006\"},\n\"Edu3\":{\"degree\":\"Standard X\",\"university\":\"St Pauls Mahajana Higher Secondary School\",\"graduationDate\":\"2004\"}]",
+    "work_exp": "[{\"name\":\"Value Source Technologies\"},{\"name\":\"Cognizant\"},{\"name\":\"Accenture\"},{\"name\":\"KBC\"}]",
+    "personal_info": "[\n {\"label\":\"Person\",\"ID\":\"p1\",\"Email\":\"ad277z@r.postjobfree.com\"},\n {\"label\":\"Person\",\"ID\":\"p2\",\"Name\":\"Janaki\",\"Date of Birth\":\"04-06-1989\",\"Gender\":\"Female\",\"Marital Status\":\"Married\",\"Nationality\":\"Indian\",\"Languages Known\":\"Tamil, English\",\"Permanent Address\":\"No: 26/33A Iyya Pillai St,Kaladipet,TVT,Ch-19\"}\n]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

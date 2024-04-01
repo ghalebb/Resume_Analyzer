@@ -1,0 +1,7 @@
+{
+    "skills": "Selenium, JavaScript, Python (Numpy, Pandas, Scikit-Learn), React JS / Redux JS, ASP.NET, Java / Kotlin, C# / C++, Bootstrap 4",
+    "education": "[\"Edu1\":{\"degree\":\"Master of Philosophy in Cyber Security\",\"university\":\"Bath Spa University\",\"graduationDate\":null},\n\"Edu2\":{\"degree\":\"Master of Science\",\"university\":\"Shaheed Zulfiqar Ali Bhutto Institute of Science and Technology\",\"graduationDate\":\"08/2020\"},\n\"Edu3\":{\"degree\":\"Bachelor of Science\",\"university\":\"Muhammad Ali Jinnah University\",\"graduationDate\":\"01/2018\"}\n]",
+    "work_exp": "[{\"name\":\"IT Assurance Department\"},{\"name\":\"Al-Hussani Enterprises\"},{\"name\":\"Software Quality Assurance Engineer\"},{\"name\":\"Appsware Technologies\"}]",
+    "personal_info": "[\"label\":\"Person\",\"ID\":\"1\",\"Email\":\"ad12s4@r.postjobfree.com\"},\n{\"label\":\"Person\",\"ID\":\"2\",\"Name\":\"MUHAMMAD MOAZZAM\",\"Email\":\"ad12s4@r.postjobfree.com\"}]",
+    "volunteer_info": "The provided resume does not contain any volunteer work entities, so the output is an empty list.\n\n[]"
+}

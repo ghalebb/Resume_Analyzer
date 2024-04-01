@@ -1,0 +1,7 @@
+{
+    "skills": "Microsoft Word, Excel, PowerPoint, SQL, POWER BI, TABLEAU, PYTHON, MACHINE LEARNING",
+    "education": "[{\"Edu1\":{\"degree\":\"B.Tech. in Electronics and Communication Engg.\",\"university\":\"GITA,BBSR\",\"graduationDate\":\"2012\",\"score\":\"6.58 CGPA\"}},\n{\"Edu2\":{\"degree\":\"XII th \",\"university\":\"Mahabodhi College,Nalanda\",\"graduationDate\":\"2007\",\"score\":\"62 %\"}},\n{\"Edu3\":{\"degree\":\"X th \",\"university\":\"N.K.S High School Chicksaura,Nalanda\",\"graduationDate\":\"2005\",\"score\":\"68.57 %\"}}]",
+    "work_exp": "[{\"name\":\"Data Entry Operater\"}, {\"name\":\"SITE ENGINEER\"}, {\"name\":\"PROJECT ENGINEER\"}, {\"name\":\"PROJECT COORDINATOR\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"P000001\",\n    \"Email\": \"ad22do@r.postjobfree.com\"\n  },\n  {\n    \"label\": \"Person\",\n    \"ID\": \"P000002\",\n    \"Email\": null\n  }\n]",
+    "volunteer_info": "[]"
+}

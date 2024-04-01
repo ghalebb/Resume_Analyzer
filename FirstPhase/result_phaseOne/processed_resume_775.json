@@ -1,0 +1,7 @@
+{
+    "skills": "Amazon Web Services, IAM, EC2, ELB, EBS, Route 53, S3, AMI, Cloud Watch, Cloud Front, RDS, Lambda, VPC, Glacier, SQS, Dynamo DB, ANT, Maven, MySQL, Apache, Apache Tomcat, Nexus, SonarQube, Jenkins, AWS, AZURE, GCP, Ansible, Docker, Jenkins, Maven, Git, Kubernetes, Ansible, Nexus, Terraform, Jira, Git, GitHub, Gitlab, LINUX, Ubuntu, RHEL/CentOS, Windows, Mac OS, Nagios, Cloud watch, Cloud trail, Shell Scripting",
+    "education": "[\"Edu1\":{\"degree\":\"Bachelor of Engineering (B.E\",\"university\":\"MADURAI KAMARAJ UNIOVERSITY\u2013 INDIA\",\"graduationDate\":\"2002\"}]",
+    "work_exp": "[{\"name\":\"Citibank\"},{\"name\":\"Nace Solutions pvt ltd\"},{\"name\":\"IBM India Pvt Ltd\"},{\"name\":\"Embitel\"},{\"name\":\"Mindware Software Solution Pvt Ltd\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"p1\",\n    \"Email\": \"ad2tml@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

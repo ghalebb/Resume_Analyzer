@@ -1,0 +1,7 @@
+{
+    "skills": "HTML5, CSS, JavaScript, ReactJs, JQuery, Node.js, Python, DotNet, Java, PHP, MySQL, PostgreSQL, MongoDB, Git, SDLC, MEAN, MERN, Django, Bootstrap, Software Testing, Networking, Bug Fixing, Software Quality Assurance",
+    "education": "[\"Edu1\":{\"degree\":\"BS\",\"university\":\"Iqra University\",\"graduationDate\":\"2023\"},\n\"Edu2\":{\"degree\":\"F.Sc\",\"university\":\"Govt. Gordon College\",\"graduationDate\":\"2018\"},\n\"Edu3\":{\"degree\":\"Matric\",\"university\":\"Global School System\",\"graduationDate\":\"2016\"},\n]",
+    "work_exp": "[{\"name\":\"Full Stack Developer\"},{\"name\":\"Frontend Developer\"},{\"name\":\"Network Engineer\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"ZOHAIB ANJUM\",\n    \"ID\": \"P1\",\n    \"Email\": \"ad1yyu@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer entities found in this document."
+}

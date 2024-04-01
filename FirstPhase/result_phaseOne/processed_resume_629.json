@@ -1,0 +1,7 @@
+{
+    "skills": "Patience and perseverance towards achieving goal, Passionate about new technologies, Strong Organizational Skills, Ability to lead, follow and work well in a Team",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"B. TECH ELECTRONICS AND COMMUNICATION ENGINEERING\",\n      \"university\": \"PONNAIYA RAMAJAYAM INSTITUTE OF SCINCE AND TECHNOLOGY- TANJAVUR\",\n      \"graduationDate\": \"MAY 2019\"\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": \"DIPLOMA IN ELECTRONICS AND COMMUNICATION ENGINEERING\",\n      \"university\": \"AVC POLYTECHNIC COLLEGE- MAYILADUTHURAI\",\n      \"graduationDate\": \"APR 2012\"\n    }\n  },\n  {\n    \"Edu3\": {\n      \"degree\": \"SSLC\",\n      \"university\": \"SRINIVASA HIGHER SECONDARY SCHOOL - MELAIYUR\",\n      \"graduationDate\": \"MAR 2009\"\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"NETOWRK & SYSTEM ADMINISTRAOR\"},{\"name\":\"DESKTOP ENGINEER\"},{\"name\":\"DESKTOP SUPPORT ENGINEER\"},{\"name\":\"CUSTOMER SUPPORT ENGINEER\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"P01\",\n    \"Name\": \"ARUNKUMR MANOKARAN\",\n    \"Email\": null\n  },\n  {\n    \"label\": \"Person\",\n    \"ID\": \"P02\",\n    \"Name\": \"Manoharan T\",\n    \"Email\": null\n  },\n  {\n    \"label\": \"Person\",\n    \"ID\": \"P03\",\n    \"Name\": \"Anandhi M\",\n    \"Email\": null\n  }\n]",
+    "volunteer_info": "No volunteer work entities are mentioned in the provided resume, so an empty list is returned."
+}

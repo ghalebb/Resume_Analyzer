@@ -1,0 +1,7 @@
+{
+    "skills": "Java, Python, jQuery, JavaScript, SQL, Java Spring, MVC, JUnit, TestNG, JIRA, Oracle, MySQL, Redis, DynamoDB, HTML & CSS, Ajax, RESTful APIs, Linux, Ant, Maven, GitHub, Apache-Tomcat, AWS (IAM, ECS, API Gateway, S3, Lambda, Cloudwatch, SQS, SNS), Azure, Hadoop",
+    "education": "[Edu1:{\"degree\":\"Bachelors in Computer Science & Engineering\",\"university\":\"Visvesvaraya Technological University\",\"graduationDate\":\"Jul 2017\",\"gpa\":\"3.7/4.0\"}]",
+    "work_exp": "[{\"name\":\"Associate Consultant\"}, {\"name\":\"Capgemini Technology Services India Ltd\"}, {\"name\":\"Associate Software Engineer\"}, {\"name\":\"Utthunga Engineering Transformation\"}]",
+    "personal_info": "[{\n\"label\":\"Person\", \n\"ID\":\"001\", \n\"Name\":\"Shobana Pattanada Kotresh\", \n\"Email\":\"ad39oy@r.postjobfree.com\"\n}]",
+    "volunteer_info": "The resume does not contain any volunteer experiences."
+}

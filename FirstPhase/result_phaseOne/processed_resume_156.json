@@ -1,0 +1,7 @@
+{
+    "skills": "Programming Languages: C/C++, C#, ADO.NET, SQL, HTML, JavaScript, Visual Basic, PERL, Java\nOperating Systems and Software\nOther: SSL Certificates, FTP, DNS, Reverse DNS, DHCP, Network Load Balancing, VPN, Database Mirroring",
+    "education": "[\n  {\n    \"id\": \"Edu1\",\n    \"degree\": \"Bachelor of Science\",\n    \"university\": \"Fort Lauderdale University\",\n    \"graduationDate\": \"May 2004\",\n    \"major\": \"Computer Science\",\n    \"minor\": \"Chemistry\"\n  }\n]",
+    "work_exp": "[{\"name\":\"DIRECTORY.COM, INC.\"},{\"name\":\"HBM \u2013 Printing Division\"},{\"name\":\"Connecting Point Technology Center\"},{\"name\":\"KFC\"}]",
+    "personal_info": "[{\"Name\":\"Employee Name\",\"ID\":\"e0\",\"Email\":\"Employee Email\"}]",
+    "volunteer_info": "No volunteer work entities found."
+}

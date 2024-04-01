@@ -1,0 +1,7 @@
+{
+    "skills": "Amazon Web Services (AWS), Open Stack, C/ C++, Python, Java, Mongo DB, PostgreSQL, MySQL, HTML/HTML5, JavaScript, CSS/CSS3, JQuery, XML, AngularJS/Angular2, Node JS (npm and bower), React.js, JSON, Git, GitHub, GitLab, Bitbucket, SVN, Perforce, Shell Scripting, Apache Tomcat, Grunt, Gulp, SOAP (XML), REST API, Unix/Linux, Windows, Mac OSX, Visual Studio, Eclipse, Postman, Sublime Text, Spring Framework, Cordova, JBoss, JIRA, Karma",
+    "education": "No education information is present in the provided resume. Therefore, an empty list is returned as per the instruction.\n\n[]",
+    "work_exp": "[{\"name\":\"Centene Corporation\"},{\"name\":\"TD Auto Finance\"},{\"name\":\"Well care\"},{\"name\":\"Charles Schwab\"},{\"name\":\"SunTrust Bank\"}]",
+    "personal_info": "[{\"Name\":\"Amrita Singh\",\"ID\":\"1\",\"Email\":\"ad4bgc@r.postjobfree.com\"}]",
+    "volunteer_info": "[]"
+}

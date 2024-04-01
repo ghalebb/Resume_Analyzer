@@ -1,0 +1,7 @@
+{
+    "skills": "Jenkins, Agile Methodologies (Scrum and Kanban), Java, Eclipse, Selenium Web Driver, SonarQube, Junit Testing, Asp.Net, Entity framework, SQL, Azure, Auth0, Angular, Typescript, Bootstrap, Lean Manufacturing, Six Sigma, 5WHY, 5S, Kaizen, SWOT, Safety, Team Building, Kanban, DMAIC, DMADV, ASRS, Communication Skills, Management Skills",
+    "education": "[{\"Edu1\":{\"degree\":\"Masters of Business administration program: Global business and Strategy\",\"university\":\"National Taiwan Normal University\",\"graduationDate\":\"January 2017\",\"score\":\"90%\"}},\n{\"Edu2\":{\"degree\":\"Bachelor of Business Administration in Marketing\",\"university\":\"Saginaw Valley State University\",\"graduationDate\":\"May 2010\",\"score\":\"3.1\"}}\n]",
+    "work_exp": "[{\"name\":\"Associate Software Engineer\"},{\"name\":\"Revature\"},{\"name\":\"Quality Production Supervisor/Engineer\"},{\"name\":\"Ford Motor Company/Aerotek\"},{\"name\":\"Production Supervisor (Paint shop)\"},{\"name\":\"KCM/Chrysler Automotive\"},{\"name\":\"ESL Teacher\"},{\"name\":\"Korean Government Primary and Secondary Teacher\"}]",
+    "personal_info": "[{\"Name\":\"Carvell Wilkins\",\"ID\":\"1\",\"Email\":\"ad4doj@r.postjobfree.com\"}]",
+    "volunteer_info": "[{\"name\":\"ESL Teacher\"}]"
+}

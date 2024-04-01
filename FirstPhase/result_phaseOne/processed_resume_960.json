@@ -1,0 +1,7 @@
+{
+    "skills": "manual testing, automation testing -selenium web driver, JUnit,TestNG, SQL, Javascript, Java, HTML",
+    "education": "[{\"Edu1\":{\"degree\":\"Secondary Education\",\"university\":\"RBSE\",\"graduationDate\":\"2010\"}},\n{\"Edu2\":{\"degree\":\"Senior Secondary Education\",\"university\":\"RSOS(OPEN)\",\"graduationDate\":\"2013\"}},\n{\"Edu3\":{\"degree\":\"BCA\",\"university\":\"MLS UNIVERSITY UDAIPUR\",\"graduationDate\":\"2017\"}},\n{\"Edu4\":{\"degree\":\"MCA\",\"university\":\"MEFGI, RAJKOT\",\"graduationDate\":\"2019\", \"score\":\"6.60 CGPA\"}}\n]",
+    "work_exp": "[{\"name\":\"cellone network\"},{\"name\":\"GSC technology pvt ltd\"},{\"name\":\"Vishwakarma Building material\"}]",
+    "personal_info": "[{\"Name\":\"Bhavesh Suthar\",\"ID\":\"P1\",\"Email\":\"ad1kq6@r.postjobfree.com\"}]",
+    "volunteer_info": "[]"
+}

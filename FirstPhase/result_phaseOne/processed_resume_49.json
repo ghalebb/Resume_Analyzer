@@ -1,0 +1,7 @@
+{
+    "skills": "Objective-C, Swift, UIKit, SwiftUI, URLSession, Alamofire, Core Data, Realm, Git, GitHub, Bitbucket, XCTest, XCUITest, XCTest framework, MVC, MVVM, Toolbox, Cocoapods, Carthage, Jenkins, Fastlane, HTML 4, HTML 5, CSS2, CSS3, JavaScript, jQuery library",
+    "education": "[{\"Edu1\":{\"degree\":\"Bachelors in Computer Science\",\"university\":\"Acharya Nagarjuna University, India\",\"graduationDate\":\"2006\"}},\n {\"Edu2\":{\"degree\":\"Masters in Computer Applications\",\"university\":\"Kakatiya University, India\",\"graduationDate\":\"2009\"}}]",
+    "work_exp": "[{\"name\":\"Sr. iOS Developer\"},{\"name\":\"Sr. IOS Developer\"},{\"name\":\"Sr. IOS Developer\"},{\"name\":\"Sr. IOS Developer\"},{\"name\":\"IOS Engineer\"},{\"name\":\"UI Developer\"}]",
+    "personal_info": "[{\"Name\":\"SAKETHA\",\"ID\":\"1\",\"Email\":\"ad4hsk@r.postjobfree.com\"}]",
+    "volunteer_info": "The provided resume does not mention any volunteer experience, so the response should be an empty list."
+}

@@ -1,0 +1,7 @@
+{
+    "skills": "Product Management, Product Strategy, User Experience, Customer Experience, Project Management, Release Management, Portfolio Management, Agile Development, Data Management, Analytics, Business Intelligence, P&L Management, Market Research",
+    "education": "[\"Edu1\":{\"degree\":\"Master of Business Administration\",\"university\":\"Indian Institute of Management\",\"graduationDate\":null}, \n\"Edu2\":{\"degree\":\"Bachelor of Engineering\",\"university\":\"University of Mumbai\",\"graduationDate\":null}\n]",
+    "work_exp": "[{\"name\":\"Valenta\"},{\"name\":\"WA State DSHS\"},{\"name\":\"JLL Technologies\"},{\"name\":\"Amazon\"},{\"name\":\"Arvind Lifestyle Brands\"},{\"name\":\"Aditya Birla Group\"},{\"name\":\"Hexaware Technologies\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"p1\",\n    \"Email\": \"ad4g6v@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "[{\"name\":\"America India Tech Council\"},{\"name\":\"Sapta Inc\"},{\"name\":\"Product League\"},{\"name\":\"Seattle Artist League\"}]"
+}

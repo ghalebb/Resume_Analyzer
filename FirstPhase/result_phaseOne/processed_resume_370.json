@@ -1,0 +1,7 @@
+{
+    "skills": "Redhat-Linux, CentOS, Ubuntu, Windows Server 2003/2008/2012, AWS, Azure, ANT, Maven, Gradle, Jenkins, Bit Bucket, TFS, SVN, Nexus, Artifactory, SonarQube, Junit, Webhooks with Git/SVN, uDeploy, Bamboo, Chef, Puppet, Ansible and Terraform, Docker, Apache Mesos, Kubernetes, VMware, MySQL, MongoDB, Cassandra, PostgreSQL, SQL Server, CouchDB, Apache, IIS, HIS, Tomcat, WebSphere Application Server, JBoss, Shell scripting, Python, Vagrant, Perl scripting, HTML, CSS, and XML, Servlets, JSP, Splunk, Nagios, Monit, SolarWinds, Pandora FMS, JIRA, Remedy, Clear Quest",
+    "education": "There is no education information found in the provided resume. Therefore, an empty list is returned.\n\n[]",
+    "work_exp": "[{\"name\":\"Meijer\"},{\"name\":\"KPMG\"},{\"name\":\"D Square\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"Bhanu Teja Inturi\",\n    \"ID\": \"1\",\n    \"Email\": \"ad4bj1@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "The resume provided does not contain any volunteer work entities."
+}

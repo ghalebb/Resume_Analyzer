@@ -1,0 +1,7 @@
+{
+    "skills": "Communication, Managerial, Leadership",
+    "education": "[\"Edu1\":{\"degree\":\"Master of Science in Information Technology (M.SC.IT)\",\"university\":\"KSOU (KARNATAKA)\",\"graduationDate\":null,\"score\":\"74%\"},\n\"Edu2\":{\"degree\":\"Graduation\",\"university\":\"Himachal Pradesh University Shimla\",\"graduationDate\":null,\"score\":\"55%\"},\n\"Edu3\":{\"degree\":\"Intermediate\",\"university\":\"H.P.B.S.E.Dharamshala\",\"graduationDate\":null,\"score\":\"62%\"},\n\"Edu4\":{\"degree\":\"Higher Secondary (Class X)\",\"university\":\"H.P.B.S.E.Dharamshala\",\"graduationDate\":null,\"score\":\"56%\"}]",
+    "work_exp": "[{\"name\":\"GIS Technician\"},{\"name\":\"GIS Technician\"},{\"name\":\"GIS Editor/Specialist\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"p1\",\n    \"Email\": \"adusqw@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "[]"
+}

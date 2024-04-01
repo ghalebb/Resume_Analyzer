@@ -1,0 +1,7 @@
+{
+    "skills": "Windows Server 2016, Active Directory, Cloud Cannon: UI Designer, AWS EC2, Bucket, Log, CloudWatch, Cisco Routers, Cisco Switches, Routing Protocols: DHCP, RIP, EIGRP, OSPF, DNS, Web Development: HTML, CSS, JavaScript, React Js, Node Js, Mongoose and MySQL",
+    "education": "[\"Edu1\":{\"degree\":\"Bachelor of Technology\",\"university\":\"Dhanalakshmi Srinivasan Institute of Technology\",\"graduationDate\":\"2022\",\"score\":\"7.5CGPA\"}]",
+    "work_exp": "[{\"name\":\"System Admin (Trainee)\"},{\"name\":\"Associate Software Developer\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"p1\",\n    \"Email\": \"ad1qgm@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "[]"
+}

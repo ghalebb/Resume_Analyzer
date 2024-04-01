@@ -1,0 +1,7 @@
+{
+    "skills": "Excellent oral and written communication skills, Intermediate SAS, SQL expert, Intermediate Business Objects, MS Office Suite",
+    "education": "[\n  \"Edu1\": {\n    \"degree\": null,\n    \"university\": \"Coleman College\",\n    \"graduationDate\": null,\n    \"score\": null\n  },\n  \"Edu2\": {\n    \"degree\": null,\n    \"university\": \"William G. Enloe High School\",\n    \"graduationDate\": \"6/1976\",\n    \"score\": null\n  }\n]",
+    "work_exp": "[{\"name\":\"Technical Support Professional\"},{\"name\":\"Sofware Support Engineer\"},{\"name\":\"Sr. HR Business Analyst\"},{\"name\":\"Sr. Systems Analyst\"},{\"name\":\"Aviation Ordnance Man 5\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Name\",\n    \"id\": \"P1\",\n    \"Email\": \"ad4hsg@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

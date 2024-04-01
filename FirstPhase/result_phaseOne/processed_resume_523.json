@@ -1,0 +1,7 @@
+{
+    "skills": "Python programming, Google Cloud Platform (GCP), Pandas, NumPy, Matplotlib, SQL, Workday, MS Excel, Data Analysis, Data Manipulation, Data Visualization, AWS services, ETL (Extract, Transform, Load), BigQuery, Dataflow, Cloud Storage, Power BI, Tableau, Problem-Solving, Communication, Collaboration, Team Management, Power BI Reporting",
+    "education": "[\"Edu1\":{\"degree\":\"First Class in Bachelor\u2019s degree\",\"university\":\"JNTU Anantapur\",\"graduationDate\":\"2015\"}]",
+    "work_exp": "[{\"name\":\"Sr. Data Analyst\"}, {\"name\":\"Software Engineer\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"1\",\n    \"Name\": \"Hemasri Vaddikasula\",\n    \"Email\": \"ad4dw0@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "[]"
+}

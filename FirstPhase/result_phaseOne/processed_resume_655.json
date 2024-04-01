@@ -1,0 +1,7 @@
+{
+    "skills": "Java, Kotlin, Ruby, Python, Javascript, C#, Spring boot, Spring Webflux, .Net, Django, Fastify, Ruby on Rails(REST API), Kafka, Docker, Nginx, Ansible, Aurora Postgres, Postgre, Couchbase, MongoDB, Oracle, DynamoDB, Mysql, New Relic, Ants profiler, Elastic Search, Timestream, ELK, Jenkins, App dynamics, Nexus, Draw.io, Miro, Enterprise architect, Go-CD, Jenkins, Git, Google Cloud Platform, Amazon Web services",
+    "education": "[\"Edu1\":{\"degree\":\"B.E\",\"university\":\"Siddaganga Institute of Technology\",\"graduationDate\":\"2004-08\",\"score\":\"64%\"},\n\"Edu2\":{\"degree\":\"M. Tech\",\"university\":\"Rashtriya Vidyalaya College Of Engineering\",\"graduationDate\":\"2009-11\",\"score\":\"77.16%\"}}]",
+    "work_exp": "[{\"name\":\"Deserve Labs India Pvt Ltd\"},{\"name\":\"Thoughtworks Technologies India Pvt Ltd\"},{\"name\":\"Schneider Electric India Pvt Ltd\"},{\"name\":\"Unisys India Pvt Ltd\"},{\"name\":\"KFC\"},{\"name\":\"Teacher\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"PERSON-001\",\n    \"Email\": \"ad3m20@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "The provided resume does not contain any volunteer work entities, so an empty list has been returned.\n\n[]"
+}

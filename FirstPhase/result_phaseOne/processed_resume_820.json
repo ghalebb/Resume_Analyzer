@@ -1,0 +1,7 @@
+{
+    "skills": "LINUX, Oracle SQL, MySQL, Database testing, MS OFFICE, Agile, JIRA",
+    "education": "[\"Edu1\":{\"degree\":\"Bachelor of Engineering\",\"university\":\"string\",\"graduationDate\":\"2016\"}]",
+    "work_exp": "[{\"name\":\"Technical Support Engineer\"},{\"name\":\"Teacher\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"P1\",\n    \"Name\": \"PRASHANT KALE\",\n    \"Email\": \"ad2gol@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "The provided resume does not contain any volunteer work experiences."
+}

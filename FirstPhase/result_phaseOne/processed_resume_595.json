@@ -1,0 +1,7 @@
+{
+    "skills": "AutoCAD, SAP2000, STAAD Pro, REVIT, Tekla, RISA, Simpson strong tie, HILTI",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"Masters of Engineering (ME) in Structure\",\n      \"university\": \"GTU Board \\\"Sardar Vallabhbhai Patel Institute of Technology\",\n      \"graduationDate\": \"2019\",\n      \"score\": \"CPI- 7.4\"\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": \"Bachelors of Engineering in Civil Engineering\",\n      \"university\": \"GTU Board \\\"Sigma Institute of Engineering\",\n      \"graduationDate\": \"2016\",\n      \"score\": \"CGPA- 6.94\"\n    }\n  },\n  {\n    \"Edu3\": {\n      \"degree\": \"Diploma in Civil Engineering\",\n      \"university\": \"GTU Board \\\"RMS Polytechnic\",\n      \"graduationDate\": \"2013\",\n      \"score\": \"CGPA- 7.32\"\n    }\n  },\n  {\n    \"Edu4\": {\n      \"degree\": \"SSC\",\n      \"university\": \"Gujarat Secondary Education Board (GSEB)\",\n      \"graduationDate\": \"2010\",\n      \"score\": \"Marks-70.77%\"\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"Lecturer\"},{\"name\":\"Design Engineer\"},{\"name\":\"Structure Engineer\"},{\"name\":\"Structure Associate Engineer\"}]",
+    "personal_info": "[{\"Name\":\"Vikas Bipinbhai Solanki\",\"ID\":\"1\",\"Email\":\"ad31ve@r.postjobfree.com\"}]",
+    "volunteer_info": "No volunteer work entities found."
+}

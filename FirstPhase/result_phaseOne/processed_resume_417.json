@@ -1,0 +1,7 @@
+{
+    "skills": "MS Windows 7, 8, 10, 11, MS Active Directory, VMware, Fusion, Citrix, Teamviewer, Radmin, Okta, MS Exchange, Intune, Azure, VMware VDI, printers, audio visual equipment, network issues",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"Associate Degree\",\n      \"university\": \"Computer Systems Institute\",\n      \"graduationDate\": \"1983\",\n      \"score\": null\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"Service Desk Analyst\"},{\"name\":\"Computer Technician\"},{\"name\":\"Senior Micro-Systems Engineer\"},{\"name\":\"Team Lead\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"P1\",\n    \"Name\": \"Mark S. Campitella\",\n    \"Email\": null\n  }\n]",
+    "volunteer_info": "[]"
+}

@@ -1,0 +1,7 @@
+{
+    "skills": "React Js, C#, .net core api, TypeScript, JavaScript, SQL SERVER, Jenkins, JIRA, AGILE SCRUM, ReactJS, .net core web API, Rest Api, CICD, RabbitMQ, Typescript, SQL, ASP.NET, JS, NODE JS, WCF, LINQ, WEB SERVICE",
+    "education": "[\n \"Edu1\": {\n  \"degree\": \"Bachelor of Engineering\",\n  \"university\": \"Amrutvahini College of Engineering\",\n  \"graduationDate\": \"2010\"\n }\n]",
+    "work_exp": "[{\"name\":\"Param Info\"},{\"name\":\"Cognizant\"},{\"name\":\"Persistent system\"},{\"name\":\"Allstate Solutions Pvt ltd\"},{\"name\":\"Davzon Pvt. Ltd\"},{\"name\":\"Open Destinations infotech Pvt ltd\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"Ganesh Gadekar\",\n    \"ID\": \"P1\",\n    \"Email\": \"advj89@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "The provided resume does not contain any volunteer work entities."
+}

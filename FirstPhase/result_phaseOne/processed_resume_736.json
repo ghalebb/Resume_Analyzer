@@ -1,0 +1,7 @@
+{
+    "skills": "MANUAL TESTING, CORE JAVA, SQL",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"ME\",\n      \"university\": \"Kings College of Engineering, Pudukkottai, Tamil Nadu.\",\n      \"graduationDate\": \"2019\",\n      \"score\": \"84.5%\"\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": \"BE\",\n      \"university\": \"Kings College of Engineering, Pudukkottai, Tamil Nadu.\",\n      \"graduationDate\": \"2017\",\n      \"score\": \"74.4%\"\n    }\n  },\n  {\n    \"Edu3\": {\n      \"degree\": \"HSC\",\n      \"university\": \"PVS Girls Higher Sec. School, Thanjavur, Tamil Nadu.\",\n      \"graduationDate\": \"2013\",\n      \"score\": \"76.9%\"\n    }\n  },\n  {\n    \"Edu4\": {\n      \"degree\": \"SSLC\",\n      \"university\": \"Auxilium Girls Higher Sec. School, Thanjavur, Tamil Nadu.\",\n      \"graduationDate\": \"2011\",\n      \"score\": \"77.8%\"\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"Lecturer\"}, {\"name\":\"Teacher\"}]",
+    "personal_info": "\"label\":\"string\",\"ID\":\"0001\",\"Email\":\"ad26oo@r.postjobfree.com\"",
+    "volunteer_info": "No volunteer experiences were found in the provided resume."
+}

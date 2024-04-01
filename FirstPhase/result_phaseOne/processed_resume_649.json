@@ -1,0 +1,7 @@
+{
+    "skills": "Quick learner, Good leadership skill, Team work, Active listening, English, Tamil, MS Excel, MS power point, MS Word",
+    "education": "[\n {\"Edu1\":{\"degree\":\"B. Tech\",\"university\":\"Mohamed Sathak Engineering College\",\"graduationDate\":\"2022\",\"score\":\"8.5\"}},\n {\"Edu2\":{\"degree\":\"12th\",\"university\":\"Noble matriculation higher secondary school\",\"graduationDate\":\"2018\",\"score\":\"86.25\"}},\n {\"Edu3\":{\"degree\":\"10th\",\"university\":\"Sharon matriculation higher secondary school\",\"graduationDate\":\"2016\",\"score\":\"89\"}}\n]",
+    "work_exp": "[{\"name\":\"Urea plant (Intern)\"}, {\"name\":\"Southern Petrochemical Industries Corporation Limited (SPIC)\"}]",
+    "personal_info": "[{\"Name\":\"RAJAGURU P\",\"ID\":\"p1\",\"Email\":\"rajagurupushparaj1234@gmail.com\"}]",
+    "volunteer_info": "[]"
+}

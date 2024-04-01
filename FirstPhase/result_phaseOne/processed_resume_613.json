@@ -1,0 +1,7 @@
+{
+    "skills": "Cloud Services - Amazon, Linode, Rackspace, Digital Ocean, Linux Server Administration, DevOps Tools - Ansible, Terraform, Kubernetes, APM Monitoring Tool - NewRelic, Nagios, Deployment Management - Jenkins, Puppet, Terraform, Incident management, Heroku, Website Analysis, Mail Services - Google, Rackspace, Postfix, Web Servers - Nginx, Apache, Certbot, Database Languages - MySQL, PostgreSQL, Version Controllers - Git, Bitbucket, SVN, Network Administration, WHM / Cpanel, Operating Systems - Windows, Linux, Macintosh",
+    "education": "[\"Edu1\":{\"degree\":\"Bachelor of Engineering\",\"university\":\"Anna University, Chennai\",\"graduationDate\":\"2013\"}]",
+    "work_exp": "[{\"name\":\"Sonata Software Systems\"},{\"name\":\"APPCHROMATICS PVT LTD\"},{\"name\":\"Awata Software Systems Pvt Ltd\"},{\"name\":\"eGrove Systems Pvt Ltd\"},{\"name\":\"Yogapriya Agencies\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person Node\",\n    \"ID\": \"p1\",\n    \"Email\": \"ad3x1c@r.postjobfree.com\",\n    \"Name\": \"KishoreKumar Murugan\"\n  }\n]",
+    "volunteer_info": "[]"
+}

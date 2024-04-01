@@ -1,0 +1,7 @@
+{
+    "skills": "Programming Languages: Java, JavaScript, SQL, UNIX shell script, Angular, TypeScript, HTML, CSS, Python\nTechnologies: GCP, Sprint Boot, Apache Camel, J2EE, JSP, JDBC, Hibernate, JPA, MyBatis, Tibco AMX BW, JAX-WS, JMS, Sonic, Tomcat, Microservices, REST API, JBoss, Dialogflow CX, Terraform, TDD, SDLC, Agile/Scrum, Thunderhead / SmartCOMM, ServiceNow, Junit, Mockito\nDatabase Technologies: Oracle, Microsoft SQL, Google Datastore, BigQuery\nVersion Control: GitLab, Git, GitHub, SVN, and CVS\nDeveloping Tools: Eclipse, JBoss, IntelliJ, Oracle SQL Developer, SoapUI, Postman",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"Master of Computer Science\",\n      \"university\": \"University of Alabama at Birmingham\",\n      \"graduationDate\": null,\n      \"score\": null\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"THE HOME DEPOT\"},{\"name\":\"Senior System Engineer\"},{\"name\":\"KEMPER CORPORATION\"},{\"name\":\"Systems Software Developer 3\"},{\"name\":\"INFINITY INSURANCE\"},{\"name\":\"Chief Software Engineer\"},{\"name\":\"Software Engineer\"},{\"name\":\"Client Server Programmer\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"P-1\",\n    \"Email\": \"ad4g3o@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer work entities were found in the resume provided."
+}

@@ -1,0 +1,7 @@
+{
+    "skills": "SELENIUM, SQL, MANUAL TESTING, AUTOMATION TESTING, ETL TESTING, PYTHON, AZURE, HTML, CSS",
+    "education": "[\"Edu1\":{\"degree\":\"BTech\",\"university\":\"Institute of Technical Education & Research\",\"graduationDate\":\"06/2018\",\"score\":\"8.27\"},\n\"Edu2\":{\"degree\":\"NA\",\"university\":\"Kendriya Vidyalaya\",\"graduationDate\":\"06/2014\",\"score\":\"74.2\"}]",
+    "work_exp": "[{\"name\":\"SOFTWARE QA ENGINEER 1\"},{\"name\":\"ASSOCIATE CONSULTANT\"}]",
+    "personal_info": "[\n{\n\"label\":\"Person\",\n\"ID\":\"p1\",\n\"Email\":\"ad2hpr@r.postjobfree.com\"\n}\n]",
+    "volunteer_info": "The provided resume does not contain any volunteer work experiences."
+}

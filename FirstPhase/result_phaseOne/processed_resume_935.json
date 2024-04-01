@@ -1,0 +1,7 @@
+{
+    "skills": "Structural analysis, Design and Execution, Repair and Rehabilitation, Compatibility with IS codes, Designing tools: Staad Pro, Designing tools: ETABS, Designing tools: SAP2000, Drafting tools: AutoCAD, Drafting tools: SolidWorks, Drafting tools: Sketch Up, Drafting tools: Revit, Other tools: Aadspro, Other tools: Estimax",
+    "education": "[\n  {\n    \"id\": \"Edu1\",\n    \"degree\": \"Ph.D.\",\n    \"university\": \"UPM Serdang, Malaysia\",\n    \"graduationDate\": \"Dec 2018 - Awaiting Viva\",\n    \"score\": null\n  },\n  {\n    \"id\": \"Edu2\",\n    \"degree\": \"M.Tech\",\n    \"university\": \"VIT Vellore, India\",\n    \"graduationDate\": \"2015 -2017\",\n    \"score\": null\n  },\n  {\n    \"id\": \"Edu3\",\n    \"degree\": \"B.Tech\",\n    \"university\": \"MES College of Engineering Kuttippuram, India\",\n    \"graduationDate\": \"2009 \u2013 2013\",\n    \"score\": null\n  }\n]",
+    "work_exp": "[{\"name\":\"Freelance\"}, {\"name\":\"Structural Designer\"}, {\"name\":\"Build-U Constructions Perinthalmanna\"}, {\"name\":\"Hands-on Trainer\"}, {\"name\":\"Coordinator\"}, {\"name\":\"Engineers Academy Manjeri\"}, {\"name\":\"Tutor\"}, {\"name\":\"S & R Consultants Kochi\"}, {\"name\":\"Trainee\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"1\",\n    \"Name\": \"AZOOM KOLOTHUM THODIKA\",\n    \"Email\": \"ad1pod@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer experiences found in the provided resume."
+}

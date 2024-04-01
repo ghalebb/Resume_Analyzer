@@ -1,0 +1,7 @@
+{
+    "skills": "Active Listening, Memory, Greeting, Verbal Communication",
+    "education": "No educational information is present in the provided resume, therefore an empty list should be returned.",
+    "work_exp": "[{\"name\":\"Office Boy\"},{\"name\":\"Waiter/Supervisor\"},{\"name\":\"Waiter\"},{\"name\":\"Waiter/Dietician Clerk\"},{\"name\":\"Waiter\"},{\"name\":\"Waiter\"},{\"name\":\"Waiter\"},{\"name\":\"Service Crew\"},{\"name\":\"Waiter\"}]",
+    "personal_info": "[{\"Name\":\"Cedric P. Jacalne\",\"ID\":\"P1\",\"Email\":\"adtc9u@r.postjobfree.com\"}]",
+    "volunteer_info": "The provided resume does not include any volunteer work entities."
+}

@@ -1,0 +1,7 @@
+{
+    "skills": "Operating Systems\nWindows/Linux/Unix\nETL Tools\nInformatica PowerCenter 10.2/9.6\nInformatica Intelligence Cloud Services (IICS)\nDatabases\nOracle DB/ MS SQL\nLanguages\nMYSQL\nScheduling Tools\nAutosys",
+    "education": "[\"Edu1\":{\"degree\":\"Master of commerce\",\"university\":\"Osmania University\",\"graduationDate\":\"2001\"},\"Edu2\":{\"degree\":\"Bachelor of Commerce\",\"university\":\"Osmania University\",\"graduationDate\":\"1999\"}]",
+    "work_exp": "[{\"name\":\"Sogeti\"},{\"name\":\"Sogeti\"},{\"name\":\"Optum Government solutions\"},{\"name\":\"DaVita Medical Group Inc\"},{\"name\":\"Health Care Service Corporation (BCBS/HCSC)\"},{\"name\":\"KFC\"},{\"name\":\"Teacher\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"person_01\",\n    \"Email\": \"ad3834@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

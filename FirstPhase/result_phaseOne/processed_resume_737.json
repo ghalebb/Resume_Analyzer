@@ -1,0 +1,7 @@
+{
+    "skills": "Selenium, TestNG, Log4j, Jenkins, Github, Maven, Cucumber, C, C++, Core java, Data Structure, Html, PHP, CSS, Jira, SDLC model, STLC, Bud life cycle, Testing Principle, Automation Testing",
+    "education": "[{\"Edu1\":{\"degree\":\"Degree(IT)\",\"university\":\"Prof Ram Meghe Institude of Technology and Research\",\"graduationDate\":\"2019\",\"percentage\":\"7.07 CGPA\"}},\n{\"Edu2\":{\"degree\":\"Diploma\",\"university\":\"Government Polytechnic, Murtizapur\",\"graduationDate\":\"2016\",\"percentage\":\"75.63\"}},\n{\"Edu3\":{\"degree\":\"SSC\",\"university\":\"Moharidevi Khandelwal School\",\"graduationDate\":\"2013\",\"percentage\":\"72.91\"}}]",
+    "work_exp": "[{\"name\":\"Lecturer\"},{\"name\":\"Software Tester Intern\"},{\"name\":\"Sales And Marketing Intern\"}]",
+    "personal_info": "[\n {\n  \"label\": \"Person\",\n  \"ID\": \"1\",\n  \"Name\": \"Sonal S. Dongare\",\n  \"Email\": \"ad26m0@r.postjobfree.com\"\n }\n]",
+    "volunteer_info": "No volunteer work entities are found in this resume."
+}

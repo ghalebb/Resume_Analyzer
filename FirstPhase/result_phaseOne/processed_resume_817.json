@@ -1,0 +1,7 @@
+{
+    "skills": "AutoCAD -2D, NX-CAD, Creo-Parametric, Ansys 14.0 (Structural and Fluid Analysis), Microsoft Office, German Language (A2)",
+    "education": "[\n  {\n    \"id\": \"Edu1\",\n    \"degree\": \"B.E (Mechanical)\",\n    \"university\": \"Pillai's Institute Of Information & Technology (PIIT), Navi Mumbai.\",\n    \"graduationDate\": \"2015\"\n  },\n  {\n    \"id\": \"Edu2\",\n    \"degree\": \"Diploma in Mechanical Engineering\",\n    \"university\": \"Agnel Polytechnic Institute, Navi Mumbai\",\n    \"graduationDate\": \"2011\"\n  },\n  {\n    \"id\": \"Edu3\",\n    \"degree\": \"S.S.C\",\n    \"university\": \"Holy Angels School\",\n    \"graduationDate\": \"2007\"\n  }\n]",
+    "work_exp": "[{\"name\":\"JADE RUBBER PRODUCTS PVT. LTD.\"},{\"name\":\"MITECH SYSTEMS PVT. LTD.\"},{\"name\":\"TRUPTI INDUSTRIES\"},{\"name\":\"DALAL ENGG. PVT LTD\"},{\"name\":\"CROMPTON GREAVES\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"Gautam Atul Dastane\",\n    \"ID\": \"p001\",\n    \"Email\": \"ad2hlm@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "The provided resume does not contain any volunteer work entities."
+}

@@ -1,0 +1,7 @@
+{
+    "skills": "- SQL\n- Tableau\n- JAVA\n- Crystal Report validation\n- ETL\n- Microsoft Office packages\n- Pivotal Tracker\n- RAPS\n- FERAS\n- SSIS\n- SharePoint\n- version one\n- Reqtrace Web\n- UML\n- MS Visio\n- BD2\n- HL7 V2.X\n- XML Schema\n- Interface Explorer\n- HIE tools\n- Microsoft Outlook\n- TFS\n- PHINMS\n- BizTalk Server\n- ADEPTIA\n- FACETS\n- MMIS\n- CMS\n- RQM\n- X12\n- SDLC\n- STLC\n- SOAPUI\n- EDI X12 837\n- EDI X12 834\n- EDI X12 270\n- EDI X12 271\n- EDI X12 276\n- EDI X12 277 CA\n- EDI X12 834\n- EDI X12 837\n- EDI X12 270\n- EDI X12 271\n- EDI X12 276\n- EDI X12 277 CA",
+    "education": "[\"Edu3\":{\"degree\":\"Bachelor of Science\",\"university\":\"Trichandara Multiple College\",\"graduationDate\":\"1999\"},\n\"Edu2\":{\"degree\":\"Master of Science\",\"university\":\"Tribhuban University\",\"graduationDate\":\"2003\"},\n\"Edu1\":{\"degree\":\"Master of Business Administration\",\"university\":\"Salem International University\",\"graduationDate\":\"2008\"}]",
+    "work_exp": "[{\"name\":\"Test Lead\"},{\"name\":\"Test lead HIE\"},{\"name\":\"Sr Software Test Lead Engineer\"},{\"name\":\"QA Analyst\"},{\"name\":\"Sr Software Engineer\"},{\"name\":\"Sr Software Test Engineer\"},{\"name\":\"Sr Quality Analyst\"},{\"name\":\"Quality Analyst\"}]",
+    "personal_info": "[\n  {\n    \"id\": \"p1\",\n    \"Name\": \"Santosh Acharya\",\n    \"Email\": null\n  }\n]",
+    "volunteer_info": "The provided resume does not mention any volunteer experiences, so I cannot extract the requested data from the provided context."
+}

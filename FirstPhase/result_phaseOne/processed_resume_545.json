@@ -1,0 +1,7 @@
+{
+    "skills": "Functional, Localization, Integration, Regression, Sanity, API, Accessibility testing and end to end testing, Test case writing, bug reporting, bug verification and defect tracking, Android studio, JIRA",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"B.E.\",\n      \"university\": \"Annamalai University\",\n      \"graduationDate\": \"2013\",\n      \"score\": \"82%\"\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": \"HSC\",\n      \"university\": \"Govt. Girls Higher secondary school\",\n      \"graduationDate\": \"2009\",\n      \"score\": \"68%\"\n    }\n  },\n  {\n    \"Edu3\": {\n      \"degree\": \"SSLC\",\n      \"university\": \"Sarasu Matriculation school\",\n      \"graduationDate\": \"2007\",\n      \"score\": \"80%\"\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"Lead Engineer\"},{\"name\":\"Senior Quality Service Associate\"},{\"name\":\"Quality Analyst\"}]",
+    "personal_info": "[{\"label\":\"Person\",\"ID\":\"P1\",\"Name\":\"CHANDRA JL\",\"Email\":\"ad4av0@r.postjobfree.com\"}]",
+    "volunteer_info": "[]"
+}

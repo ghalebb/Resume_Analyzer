@@ -1,0 +1,7 @@
+{
+    "skills": "C#, Web forms, ASP.NET, MVC, CSS, AJAX, JavaScript, jQuery, SharePoint, HTML, SignalR, Stored procedures, Function, MS SQL Server, ADO.NET, Visual Studio",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"MCA\",\n      \"university\": \"Dhanraj Baid Jain College\",\n      \"graduationDate\": null\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": \"BSC\",\n      \"university\": \"Wavoo Wajeeha Women\u2019s College\",\n      \"graduationDate\": null\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"SP Technologies\"},{\"name\":\"DSSI Solutions (India) Pvt. Ltd\"},{\"name\":\"TATA Consultancies Services\"},{\"name\":\"TATA Consultancies Services\"}]",
+    "personal_info": "[{\"label\":\"Person\",\"ID\":\"1\",\"Email\":\"ad1npm@r.postjobfree.com\",\"Name\":\"C.RAJESWARI\"}]",
+    "volunteer_info": "No volunteer experiences were found in the provided text."
+}

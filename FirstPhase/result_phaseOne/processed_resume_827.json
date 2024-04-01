@@ -1,0 +1,7 @@
+{
+    "skills": "AWS, Operating Systems, Python, Verilog, MATLAB, Office 365 Suite (Excel), Cadence Tool, Tinker CAD, Simulink, Tina pro, Arduino, Raspberry Pi, Agile, Scrum, Spiral Model, Feature-Driven Development, Waterfall, Relationship Management, Critical Thinking & Problem Solving, Receptiveness to Feedback, Communication Skills, Analytical Skills, Hardworking, Positive Attitude, Values Alignment, Result-Oriented Execution, Customer Focus, On-Time Performance, Team Player, Passion and Energy at Work",
+    "education": "[\n\"Edu1\": {\n\"degree\": \"Electronics & Comm. Engineering\",\n\"university\": \"Acropolis Institute of Technology & Research, Indore, MP\",\n\"graduationDate\": \"May-2023\",\n\"gpa\": \"7.8\"\n},\n\"Edu2\": {\n\"degree\": null,\n\"university\": \"Mount Carmel Higher Sec. School\",\n\"graduationDate\": null,\n\"gpa\": \"8.9\"\n}\n]",
+    "work_exp": "[{\"name\":\"KAM Perception analysis on BSVI vehicles\"},{\"name\":\"Machine Learning using Python\"},{\"name\":\"Basics of ML\"},{\"name\":\"Cyber security Basics\"},{\"name\":\"Developing and Deploying in IoT\"},{\"name\":\"AI for everyone\"},{\"name\":\"Treasurer, A.I.T.R\"},{\"name\":\"VE Commercial Vehicles\"},{\"name\":\"Cranes Varsity internship program\"},{\"name\":\"BAJA SAEINDIA\"},{\"name\":\"Egniter\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"Deeksha Sonawane\",\n    \"ID\": \"p1\",\n    \"Email\": \"ad2fk5@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "[{\"name\":\"BAJA SAEINDIA\"}]"
+}

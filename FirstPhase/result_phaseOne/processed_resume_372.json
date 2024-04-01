@@ -1,0 +1,7 @@
+{
+    "skills": "C#, MySQL, Cypress.io, HTML, Test Automation, Manual Testing, Smoke Testing, Unit Testing, Performance Testing, Regression Testing, Test Strategy, Accessibility Testing, Functional Testing, Test Driven Development, Load Testing, API Testing, Azure DevOps",
+    "education": "[\"Edu1\": {\"degree\":\"C# Programming\", \"university\":\"Bellevue College Continuing Education\", \"graduationDate\":\"2018\"},\n\"Edu2\": {\"degree\":\"Bachelor of Applied Science - Business Administration, Marketing, and German Communications\", \"university\":\"Aarhus School of Business\", \"graduationDate\":\"2014\"}]",
+    "work_exp": "[{\"name\":\"Provoke Solutions\"},{\"name\":\"XtremeLabs\"},{\"name\":\"Microsoft\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"Kasper Andersen\",\n    \"ID\": \"1\",\n    \"Email\": \"ad4bje@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "[]"
+}

@@ -1,0 +1,7 @@
+{
+    "skills": "ManualTesting, API Testing, Jira and Agile Methodology, PerformanceTesting, Selenium Automation Web Driver tool, Data Driven Framework, Key-word Driven Framework, Page Object Model, CoreJava, SQL, Operators, DDL, DML, DCL, TCL, JOINS, Sub-Queries, TablePlus",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"BCA\",\n      \"university\": \"Shivaji University, Kolhapur\",\n      \"graduationDate\": \"2020\"\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"QA engineer\"}, {\"name\":\"Quality Engineer Contractor\"}]",
+    "personal_info": "[{\"Name\":\"KOMALBHARATJADHAV\",\"ID\":\"P1\",\"Email\":\"ad2voa@r.postjobfree.com\"},{\"Name\":\"Bharat\",\"ID\":\"P2\",\"Email\":null}]",
+    "volunteer_info": "The provided resume does not contain any volunteer work experiences."
+}

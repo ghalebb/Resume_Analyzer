@@ -1,0 +1,7 @@
+{
+    "skills": "AutoCAD 2D, Ms office, Power Point",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"B.E Civil Engineering\",\n      \"university\": \"DHANALAKSHMI SRINIVASAN INSTITUTE OF RESEARCH AND TECHNOLOGY, PERAMBALUR\",\n      \"graduationDate\": \"2018\",\n      \"score\": \"60\"\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": \"HSC\",\n      \"university\": \"DHANALAKSHMI SRINIVASAN HIGHER SECONDARY SCHOOL\",\n      \"graduationDate\": \"2014\",\n      \"score\": \"72.6\"\n    }\n  },\n  {\n    \"Edu3\": {\n      \"degree\": \"SSLC\",\n      \"university\": \"RAJA VIGNESH HIGHER SECONDARY SCHOOL\",\n      \"graduationDate\": \"2012\",\n      \"score\": \"72\"\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"Site Engineer\"}, {\"name\":\"Design Engineer\"}]",
+    "personal_info": "[\n {\"label\":\"Person\",\"ID\":\"1\",\"Name\":\"RAJKUMAR S\",\"Email\":\"ad160a@r.postjobfree.com\"},\n {\"label\":\"Person\",\"ID\":\"2\",\"Name\":\"SELVARAJ\",\"Email\":\"\"},\n]",
+    "volunteer_info": "No volunteer-related entities found."
+}

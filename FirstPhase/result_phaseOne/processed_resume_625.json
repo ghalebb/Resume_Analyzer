@@ -1,0 +1,7 @@
+{
+    "skills": "API Testing, JIRA, Gitlab, Postman, SQL, SQA",
+    "education": "[{\"Edu1\":{\"degree\":\"Master of Computer Applications\",\"university\":\"Techno India College of Technology, Kolkata (WB)\",\"graduationDate\":\"2020\"},\n\"Edu2\":{\"degree\":\"Bachelor of Computer Applications\",\"university\":\"Siliguri Institution Of Technology,Siliguri (WB)\",\"graduationDate\":\"2018\"}}]",
+    "work_exp": "[{\"name\":\"Test Engineer (DAA)\"},{\"name\":\"Manual testing\"},{\"name\":\"Database testing\"},{\"name\":\"Mobile testing\"},{\"name\":\"Automation testing\"},{\"name\":\"Banking domain\"},{\"name\":\"Regression testing\"},{\"name\":\"Functional testing\"},{\"name\":\"End to End testing\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"id\": \"1\",\n    \"Name\": \"PRANAY SAHA\",\n    \"Email\": \"ad3un3@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "There are no volunteer work entities found in the provided resume text."
+}

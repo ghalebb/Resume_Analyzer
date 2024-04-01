@@ -1,0 +1,7 @@
+{
+    "skills": "Informatica, R, Python, ETL Frameworks, SQL, Power BI, Tableau, Excel",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"MASTER\u2019S IN SCIENCE IN BUSINESS ANALYTICS\",\n      \"university\": \"University of New Haven\",\n      \"graduationDate\": \"Dec 2023\"\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"ASSOCIATE SOFTWARE ENGINEER\"},{\"name\":\"Legato Health Technologies\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"GOPI\",\n    \"ID\": \"p1\",\n    \"Email\": \"chirumamilla@gmail.com\"\n  }\n]",
+    "volunteer_info": "[]"
+}

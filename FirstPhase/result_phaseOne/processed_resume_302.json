@@ -1,0 +1,7 @@
+{
+    "skills": "MERN Stack, Languages: Javascripts, TypeScript, HTML, CSS, SasS/Less, Databases: MongoDB, Platforms: Linux/Unix, Windows, MacOS, Frameworks: Angular 2+, Next.js, Nest.js, Ionic, Electron, Libraries: React.js, Redux, Angular Material, Angular CDK, RxJs, Ngrx,ngx-charts, Bootstrap, SignalR, socket.io, Highcharts.js, D3.js, JQuery, Dexie.js etc. , CI/CD: GIT, GitLab Toolkit: Node.js, Gulp, WebPack, pm2, TypeScript",
+    "education": "[\"Edu1\":{\"degree\":\"Master's Degree\",\"university\":\"National Technical University \\\"Kharkiv Polytechnic Institute\\\"\",\"graduationDate\":null},\n\"Edu2\":{\"degree\":\"Associate's Degree\",\"university\":\"National Technical University \\\"Kharkiv Polytechnic Institute\\\"\",\"graduationDate\":null},\n\"Edu3\":{\"degree\":\"Bachelor of Science\",\"university\":\"string\",\"graduationDate\":\"May 2022\"},\n\"Edu4\":{\"degree\":\"Bachelor of Science\",\"university\":\"string\",\"graduationDate\":\"May 2022\"}\n]",
+    "work_exp": "[{\"name\":\"Full Stack Software Engineer\"},{\"name\":\"Appliances Connection\"},{\"name\":\"Senior FrontEnd Developer\"},{\"name\":\"Optitech\"},{\"name\":\"Senior FrontEnd Developer\"},{\"name\":\"AntHouse\"},{\"name\":\"FrontEnd Developer\"},{\"name\":\"PlayKey\"},{\"name\":\"Junior FrontEnd Developer\"},{\"name\":\"SevenBe\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"Veselov Yurii\",\n    \"ID\": \"p1\",\n    \"Email\": \"ad4cxm@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "This resume does not contain any volunteer work entities."
+}

@@ -1,0 +1,7 @@
+{
+    "skills": "Projects Management, Installation and commissioning, Site management, Project handling, Problem solving, Fault analysis, Fire fighting system. Manufacturing Processes, Machining process, GD &T, Materials Selection and Proper- ties, Quality control, Six Sigma. AutoCAD and Solid works CAD tools, Microsoft Management Tool, Reading Drawing, Advance Excel, PPT, MS-360, ERP Portal.",
+    "education": "[\n    {\n        \"Edu1\":{\n            \"degree\":\"Bachelor of Technology\",\n            \"university\":\"Dr. A.P.J. Abdul Kalam Technical University\",\n            \"graduationDate\":\"2018\",\n            \"score\":null\n        }\n    },\n    {\n        \"Edu2\":{\n            \"degree\":\"Intermediate in science division\",\n            \"university\":\"Nehru Tutorials\",\n            \"graduationDate\":\"2014\",\n            \"score\":null\n        }\n    },\n    {\n        \"Edu3\":{\n            \"degree\":null,\n            \"university\":\"Aadarsh intermediate College\",\n            \"graduationDate\":\"2012\",\n            \"score\":null\n        }\n    }\n]",
+    "work_exp": "[{\"name\":\"Mechanical Engineer\"},{\"name\":\"Site Engineer\"},{\"name\":\"Mechanical Engineer\"}]",
+    "personal_info": "[{\"Name\":\"Faizan Ansari\",\"ID\":\"1\",\"Email\":\"ad33h3@r.postjobfree.com\"}]",
+    "volunteer_info": "The provided resume does not contain any volunteer work experiences."
+}

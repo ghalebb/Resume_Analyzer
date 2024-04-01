@@ -1,0 +1,7 @@
+{
+    "skills": "Generative AI, Business intelligence, Data analytics, Kubernetes and MLOps, Big Data tools, AWS, Azure, Dataiku Data Science Studio, Spark, HDInsight, Azure Kubernetes, Azure Blobs and Data Lake, Serverless framework, Rule-based engine design, Microservices architecture, Path Analysis (nPath), Attribution Modelling, Na\u00efve Bayes, Cluster Analysis, Text Analytics (n-gram), Graph analytics, Time series analysis, Hadoop, Cassandra, Kafka, Hive, HDP, Teradata Aster, Apache Solr, Zeppelin, Jupyter, Scala, Python, TensorFlow, Keras, R, Fast outlier detection, anomaly detection, SOM, Machine Learning, AI Engineering, AI Architect, Big Data Architect, Generative AI and ML Architect",
+    "education": "[\"Edu1\":{\"degree\":\"Bachelor\u2019s degree\",\"university\":\"State Polytechnic University\",\"graduationDate\":\"1990\"},\n\"Edu2\":{\"degree\":\"Bachelor\u2019s degree\",\"university\":\"Moscow University\",\"graduationDate\":\"2005\"},\n]",
+    "work_exp": "[{\"name\":\"Principal Big Data / Machine Learning / AI Architect\"}, {\"name\":\"Principal Big Data / Machine Learning Engineer\"}, {\"name\":\"Senior Data Engineer\"}, {\"name\":\"Big Data Lead\"}, {\"name\":\"Lead Data Scientist\"}, {\"name\":\"Senior Big Data Engineer / Data Scientist\"}, {\"name\":\"Senior BI and Data Science Developer\"}, {\"name\":\"Project Manager\"}]",
+    "personal_info": "[]",
+    "volunteer_info": "[]"
+}

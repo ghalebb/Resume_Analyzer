@@ -1,0 +1,7 @@
+{
+    "skills": "Java (OOPS concept), SQL (RDBMS), HTML (Web Technology), CSS (Designing), Java Script, Leadership, Collaboration, Communication, Optimism",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"B.Tech\",\n      \"university\": \"DBATU Loner, Chandrapur\",\n      \"graduationDate\": \"2022\",\n      \"score\": \"7.89 CGPA\"\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": \"Higher Secondary\",\n      \"university\": \"Maharashtra State Board\",\n      \"graduationDate\": \"2017\",\n      \"score\": \"54%\"\n    }\n  },\n  {\n    \"Edu3\": {\n      \"degree\": \"Secondary School\",\n      \"university\": \"Maharashtra State Board\",\n      \"graduationDate\": \"2015\",\n      \"score\": \"60%\"\n    }\n  }\n]",
+    "work_exp": "[]",
+    "personal_info": "[\n {\n  \"label\": \"Person\",\n  \"ID\": \"1\",\n  \"Name\": \"Prashant Khanekar\",\n  \"Email\": \"\u00aeX)ad2jmk@r.postjobfree.com \u00ae\u00a9\",\n  \"DOB\": \"12/10/1998\"\n }\n]",
+    "volunteer_info": "[]"
+}

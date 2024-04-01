@@ -1,0 +1,7 @@
+{
+    "skills": "Operating System : Windows, Linux,\nPackages : MS Office,\nDatabase : DB2, MySQL, OpenEdge,\nProgramming Languages : C,\nTesting : Manual testing,\nAutomation Testing Tools : SOAP UI, Burp Suite v1.3,\nDefect Tracking Tools : Bugzilla v3.6,ClearQuest,Test Management Tool,\nDomain Knowledge : Electricity Utilities, aPaas,Health Care",
+    "education": "[\"Edu1\":{\"degree\":\"B.Tech\",\"university\":\"Jawaharlal Nehru Technological University\u00a0(JNTU)\",\"graduationDate\":null},\n\"Edu2\":{\"degree\":\"MPC\",\"university\":\"Board of Intermediate Education\",\"graduationDate\":null}]",
+    "work_exp": "[{\"name\":\"NIRANT TECHNOLOGIES PVT LTD\"},{\"name\":\"Progress Software Development Pvt. Ltd\"},{\"name\":\"Phoenix IT Solutions Ltd\"}]",
+    "personal_info": "[]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

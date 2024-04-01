@@ -1,0 +1,7 @@
+{
+    "skills": "PHP, Yii, MySQL, AJAX, CodeIgniter, React.js, Node.js, HTML, CSS",
+    "education": "[\"Edu1\":{\"degree\":\"Class 12th\",\"university\":\"Raiganj Coronation High School\",\"graduationDate\":\"2009\",\"score\":\"61%\"},\n\"Edu2\":{\"degree\":\"B.sc In Information Technology\",\"university\":\"North Bengal University\",\"graduationDate\":\"2012\",\"score\":\"52%\"},\n\"Edu3\":{\"degree\":\"Master Of Computer Application(MCA)\",\"university\":\"KIIT University\",\"graduationDate\":\"2016\",\"score\":\"65%\"}]",
+    "work_exp": "[{\"name\":\"Software Developer\"},{\"name\":\"Software Developer\"},{\"name\":\"Software Engineer\"},{\"name\":\"PHP Developer\"},{\"name\":\"Software Engineer\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"id\": \"P1\",\n    \"Name\": \"Koushik Dutta\",\n    \"Email\": \"ad2izk@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer experiences are listed in the provided resume."
+}

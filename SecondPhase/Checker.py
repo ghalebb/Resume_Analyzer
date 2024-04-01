@@ -1,8 +1,9 @@
-import concurrent.futures
 import json
-import os.path
 import time
 import google.generativeai as genai
+
+PROMPT_DICT_PATH = r'C:\Users\Hussam Salamh\Desktop\Projects\Resume_Analyzer\SecondPhase\Prompts\prompts.json'
+CHECKES_PATH = r'C:\Users\Hussam Salamh\Desktop\Projects\Resume_Analyzer\SecondPhase\Prompts\checker_info.json'
 
 
 class Checker:
@@ -15,26 +16,16 @@ class Checker:
     ]
     """
 
-    def __init__(self, key, pathOrJson, misspelling=None):
-        self.prompt_dict = readJsonFIle('./SecondPhase/prompts.json')
-        self.checks = readJsonFIle('./SecondPhase/checker_info.json')
+    def __init__(self, key, labeledData, misspelling=None):
+        self.prompt_dict = readJsonFIle(PROMPT_DICT_PATH)
+        self.checks = readJsonFIle(CHECKES_PATH)
         genai.configure(api_key=key)
 
-        #todo move json opening to main file, after first phase is done
-        if type(pathOrJson) is str:
-            if not os.path.exists(pathOrJson):
-                raise ValueError("File not found")
-            self.json = readJsonFIle(pathOrJson)
-        else:
-            self.json = pathOrJson
-
-        self.labels = self.json["Labels"]
+        self.labels = labeledData
 
         # This could be passed inside the json file and as a list
         if misspelling is not None:
             self.spelling = misspelling
-        else:
-            self.spelling = self.json["Spelling"]
 
         self.model = genai.GenerativeModel('gemini-pro')
 
@@ -46,13 +37,13 @@ class Checker:
         return self.spelling
 
     def extract_data(self, data_key):
-        if data_key not in self.json["Labels"]:
+        if data_key not in self.labels:
             return None
         data = ""
-        if isinstance(self.json["Labels"][data_key], str):
-            data += self.json["Labels"][data_key] + " "
+        if isinstance(self.labels[data_key], str):
+            data += self.labels[data_key] + " "
         else:
-            for i in self.json["Labels"][data_key]:
+            for i in self.labels[data_key]:
                 if isinstance(i, dict):
                     for key, value in i.items():
                         data += f"{key}: {value} "
@@ -67,7 +58,7 @@ class Checker:
             data_key = check["data_key"]
             checker = check["Checker"]
             data = self.extract_data(data_key)
-            #todo check if the tag does not appear in json file
+            # todo check if the tag does not appear in json file
             if data is None:
                 results[checker] = ""
             else:
@@ -79,7 +70,6 @@ class Checker:
         elapsed_time = end_time - start_time
         print(f"Elapsed time: {elapsed_time} seconds")
         return results
-
 
 
 def readJsonFIle(path):

@@ -1,0 +1,7 @@
+{
+    "skills": "Auto CAD, MS Office, Solar Accounts, Maximo, Yardi Voyager, Sales Force",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"BACHELOR OF CIVIL ENGINEERING\",\n      \"university\": \"Government College of Engineering Aurangabad\",\n      \"graduationDate\": null,\n      \"score\": \"First Class with Distinction\"\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": \"DIPLOMA IN CIVIL ENGINEERING\",\n      \"university\": \"Government Polytechnic Nashik, India\",\n      \"graduationDate\": null,\n      \"score\": \"First Class with Distinction\"\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"Civil Engineer (Facilities/Property Management)\"},{\"name\":\"Facility Engineer\"},{\"name\":\"Project Engineer (Facilities/Property Management)\"},{\"name\":\"Site Civil Engineer and Quantity Surveyor\"},{\"name\":\"Teacher\"}]",
+    "personal_info": "[{\"Name\":\"Shaikh Shahrukh Najeer\",\"ID\":\"Person001\",\"Email\":\"ad0auu@r.postjobfree.com\"}]",
+    "volunteer_info": "No volunteer work entities found in the given resume."
+}

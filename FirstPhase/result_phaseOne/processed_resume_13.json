@@ -1,0 +1,7 @@
+{
+    "skills": "Developing Test Plans, Requirements specifying, Approach, Strategy, Scope, Roles, Responsibilities and Testing Overview, SQL, Problem-solving skills, Creating Use Cases, Creating documentation, Backend Testing, SQL, Functionality Testing, Data integrity testing, System Testing, Integration Testing, Regression Testing, Stress / Performance Testing, User Acceptance Testing, Requirements Gathering, Requirements Analysis, Business Process Analysis, Data Analysis, Cross-Functional Team Collaboration, UAT Planning, UAT Coordination, UAT Execution, UAT Reporting, Validation, Batch Job Validation, System Validation, Error Resolution, Communication, Documentation",
+    "education": "[\n{\"Edu1\":{\"degree\":\"Bachelor of Arts and Science\",\"university\":\"Dallas Baptist University\",\"graduationDate\":\"None Specified\"}},\n{\"Edu2\":{\"degree\":\"Associates\",\"university\":\"Remington College (Education America)\",\"graduationDate\":\"None Specified\"}}\n]",
+    "work_exp": "[{\"name\":\"Citizens Bank\"},{\"name\":\"Bank of America\"},{\"name\":\"Sonexus Health\"}]",
+    "personal_info": "[{\"label\":\"Person\",\"ID\":\"1\",\"Email\":\"ad4ic7@r.postjobfree.com\"},{\"label\":\"Person\",\"ID\":\"2\",\"Email\":\"none\"}]",
+    "volunteer_info": "The provided resume does not include any volunteer work experiences."
+}

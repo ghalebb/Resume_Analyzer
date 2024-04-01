@@ -1,0 +1,7 @@
+{
+    "skills": "APACHE \u2013 Hadoop, Flume, Hive, Kafka, Oozie, Spark, Tez,\nPROGRAMMING/SCRIPTING \u2013 Scala, HiveQL, MapReduce, XML, FTP, Python, Java, UNIX, Shell scripting\nOPERATING SYSTEMS \u2013 Unix/Linux, Windows\nFILE FORMATS \u2013 Parquet, JSON, ORC\nDISTRIBUTIONS \u2013 Cloudera, Hortonworks, MapR, EMR\nDATA PROCESSING (COMPUTE) ENGINES \u2013 Apache Spark\nDATA VISUALIZATION TOOLS \u2013 QlikView, Tableau, Kibana\nDATABASES and DATA STRUCTURES \u2013 Microsoft SQL Server Database Administration, Apache Cassandra, Amazon Redshift, DynamoDB, Apache HBase, Elasticsearch\nSOFTWARE \u2013 Microsoft Project, VMWare, Microsoft Word, Excel, Outlook, Power Point; Technical Documentation Skills\nCLOUD SERVICES \u2013 Amazon Web Services (AWS), Microsoft Azure",
+    "education": "No education information is available in the provided resume. Therefore, an empty list is returned.",
+    "work_exp": "[{\"name\":\"Yahoo\"},{\"name\":\"Thermo Fisher Scientific Inc.\"},{\"name\":\"Kellogg\u2019s\"},{\"name\":\"Bed Bath and Beyond\"},{\"name\":\"The Weinberg Group\"},{\"name\":\"Prism Data Systems\"}]",
+    "personal_info": "No Person Nodes found in the provided text",
+    "volunteer_info": "No volunteer experiences were found in the given text."
+}

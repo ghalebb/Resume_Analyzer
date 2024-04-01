@@ -1,0 +1,7 @@
+{
+    "skills": "Project Management, Lithium Ion Cells, Electric Vehicles, Program Management, Battery Management S, EV Charging System, Microsoft, 3D Printer S,S4,Max",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"B.Tech\",\n      \"university\": \"Bahauddin Zakariya University\",\n      \"graduationDate\": \"2016\"\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": \"DAE Electronics\",\n      \"university\": \"Punjab Board Of Technical Education Lahore Pakistan\",\n      \"graduationDate\": \"2012\"\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"Electrical Internal Engineer\"},{\"name\":\"Electronics Engineer\"},{\"name\":\"Line Superintend\"},{\"name\":\"Biometric Officer\"},{\"name\":\"Electrical Technician\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"1\",\n    \"Name\": \"Arshad Mahmood\",\n    \"Email\": \"adyv9m@r.postjobfree.com\",\n    \"Gender\": \"Male\",\n    \"Nationality\": \"Pakistani\",\n    \"Date of birth\": \"26.12.1990\",\n  }\n]",
+    "volunteer_info": "No volunteer work entities found in the provided resume."
+}

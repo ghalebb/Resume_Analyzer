@@ -1,0 +1,7 @@
+{
+    "skills": "Python,SQL,R,JavaScript,HTML,CSS,MATLAB,C++,MySQL,PostgreSQL,MongoDB,Firebase,Agile,Iterative,Waterfall,Scrum,Tensorflow, PyTorch, Keras, Scikit-Learn,Alteryx, PowerBI, Tableau,Microsoft Excel, Matplotlib, Seaborn, ggplot, Sprinklr",
+    "education": "[\"Edu1\":{\"degree\":\"Masters of Science in Data Science\",\"university\":\"Stevens Institute of Technology \",\"graduationDate\":\"December 2023\",\"score\":\"3.76\"},\n\"Edu2\":{\"degree\":\"Bachelors of Technology in Computer Science Engineering\",\"university\":\"Chitkara University\",\"graduationDate\":None,\"score\":\"3.88\"}\n]",
+    "work_exp": "[{\"name\":\"Data Scientist\"},{\"name\":\"Data Quality Engineer\"},{\"name\":\"Monitoring Product Analyst\"},{\"name\":\"Data Analyst\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"DEVANSHU JAIN\",\n    \"ID\": \"devanshujain1218\",\n    \"Email\": \"ad4an7@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "[]"
+}

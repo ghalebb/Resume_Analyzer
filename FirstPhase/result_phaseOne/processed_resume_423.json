@@ -1,0 +1,7 @@
+{
+    "skills": "Java, C++, HTML, CSS, JSwing, SCSS, JavaScript, Hibernate, REST API, OJET, ReactJS, NodeJS, Spring Boot, Spring JDBC, SQL, MySQL, Oracle, PL/SQL, AWS EC2, AWS S3, Oracle Cloud, Jenkins, Git, GitLab, Brazil, Docker, SVN, Jira, Confluence, WebLogic, Postman, Jmeter, SOAP UI, XML",
+    "education": "[\"Edu1\":{\"degree\":\"Master of Science\",\"university\":\"Northeastern University\",\"graduationDate\":\"December 2023\",\"score\":\"3.81/4\"},\n\"Edu2\":{\"degree\":\"Bachelor of Engineering\",\"university\":\"University of Mumbai\",\"graduationDate\":\"May 2019\",\"score\":\"\"}]",
+    "work_exp": "[{\"name\":\"Northeastern University\"},{\"name\":\"Amazon Robotics (AR)\"},{\"name\":\"Oracle Financial Services Software Limited\"}]",
+    "personal_info": "[{\"Name\":\"VIDHI POPAT\",\"ID\":\"P1\",\"Email\":\"ad4alo@r.postjobfree.com\"}]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

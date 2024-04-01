@@ -1,0 +1,7 @@
+{
+    "skills": "Automation Testing, Selenium Webdriver, Software Testing, Functional Testing, Regression Testing, Smoke Testing, STLC, Defect Life Cycle, Sanity Testing, Maven, POM, JIRA, Manual Testing, ISTQB, Black Box Testing, Retesting, English, Hindi, Marathi, QA, QC",
+    "education": "[\n   {\n      \"Edu1\":{\n         \"degree\":\"B.Com\",\n         \"university\":\"Nagpur University\",\n         \"graduationDate\":\"2014\",\n      }\n   },\n   {\n      \"Edu2\":{\n         \"degree\":\"12th English\",\n         \"university\":\"Maharashtra\",\n         \"graduationDate\":\"2011\",\n      }\n   },\n   {\n      \"Edu3\":{\n         \"degree\":\"10th Marathi\",\n         \"university\":\"Maharashtra\",\n         \"graduationDate\":\"2009\",\n      }\n   }\n]",
+    "work_exp": "[{\"name\":\"Automation Test Engineer\"},{\"name\":\"Software Test Engineer\"},{\"name\":\"Automation Test Engineer\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"Prital Bulkunde\",\n    \"ID\": \"1\",\n    \"Email\": \"ad39ni@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer work entities found in the provided resume."
+}

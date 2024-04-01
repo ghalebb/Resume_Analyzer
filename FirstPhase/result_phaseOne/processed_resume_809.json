@@ -1,0 +1,7 @@
+{
+    "skills": "AutoCAD, Microsoft office, MS Project, SketchUp",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"master\u2019s in technology\",\n      \"university\": \"SRM Institute of Science and Technology\",\n      \"graduationDate\": \"May 2023\",\n      \"score\": \"8.54 out of 10\"\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": \"bachelor\u2019s degree\",\n      \"university\": \"Saveetha Engineering College\",\n      \"graduationDate\": \"May 2020\",\n      \"score\": \"6.9 out of 10\"\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"D.R.S Construction\"}]",
+    "personal_info": "[\n {\"label\":\"Person\",\"ID\":\"P1\",\"Email\":\"ad2ioz@r.postjobfree.com\"}\n]",
+    "volunteer_info": "No volunteer experiences were found in the provided resume."
+}

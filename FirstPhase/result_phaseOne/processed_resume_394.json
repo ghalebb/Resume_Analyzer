@@ -1,0 +1,7 @@
+{
+    "skills": "AI Pipeline Development using LangChain and NeMo, High Performance AI Inference Pipelines, RAG (VDB, GDB) driven GenAI, Mathematically Correct Multi-Stage GenAI, PySpark, Machine Learning, BERT, NER etc. (Language Models), GPU, CUDA, HPC, Computer Hardware, Data Science, Python",
+    "education": "[\n  {\n    \"id\": \"Edu1\",\n    \"degree\": \"Doctor of Philosophy - PhD\",\n    \"university\": \"University of California, Berkeley\",\n    \"graduationDate\": \"Aug 2007\",\n    \"score\": null\n  },\n  {\n    \"id\": \"Edu2\",\n    \"degree\": \"Master of Science - MS\",\n    \"university\": \"University of California, Berkeley\",\n    \"graduationDate\": \"May 2002\",\n    \"score\": null\n  },\n  {\n    \"id\": \"Edu3\",\n    \"degree\": \"Bachelor of Science - BS\",\n    \"university\": \"University of California, Berkeley\",\n    \"graduationDate\": \"May 2000\",\n    \"score\": null\n  }\n]",
+    "work_exp": "[{\"name\":\"Director, Logic and Code Models\"},{\"name\":\"Director of AI\"},{\"name\":\"Senior HPC Engineer, NLP/LLM Algorithms\"},{\"name\":\"Team Lead and LLM/NLP Researcher\"},{\"name\":\"Postdoctoral Researcher\"}]",
+    "personal_info": "```json\n[\n  {\n    \"Name\": \"Aaron Rivkin\",\n    \"ID\": \"1\",\n    \"Email\": \"ad4a81@r.postjobfree.com\"\n  }\n]\n```",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

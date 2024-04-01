@@ -1,0 +1,7 @@
+{
+    "skills": "JavaScript, TypeScript, React/Redux, React Native, Next.js, GraphQL, Node.js/Express.js, Bootstrap, Sass, CSS, HTML, Material UI, MySQL, Firebase Cloud, MongoDB, Docker/Compose, Cypress, Sentry, WebRTC, REST API, WebSocket, AWS/Amplify, EC2, S3, Git, Docker, Gitlab, CI",
+    "education": "[\n  {\n    \"id\": \"edu1\",\n    \"degree\": \"Bachelor's degree\",\n    \"university\": \"University of Massachusetts Dartmouth\",\n    \"graduationDate\": \"2014\",\n    \"score\": \"3.9\",\n    \"minor\": \"Minor in Computer Science\"\n  }\n]",
+    "work_exp": "[{\"name\":\"Software Engineer\"},{\"name\":\"Frontend Engineer\"},{\"name\":\"Web and Mobile Developer\"},{\"name\":\"Full Stack Developer\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"Joseph Nsiantou\",\n    \"ID\": \"1\",\n    \"Email\": \"ad4hmu@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer entities were found in the provided resume."
+}

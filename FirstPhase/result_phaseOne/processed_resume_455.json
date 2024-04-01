@@ -1,0 +1,7 @@
+{
+    "skills": "Cloud: AWS, GCP, NTT, Azure Clouds\nOperating Systems: Windows Server, RHEL, Rocky, gitUbuntu Linux, IBM AIX, Solaris\nTransfer: PureFTP, VSFTP, Filezilla, WinSCP, rsync, scp, IBM Connect SFTP\nProgramming: JavaScript, Python, Perl, Java, C++, Linux shell scripting\nAutomation: Ansible, Terraform, Powershell, Puppet, Git\nFrameworks: TOGAF, Agile, DevOps, Atlassian, J2EE, NodeJS, React\nSecurity: PKI, STIG, Firewalls, WAFs, OpenVPN, API Gateways, CrowdStrike, Penetration Testing\nMonitoring: ScienceLogic EM7, Nagios, New Relic, vmstat, iostat, memstat, netstat",
+    "education": "[\"Edu1\":{\"degree\":\"Master\u2019s in Applied Biomedical Engineering\",\"university\":\"The Johns Hopkins University\",\"graduationDate\":\"2014\"},\n\"Edu2\":{\"degree\":\"Bachelor\u2019s in Electrical Engineering\",\"university\":\"Georgia Institute of Technology\",\"graduationDate\":\"1994\"}\n]",
+    "work_exp": "[\n  {\"name\": \"John Cordova Consulting\"},\n  {\"name\": \"Contegix, Inc.\"},\n  {\"name\": \"DXC Technology\"},\n  {\"name\": \"NTT Communications\"},\n  {\"name\": \"Blackmesh\"},\n  {\"name\": \"Computer Sciences Corporation\"},\n  {\"name\": \"Cassatt Corporation\"},\n  {\"name\": \"Verisign Inc.\"}\n]",
+    "personal_info": "[{\"Name\":\"John Cordova\",\"ID\":\"1\",\"Email\":\"ad39qg@r.postjobfree.com\"}]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

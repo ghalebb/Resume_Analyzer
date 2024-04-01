@@ -1,0 +1,7 @@
+{
+    "skills": "- SAP BASIS\n- SAP ECC\n- SAP BW\n- SAP PI\n- SAP SLT\n- SAP SolMan\n- SAP MDG\n- SAP Biller Direct\n- SAP Net weaver\n- Oracle 11g\n- AIX 7.1\n- SunOs 5.10\n- HP-UX\n- Linux/Unix\n- SAP Router maintenance\n- Printer Maintenance",
+    "education": "[\"Edu1\":{\"degree\":\"M.Tech.\",\"university\":\"National Institute of Technology (NIT/RECs), Kurukshetra, Haryana, India\",\"graduationDate\":null},\n\"Edu2\":{\"degree\":\"B.Tech\",\"university\":\"Kurukshetra University, Haryana, India\",\"graduationDate\":null},\n\"Edu3\":{\"degree\":null,\"university\":null,\"graduationDate\":null}]",
+    "work_exp": "[{\"name\":\"Accenture\"}, {\"name\":\"KFC\"}, {\"name\":\"SAP BASIS\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person Node\",\n    \"ID\": \"p1\",\n    \"Email\": \"ad3p16@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "[]"
+}

@@ -1,0 +1,7 @@
+{
+    "skills": "Java, HTML, JavaScript, Springboot, Hibernate, SpringMVC, Mockito, MySQL, Postgregsql, MicroServices, Docker, AWS, REST, Swagger, Lamda Function (Java8), Apache Tomcat, Kafka, Jenkins, Gradle, JIRA, Putty, IntelliJ",
+    "education": "[{\"Edu1\":{\"degree\":\"B.TECH\",\"university\":\"BIET, UPTU\",\"graduationDate\":null,\"score\":\"65\"}}]",
+    "work_exp": "[{\"name\":\"COMVIVA TECHNOLOGIES\"},{\"name\":\"DELL TECHNOLOGIES\"},{\"name\":\"ELINEXT TECHNOLOGIES\"}]",
+    "personal_info": "[{\"label\":\"Person\",\"ID\":\"1\",\"Name\":\"Sneha\",\"Email\":\"ad3a1e@r.postjobfree.com\"}]",
+    "volunteer_info": "There are no volunteer work entities in the provided resume."
+}

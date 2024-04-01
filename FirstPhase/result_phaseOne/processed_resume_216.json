@@ -1,0 +1,7 @@
+{
+    "skills": "- Router and VoIP Platforms\n- Routing Fundamentals and Protocols\n- Switch Platforms\n- Switching Fundamentals and Protocols\n- Firewall Platforms\n- Security Protocols\n- Network Management and Monitoring\n- Load Balancers\n- WAN technologies\n- Cloud Computing and Automation\n- Other Networking Protocols and Fundamentals\n- Operating Systems",
+    "education": "No education-related entities could be extracted from the provided resume. Please note that if no education information is present in the text provided, an empty list should be returned.",
+    "work_exp": "[{\"name\":\"Tango Analytics\"},{\"name\":\"Jefferies\"},{\"name\":\"Hackensack Meridian Health\"},{\"name\":\"SAP Labs\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Prathap\",\n    \"ID\": \"1\",\n    \"Email\": \"ad4euo@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "The provided resume does not mention volunteer work."
+}

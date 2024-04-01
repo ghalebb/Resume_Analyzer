@@ -1,0 +1,7 @@
+{
+    "skills": "C, C++, JAVA, Python, VHDL, Assembly, MATLAB, Simulink, Simscape, Classic & Adaptive AUTOSAR, Visual DSP++, LabVIEW, PSpice, OPNET, NS2, Eclipse, Visual Studio Code, Arduino IDE, ARMKeil, Webstrom, JTAG, HTML5, CSS, Angular, React.JS, Node.JS., DOORS, AWS, SQL, MySQL, MongoDB, Agile, Scrum, Waterfall, GIT,GitHub, BitBucket, GitLab, JIRA, BTS Embedded Tester, Simulink Test, Polyspace, MS Office, Microsoft Project, Visio, Microsoft SQL Server, Azure, Linux, RTOS, Windows, MAC, FreeRTOS, VXWorks,ThreadX, Microprocessor, Blackfin processor",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"Masters\",\n      \"university\": \"Oakland University\",\n      \"graduationDate\": \"2023\",\n      \"gpa\": \"3.80/4\"\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": \"Masters\",\n      \"university\": \"Pondicherry University\",\n      \"graduationDate\": \"2012\",\n      \"gpa\": \"3.91/4\"\n    }\n  },\n  {\n    \"Edu3\": {\n      \"degree\": \"Bachelors\",\n      \"university\": \"Pondicherry University\",\n      \"graduationDate\": \"2010\",\n      \"gpa\": \"3.75/4\"\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"Software Engineer\"}, {\"name\":\"Graduate Research and Teaching Assistant\"}, {\"name\":\"Research Engineer\"}, {\"name\":\"Assistant Professor\"}]",
+    "personal_info": "[{\"Name\":\"KOKILA SUBRAMANIAN\",\"ID\":\"p1\",\"Email\":\"ad1y2h@r.postjobfree.com\"}]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

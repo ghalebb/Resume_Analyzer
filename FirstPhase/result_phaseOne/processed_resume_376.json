@@ -1,0 +1,7 @@
+{
+    "skills": "Java, J2EE, C, C++, PL/SQL, HTML5, RWD, jQuery, JavaScript, CSS, NODE JS, jQuery, AngularJS, Angular 2/4/5, Servlets, JSP, EJB, JMS, JNDI, Web Services, JDBC, SOAP, Hibernate, Jakarta Struts, spring, IBM JADE, Log4j, SLF4J, JPA, Spring IOC, Kafka, Oracle, MS SQL Server, My SQL, IBM DB2, Mongo DB, RDBMS, SOAP, REST, WADL, XML, JSON, N-tier J2EE, MVC, Client/Server, CVS, SVN, Git, GitHub, Clear Case, Putty, Rapid SQL, IBM DB2 client, CISM, JIRA, SQL Developer, Splunk, Maven, ANT, Grunt, Gradle, Jenkins, Bamboo, Fusion Platform, Docker containers, AWS Cloud",
+    "education": "[\"Edu1\":{\"degree\":\"Master\u2019s in IT\",\"university\":\"Marymount university\",\"graduationDate\":None},\n\"Edu2\":{\"degree\":\"Bachelors\u2019 in CSE\",\"university\":\"Osmania university\",\"graduationDate\":None}\n]",
+    "work_exp": "[{\"name\":\"Java Full Stack Developer\"},{\"name\":\"Java Software Engineer\"},{\"name\":\"Senior Java Developer\"},{\"name\":\"Java Full Stack Developer\"},{\"name\":\"Java Developer\"}]",
+    "personal_info": "[\"label\":\"string\",\"ID\":\"1\",\"Email\":\"ad4bh2@r.postjobfree.com\"]",
+    "volunteer_info": "The provided resume does not contain any volunteer work experiences."
+}

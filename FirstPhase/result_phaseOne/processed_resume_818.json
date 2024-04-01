@@ -1,0 +1,7 @@
+{
+    "skills": "Node.js, ReactNative/Js, MongoDB, JavaScript, ES6, ExpressJs, GitLab, GitHub, Visual Studio Code, ReactJs, Nextjs, CSS, TailwindCSS, HTML5, CSS",
+    "education": "[\n{\"Edu1\":{\"degree\":\"Electronics and Communication\",\"university\":\"Santhiram Engineering College\",\"graduationDate\":\"2012\"}},\n{\"Edu2\":{\"degree\":\"Embedded Systems\",\"university\":\"Joginpally B. R Engineering College\",\"graduationDate\":\"2014\"}}\n]",
+    "work_exp": "[{\"name\":\"Senior Software Developer\"},{\"name\":\"TMIX\"},{\"name\":\"Software Developer\"},{\"name\":\"Sollu Private Limited\"},{\"name\":\"Software Engineer Trainee\"},{\"name\":\"TMIX\"},{\"name\":\"Teacher\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"Sekhar Maram\",\n    \"ID\": \"P001\",\n    \"Email\": \"ad2gv5@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer work entities found."
+}

@@ -1,0 +1,7 @@
+{
+    "skills": "Python, Java, C#, C++, C, R, Racket, Unity, Matlab, GitHub, Machine Learning, Data Science, Database, SQL, Tableau, Power BI, RStudio, BigQuery, Firebase, Swift (HealthKit, HL7 FHIR, Spezi, ResearchKit), Dart, React, HTML, CSS, JavaScript, PHP, Figma, Software Development Life Cycle, Stakeholder Management, Communication, Agile Methodology, Change Management, Organizational Development, Conflict Resolution",
+    "education": "[{\"Edu1\":{\"degree\":\"M.S. in Clinical Informatics Management\",\"university\":\"Stanford University, School of Medicine\",\"graduationDate\":\"6/2024\",\"score\":\"3.9\"},\"Edu2\":{\"degree\":\"B.Sc. Double Major Computer Science and Microbiology & Immunology\",\"university\":\"University of British Columbia\",\"graduationDate\":\"5/2023\",\"score\":\"4.0\"}}\n]",
+    "work_exp": "[{\"name\":\"Intuitive Surgical\"},{\"name\":\"Stanford Center for AI in Medicine and Imaging\"},{\"name\":\"UBC Hackspace for Immersive Virtual Experiences Lab\"},{\"name\":\"Satisfai Health\"},{\"name\":\"Bio1 Systems\"},{\"name\":\"Johnson & Johnson\"}]",
+    "personal_info": "[{\"Name\":\"Terry Lin\",\"ID\":\"T1\",\"Email\":\"ad4c5x@r.postjobfree.com\"}]",
+    "volunteer_info": "No volunteer work entities are found in the provided resume."
+}

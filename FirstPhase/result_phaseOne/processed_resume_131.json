@@ -1,0 +1,7 @@
+{
+    "skills": "HTML, CSS, JavaScript, Typescript, React, Express, Mongo, GraphQL, FireBase, Tailwind, Bootstrap, Node, Next.Js, Remix.js",
+    "education": "No education information was detected in the provided resume. An empty list will be returned according to the given instructions.\n\n[]",
+    "work_exp": "[{\"name\":\"Fiserv/Clover POS\"},{\"name\":\"COMCAST/NBCUniversal\"},{\"name\":\"MSNBC NBC News Today Show\"},{\"name\":\"Software Engineer\"},{\"name\":\"Amosdesigns\"}]",
+    "personal_info": "[{\"label\":\"person\",\"ID\":\"j1\",\"Name\":\"JEROME AMOS\",\"Email\":\"ad4f26@r.postjobfree.com\"}]",
+    "volunteer_info": "No volunteer work entities were found in the resume."
+}

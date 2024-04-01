@@ -1,0 +1,7 @@
+{
+    "skills": "Surfing in net, Finding Reasons and Solutions, MS Office, Google Sketchup",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"B.E\",\n      \"university\": \"Sethu Institute of Technology\",\n      \"graduationDate\": \"2021\",\n      \"score\": \"78%\"\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": \"DIPLOMA\",\n      \"university\": \"K.L.Nagasamy Memorial polytechnic college\",\n      \"graduationDate\": \"2018\",\n      \"score\": \"72%\"\n    }\n  },\n  {\n    \"Edu3\": {\n      \"degree\": \"HSC\",\n      \"university\": \"Madura College Higher Secondary School\",\n      \"graduationDate\": \"2015\",\n      \"score\": \"52%\"\n    }\n  },\n  {\n    \"Edu4\": {\n      \"degree\": \"SSLC\",\n      \"university\": \"Madura College Higher Secondary School\",\n      \"graduationDate\": \"2013\",\n      \"score\": \"64.2%\"\n    }\n  }\n]",
+    "work_exp": "[]",
+    "personal_info": "[\n  {\n    \"Name\": \"Arun Kumar M\",\n    \"ID\": \"ARUN_001\",\n    \"Email\": \"ad3tne@r.postjobfree.com\"\n  },\n  {\n    \"Name\": \"R. Murugeshan\",\n    \"ID\": \"FATHER_001\",\n    \"Email\": null\n  }\n]",
+    "volunteer_info": "[]"
+}

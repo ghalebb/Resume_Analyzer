@@ -1,0 +1,7 @@
+{
+    "skills": "-Agile Coaching\n-Business Analysis\n-Data Analysis\n-Enterprise Implementation\n-Healthcare Modernization\n-IT Delivery\n-IT Project Management\n-Organization Change Management\n-Requirements Gathering\n-Scrum\n-System Analysis",
+    "education": "[{\"Edu1\":{\"degree\":\"Master of Business Administration (MBA)\",\"university\":\"University of Phoenix\",\"graduationDate\":null}},\n{\"Edu2\":{\"degree\":\"Bachelor of Science in Computer Science (BSc.)\",\"university\":\"University of Phoenix\",\"graduationDate\":null}}]",
+    "work_exp": "[{\"name\":\"Patient Coordinator\"},{\"name\":\"Business Systems Analyst\"},{\"name\":\"Agile Delivery Coach\"},{\"name\":\"Agile Product Coach\"},{\"name\":\"Agile Coach\"},{\"name\":\"Senior Scrum Master\"},{\"name\":\"Senior Business Analyst\"},{\"name\":\"Project Manager\"}]",
+    "personal_info": "Output:\n[{\"label\":\"Person\",\"ID\":\"1\",\"Email\":\"ad4gmc@r.postjobfree.com\"}, ]",
+    "volunteer_info": "The context does not mention any volunteer work, so I cannot extract the requested data from the provided context."
+}

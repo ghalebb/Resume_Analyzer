@@ -1,0 +1,7 @@
+{
+    "skills": "Azure Cloud Services: Azure Virtual Machines, Azure Virtual Networks, Azure App Services, Azure Storage, Azure SQL Database, Azure Functions, Azure Active Directory, Azure DevOps, Azure Monitor, Azure Security Center, Infrastructure as Code (IaC): Azure Resource Manager (ARM) Templates, Azure CLI, Azure PowerShell, Terraform Networking: TCP/IP, DNS, VPN, Load Balancing, Firewall, network Security Group (NSG), ExpressRoute, Security: Azure Security Center, Azure Active Directory, Azure Key Vault, Azure Firewall, Azure RBAC, Security Best Practices, Security Auditing, Threat Detection and Remediation, Operating Systems: Windows Server, Linux (Ubuntu, Red Hat), Collaboration and Communication: Stakeholder, Management, Technical Leadership, And Documentation, DevOps: CI/CD pipelines, Infrastructure as Code (IaC), Git, Qlik, UI design, Azure DevOps, AKS, Jenkins, Spark, CI/CD, Azure Migrate & Data Migrate, Azure Data Studio Replication, JavaScript, Python",
+    "education": "[\"Edu1\":{\"degree\":\"Master's Degree\",\"university\":\"University of the District of Columbia\",\"graduationDate\":\"1995\"}]",
+    "work_exp": "[{\"name\":\"Chewell group, Inc\"},{\"name\":\"Chevy Chase bank\"},{\"name\":\"Dunbar Armored, Inc\"},{\"name\":\"Teacher\"}]",
+    "personal_info": "[{\"Name\":\"\",\"ID\":\"P1\",\"Email\":\"\"}]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

@@ -1,0 +1,7 @@
+{
+    "skills": "- Language: HTML/CSS, JavaScript, TypeScript, Python, Java, SQL\n- Frameworks: Node.js, React.js, Redux, React Native, Express.js, Next.js, Django/Flask, Tailwind CSS, jQuery, Bootstrap, Jest, Mocha, Cypress, WordPress, Shopify\n- Database: MySQL, PostgreSQL, MongoDB, MSSQL, DynamoDB\n- API: RESTful API, GraphQL, Postman\n- Other: Git, AWS, Azure, Jenkins, GCP, Docker, Kubernetes, Jira, Agile, Scrum, DevOps, CI/CD, Figma, AI/ML",
+    "education": "[\"Edu1\":{\"degree\":\"Bachelor of Science\",\"university\":\"The University of Texas at Dallas\",\"graduationDate\":\"2011\"}]",
+    "work_exp": "[{\"name\":\"eBay\"},{\"name\":\"ScienceSoft\"},{\"name\":\"DataArt\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"P_1\",\n    \"Email\": \"ad39io@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "The provided resume does not include any volunteer work experiences, so the requested data could not be extracted."
+}

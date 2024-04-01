@@ -1,0 +1,7 @@
+{
+    "skills": "Creo 7.0, AutoCAD, ERP, Windchill PLM",
+    "education": "[\"Edu1\":{\"degree\":\"Diploma\",\"university\":\"ICRE, Gargoti,Kolhapur\",\"graduationDate\":\"2022\",\"score\":\"75.61%\"},\n\"Edu2\":{\"degree\":\"NCVT\",\"university\":\"Delhi Board\",\"graduationDate\":\"2014\",\"score\":\"80.38%\"},\n\"Edu3\":{\"degree\":\"ITI\",\"university\":\"Delhi Board\",\"graduationDate\":\"2013\",\"score\":\"69.20%\"}]",
+    "work_exp": "[{\"name\":\"Cummins India Ltd\"},{\"name\":\"Intervalve Poonawala Ltd\"},{\"name\":\"Emerson Process Management India\"},{\"name\":\"Kone Cranes Demag Private Limited\"},{\"name\":\"Emerson Process Management India\"},{\"name\":\"Premium Transmission LTD\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"p1\",\n    \"Email\": \"ad2ojt@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "[]"
+}

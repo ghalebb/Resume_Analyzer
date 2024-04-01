@@ -1,0 +1,7 @@
+{
+    "skills": "- Mac OS\n- UNIX\n- Windows\n- C\n- C++\n- Java\n- Swift 5\n- SwiftUI\n- Oracle\n- Teradata\n- SS7 (ISUP)\n- gdb\n- Oracle BRM\n- PERL Scripting",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"M.C.A.\",\n      \"university\": \"Sri Venkateswara University, Tirupathi, India\"\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": \"B.Sc.\",\n      \"university\": \"Nagarjuna University, Guntur, A.P., India\"\n    }\n  }\n]",
+    "work_exp": "Extraction Result:\n\n[{\"name\":\"VERIZON CONNECT\"}, {\"name\":\"VERIZON TELEMATICS\"}, {\"name\":\"RACKSPACE HOSTING\"}, {\"name\":\"CISCO WebEx\"}, {\"name\":\"KPN\"}, {\"name\":\"ACCENTURE\"}, {\"name\":\"YTLC SDN BHD\"}, {\"name\":\"Vodafone\"}]",
+    "personal_info": "[\n  {\n    \"id\": \"p1\",\n    \"Name\": \"Sivanagaprasad Thota\",\n    \"Email\": \"ad2ww0@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

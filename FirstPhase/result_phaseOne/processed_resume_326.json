@@ -1,0 +1,7 @@
+{
+    "skills": "Java, C, Python, Amazon Web Services (AWS - SQS, CloudWatch, SNS, Lambda), Git, Javascript, HTML, CSS, Matlab, JUnit Testing, Debugging, Eclipse, Linux, Jira, Terraform, OCaml, Ruby, and Rust",
+    "education": "[\n  {\n    \"id\": \"Edu1\",\n    \"degree\": \"Bachelor of Science\",\n    \"university\": \"University of Maryland\",\n    \"graduationDate\": \"December 2025\",\n    \"score\": null\n  }\n]",
+    "work_exp": "[{\"name\":\"Ticketmaster\"},{\"name\":\"Software Engineer Intern\"},{\"name\":\"Code & Coffee\"},{\"name\":\"Growth Intern\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"1\",\n    \"Name\": \"Natalie Chen\",\n    \"Email\": \"ad4b9t@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "[{\"name\":\"Teacher's Assistance\"}]"
+}

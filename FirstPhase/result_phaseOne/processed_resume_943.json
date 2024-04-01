@@ -1,0 +1,7 @@
+{
+    "skills": "ASP.NET Web Form, ASP.NET Windows Form, ASP.NET MVC, ADO.NET, Bootstrap (Grid), Google map creation and embedding Google map in website, Kendogrid, C#, C, C++, HTML4 & 5, XML, JavaScript, JQuery, AJAX, Visual Studio, IIS, TFS, File Zilla, Plesk Web Hosting Edition, SVN, Git, SQL Server 2008 R2 and above versions, MySQL, Postgre SQL",
+    "education": "[\"Edu1\": {\"degree\": \"MCA\",\"university\": \"Sikkim Manipal University\",\"graduationDate\": \"2012\",\"score\": \"65%\\n\"}, \"Edu2\": {\"degree\": \"DOEACC 'A' LEVEL\", \"university\": \"DOEACC SOCIETY (CIC), Kolkata\",\"graduationDate\": \"2008\",\"score\": \"55%\"}, \"Edu3\": {\"degree\": \"B.COM (Hons)\", \"university\": \"South City (eve) college, Kolkata\",\"graduationDate\": \"2005\",\"score\": \"54.37%\"}, \"Edu4\": {\"degree\": \"XII\", \"university\": \"New Alipore Multipurpose High School, Kolkata\", \"graduationDate\": \"2002\", \"score\": \"59.1%\"}, \"Edu5\": {\"degree\": \"X\", \"university\": \"Nava Nalanda High School, Kolkata\",\"graduationDate\": \"2000\",\"score\": \"65.43%\"}]",
+    "work_exp": "[{\"name\":\"Quantum Business Advisory Pvt Ltd\"},{\"name\":\"Nexval Infotech Pvt Ltd\"},{\"name\":\"Swadesh Software Pvt Ltd\"},{\"name\":\"Tabsoft Software Solution Pvt Ltd\"},{\"name\":\"Xperteez Technologies Pvt Ltd\"},{\"name\":\"Circar Consulting Services Pvt Ltd\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"Sabitabrata Roy\",\n    \"ID\": \"prs1\",\n    \"Email\": \"ad1m3x@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "[]"
+}

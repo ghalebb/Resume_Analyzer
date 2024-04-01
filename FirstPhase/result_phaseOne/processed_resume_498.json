@@ -1,0 +1,7 @@
+{
+    "skills": "Java, PHP, C#, JavaScript, CSS3, RestFul webservices, Spring, Springboot, J2EE, SQL Server, Oracle, Postgres, MySQL, SQL, GraphQL, NoSQL, Link, Unit, functional and Integration Testings, Debugging, Code Reviews, Microservices & Cloud Development, Project Management, Git, Jira, Scrum Leader (Agile), Scrum, Design and Development, XML, JSON, Data analysis, Linux, MAC OS, Windows, CI/CD pipelines, Kubernetes, Docker, AWS",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"Ph.D.\",\n      \"university\": \"SUNY At Binghamton\",\n      \"graduationDate\": \"12/2026\",\n      \"score\": null\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": \"Masters\",\n      \"university\": \"Keller Graduate School OfManagement\",\n      \"graduationDate\": \"12/2018\",\n      \"score\": \"4.0\"\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"Software Engineer Consultant\"},{\"name\":\"Insight Global\"},{\"name\":\"Software Engineer\"},{\"name\":\"JPMorgan Chase\"},{\"name\":\"Software Engineer\"},{\"name\":\"PebblePost\"},{\"name\":\"Full Stack Software Engineer\"},{\"name\":\"LimoSys Software\"}]",
+    "personal_info": "[{\"Name\":\"JAMES S WILSON\",\"ID\":\"1\",\"Email\":\"ad3802@r.postjobfree.com\"}]",
+    "volunteer_info": "[{\"name\":\"Open Source Developer for Singer Shopify API\"}]"
+}

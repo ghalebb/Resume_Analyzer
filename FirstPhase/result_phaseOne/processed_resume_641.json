@@ -1,0 +1,7 @@
+{
+    "skills": "Project Management, IT Infrastructure Management, Quality Management, Information Security Management, Client Relationship Management, Incident Management, Problem Management, Change Management, Service Desk Management, Asset Management, Vendor Management, Process Management, Compliance Management, People Management, Cloud Computing, Contract Management, Stakeholder Management, Training, Skill Development, Crisis Management, SLA Management",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"Diploma in Hardware and Networking\",\n      \"university\": \"IWP\",\n      \"graduationDate\": \"2004\"\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": \"HSC\",\n      \"university\": null,\n      \"graduationDate\": \"2001\"\n    }\n  },\n  {\n    \"Edu3\": {\n      \"degree\": \"SSC\",\n      \"university\": null,\n      \"graduationDate\": \"1999\"\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"Team Lead\"},{\"name\":\"Site In charge\"},{\"name\":\"National Project Lead\"},{\"name\":\"Desktop Engineer\"},{\"name\":\"Senior Engineer\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"Person1\",\n    \"Email\": \"ad3q3p@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

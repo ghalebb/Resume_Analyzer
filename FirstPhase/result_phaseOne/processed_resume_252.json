@@ -1,0 +1,7 @@
+{
+    "skills": "Wiring, Mechanic, Basic computer, Good in hand tools (compact drills, circuit tester, wrench, ratchet, screwdrivers)",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"General Study/High School Diploma\",\n      \"university\": \"Lyc\u00e9e de l'Amiti\u00e9e 75\",\n      \"graduationDate\": \"2001\"\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": \"Diesel and Truck Technology\",\n      \"university\": \"Lincoln Technical Institute\",\n      \"graduationDate\": \"2006\",\n      \"score\": \"3.2\"\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"Electromechanical assembler\"},{\"name\":\"Manager's assistance\"},{\"name\":\"Inbound\"},{\"name\":\"Refurbishment\"},{\"name\":\"Flash Operator\"},{\"name\":\"Mechanic\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"NIRAGIRA,Jean Charles\",\n    \"ID\": \"1\",\n    \"Email\": \"ad4dqr@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer entities were found in the provided context."
+}

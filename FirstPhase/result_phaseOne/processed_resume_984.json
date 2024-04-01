@@ -1,0 +1,7 @@
+{
+    "skills": "Organizing skill, Interpersonal skill, Creative thinking, Adaptive skill, Social skill, Employability skill, Perseverance with smart working",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"BE\",\n      \"university\": \"University College of Engineering, Arni\",\n      \"graduationDate\": \"2021\",\n      \"score\": \"8.11 CGPA\"\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": \"H.S.C\",\n      \"university\": \"Wisdom matric higher secondary school\",\n      \"graduationDate\": \"2017\",\n      \"score\": \"86.83%\"\n    }\n  },\n  {\n    \"Edu3\": {\n      \"degree\": \"S.S.L.C\",\n      \"university\": \"Wisdom matric higher secondary school\",\n      \"graduationDate\": \"2015\",\n      \"score\": \"94.6%\"\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"Wipro infrastructure engineering\"}]",
+    "personal_info": "[{\"Name\":\"S.PRAVITHRAJ\",\"ID\":\"P1\",\"Email\":\"ad1fgl@r.postjobfree.com\"},{\"Name\":\"K.SETTU\",\"ID\":\"P2\",\"Email\":null}]",
+    "volunteer_info": "There are no volunteer work entities in the provided resume."
+}

@@ -1,0 +1,7 @@
+{
+    "skills": "- SQL",
+    "education": "[\n \"Edu1\":{\"degree\":\"Associate of Applied Science\",\"university\":\"ITT Technical Institute\",\"graduationDate\":\"November 1996\"},\n \"Edu2\":{\"degree\":\" \",\"university\":\"University of Arizona\",\"graduationDate\":\"December 1994\"}\n]",
+    "work_exp": "[{\"name\":\"Clip Health\"},{\"name\":\"Abaxis, Inc.(a Zoetis Company)\"},{\"name\":\"Cholestech, Corp.(an Inverness Medical Innovations Company)\"},{\"name\":\"LifeScan, Inc.(a Johnson & Johnson Company)\"},{\"name\":\"LaserTel, Inc.\"},{\"name\":\"BEAMLINE TECHNOLOGY CORPORATION\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"STEPHANO CHO\",\n    \"ID\": \"ps1\",\n    \"Email\": \"ad39ww@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "The resume text does not contain any volunteer experience."
+}

@@ -1,0 +1,7 @@
+{
+    "skills": "Data Warehousing: Azure Synapse Analytics (DW), Snowflake, Amazon Redshift, BigQuery, Oracle, Teradata.\nBig Data Technologies: Hadoop, Map Reduce, HDFS, Sqoop, Hive, HBase, Flume, Kafka, Yarn, Apache Spark.\nETL Tools: Azure Data Factory, SQL Server Integration Services (SSIS), Informatica power center, IBM DataStage\nDatabases: SQL Server, MySQL, PostgreSQL, Oracle, DB2, Cassandra\nLanguages: Python, Java, Scala, C, C#, R, JavaScript, PHP\nVisualization Tools: Power BI, Tableau\nData Modeling: ER diagrams, Dimensional data modeling, Star and Snowflake Schema\nScripting: Shell scripting (Linux/Unix), Python scripting\nVersion Control: Git, GitHub, Azure DevOps and TFS.\nOther Tools and Technologies: Microsoft Visual Studio, Jupyter Notebook, WinSCP, Filezilla, SQL developer, Toad, Anaconda, PyCharm, Apache Airflow, Docker, Kubernetes",
+    "education": "No education-related entities are found in the provided text.",
+    "work_exp": "[{\"name\":\"Data Engineer\"},{\"name\":\"Data Engineer\"},{\"name\":\"Data Engineer\"}]",
+    "personal_info": "[\"label\":\"Person\",\"ID\":\"p1\",\"Email\":\"ad1rt1@r.postjobfree.com\",\"Name\":\"Akhil Niranjan\"}",
+    "volunteer_info": "[]"
+}

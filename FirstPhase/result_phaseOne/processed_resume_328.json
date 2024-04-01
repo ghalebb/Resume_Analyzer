@@ -1,0 +1,7 @@
+{
+    "skills": "- Sales and Service Application\n- Agile Development\n- Waterfall Development\n- Kanban\n- Scrum\n- Project Management\n- Functional Specifications\n- Test Plan Creation\n- SQL\n- Data Analysis\n- Performance Metrics Analysis\n- Business Requirements\n- Software Development\n- Project Management\n- Business Analysis\n- Product Management\n- Project Leadership\n- Data Integration\n- Business Process Improvement\n- Data Extraction and Manipulation\n- Stakeholder Management\n- Requirements Gathering\n- Test Case Development\n- System Integration Testing\n- Application Development\n- Quality Assurance\n- Complex Queries",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"BS Engineering\",\n      \"university\": \"Texas A&M University\",\n      \"graduationDate\": null,\n      \"score\": null\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": \"Minor in Computer Science\",\n      \"university\": \"Texas A&M University\",\n      \"graduationDate\": null,\n      \"score\": null\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"Bank OF America\"},{\"name\":\"Wells Fargo\"},{\"name\":\"UnitedHealth Group\"},{\"name\":\"JCpenney\"},{\"name\":\"Metlife\"}]",
+    "personal_info": "[{\"Name\":\"ALPANA SENGUPTA\",\"ID\":\"P01\",\"Email\":\"ad4b83@r.postjobfree.com\"}]",
+    "volunteer_info": "No volunteer work entities found in the provided resume."
+}

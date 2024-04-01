@@ -1,0 +1,7 @@
+{
+    "skills": "- Microsoft Azure\n- Azure VM Resource Management Resource Group\n- Availability Sets Storage Accounts Virtual Network\n- Azure Active Directory\n- Devops Tools\n- Terraform\n- Kubernetes\n- CI\\CD Implementation\n- GIT Hub\n- VMware ESXi\n- VMware vCenter\n- VM Installation\n- Update and upgrade Infrastructure\nConfigure and manage HA and DRS\n- VMware Update Manager\n- Performance Tunning\n- Troubleshooting Alerts\n- VROPS Monitoring.\n- PowerShell\n- Docker\n- Azure Container registry\n- Infrastructure as Code (IaaC)\n- Azure DevOps",
+    "education": "[\"Edu1\":{\"degree\":\"BCA\",\"university\":\"Tilak Maharashtra Vidyapeeth, Pune\",\"graduationDate\":\"June 2013\"},\n\"Edu2\":{\"degree\":\"Engg Diploma(Polytechnic)\",\"university\":\"MSBTE, Mumbai\",\"graduationDate\":\"May 2010\"},\n\"Edu3\":{\"degree\":\"12th Sci(IT)\",\"university\":\"Nasik Board\",\"graduationDate\":\"May 2005\"}]",
+    "work_exp": "[{\"name\":\"Cloud Operation Engineer\"},{\"name\":\"Consultant\"},{\"name\":\"Wintel Administrator L2\"},{\"name\":\"Technical Analyst\"},{\"name\":\"System Engineer\"},{\"name\":\"IT Support Executive\"},{\"name\":\"Technical Support Executive\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"P1\",\n    \"Email\": \"ad27ol@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

@@ -1,0 +1,7 @@
+{
+    "skills": "Databases: MS SQL Server, MySQL, PostgreSQL, MongoDB,\nReporting: SSRS (SQL Server Reporting Services), SSIS (SQL Server Integration Services)\nTechnical Skills: Advanced Excel (data analysis, formulas, pivot tables), Programming and scripting, Cybersecurity awareness, Project management\nUse Cases\nUser Stories\nSDLC Methodologies: Agile, Waterfall\nCommunication: Stakeholder management, Technical documentation",
+    "education": "No education-related entities are present in the provided resume; hence, the output is an empty list.",
+    "work_exp": "[{\"name\":\"Software Engineer Team Lead\"},{\"name\":\"I/S Team Lead\"},{\"name\":\"Software Developer/Consultant\"},{\"name\":\"Director, IT/Development\"},{\"name\":\"Software Developer\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"Nicholas Smith\",\n    \"ID\": \"P1\",\n    \"Email\": \"ad4ezs@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer experience entities are found in the resume provided, therefore there is no output."
+}

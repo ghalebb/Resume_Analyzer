@@ -1,0 +1,7 @@
+{
+    "skills": "Communication Skills, Leadership, Mentoring, Organizing Skills, Decision making skill, Flexibility, MS Word, MS Excel, MS PowerPoint, Cero Parametric",
+    "education": "[{\"Edu1\":{\"degree\":\"Matric\",\"university\":\"Govt.Comprehensive School GRW\",\"graduationDate\":\"2016\"},\n\"Edu2\":{\"degree\":\"DAE in Mechanical\",\"university\":\"Swedish Institute of Technology\",\"graduationDate\":\"2019\"},\n\"Edu3\":{\"degree\":\"Bs in Mechanical Engineering and Technology\",\"university\":\"University of Lahore\",\"graduationDate\":\"2023\"},\n\"Edu4\":{\"degree\":\"Certificate:  Injection Molding Machine Operator\",\"university\":\"\",\"graduationDate\":\"6 months\"}}]",
+    "work_exp": "[{\"name\":\"Abdullah Engineering Services\"},{\"name\":\"Store and Space Engineering\"}]",
+    "personal_info": "[{\"label\":\"Person\",\"ID\":\"P1\",\"Email\":\"adzln3@r.postjobfree.com\"},{\"label\":\"Person\",\"ID\":\"P2\",\"Name\":\"Ali Hamza Ashraf\"}]",
+    "volunteer_info": "No volunteer work is mentioned in the provided resume; therefore, no volunteer work entities could be extracted."
+}

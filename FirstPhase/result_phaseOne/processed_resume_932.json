@@ -1,0 +1,7 @@
+{
+    "skills": "Using vernier caliper, Height gauge, micrometer, Problem solving approach through 7QC tools, Excellent organizer with solid planning and problem-solving skills, Ability to perform good leadership, Ability to hard work without deadline",
+    "education": "[\n  {\n    \"id\": \"Edu1\",\n    \"degree\": \"DME\",\n    \"university\": \"S. Thangapazham Polytechnic College, Vasudevanallur\",\n    \"graduationDate\": None,\n    \"score\": \"92 %\",\n    \"yearOfPassing\": 2015\n  },\n  {\n    \"id\": \"Edu2\",\n    \"degree\": \"ITI\",\n    \"university\": \"Govt ITI, VK Pudhur\",\n    \"graduationDate\": None,\n    \"score\": \"81 %\",\n    \"yearOfPassing\": 2010\n  },\n  {\n    \"id\": \"Edu3\",\n    \"degree\": \"SSLC\",\n    \"university\": \"Muslim High School, vadakarai\",\n    \"graduationDate\": None,\n    \"score\": \"80 %\",\n    \"yearOfPassing\": 2008\n  }\n]",
+    "work_exp": "[{\"name\":\"HYUNDAI MOBIS INDIA PVT (LTD)\"},{\"name\":\"DMW CNC SOLLUTION ENGINEERING\"},{\"name\":\"FAURECIA INDERIARS INDIA PVT LTD\"},{\"name\":\"MOONLIGHT AUTO PVT LTD\"}]",
+    "personal_info": "[\"label\":\"Person\",\"ID\":\"P-1\",\"Email\":\"ad1p9r@r.postjobfree.com\"},\n{\"label\":\"Person\",\"ID\":\"P-2\",\"Name\":\"Kaliraj.M\",\"Relationship\":\"Father\",\"RelatedTo\":\"P-1\"}]",
+    "volunteer_info": "No volunteer work entities were found in the resume provided."
+}

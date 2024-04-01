@@ -1,0 +1,7 @@
+{
+    "skills": "SDLC,STLC, Testplan & Testcases, Defect life cycle, Maven, API testing, Basics of Cypress Automation, Testing, Git Commands, Analytical and Problem-Solving Skills, QA Techniques & Methodologies, Defect tracking tool JIRA, Performance Testing, Eclipse IDE, TestNG, Basics of Selenium, Jenkins, Basics of AWS Cloud",
+    "education": "[\"Edu1\":{\"degree\":\"B.Tech\",\"university\":\"TKR college of engineering and Technology\",\"graduationDate\":None},\n\"Edu2\":{\"degree\":\"Intermediate\",\"university\":\"Narayana Junior College\",\"graduationDate\":None},\n\"Edu3\":{\"degree\":\"SSC\",\"university\":\"Oxford High School\",\"graduationDate\":None}]",
+    "work_exp": "[{\"name\":\"QA engineer\"},{\"name\":\"Toddle-your teaching partner\"},{\"name\":\"Junior Quality Analyst\"},{\"name\":\"SplitVision Technologies Pvt. Ltd\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"PE1\",\n    \"Name\": \"Pooja Biradar\",\n    \"Email\": \"ad20mv@r.postjobfree.com\",\n    \n  }\n]",
+    "volunteer_info": "[]"
+}

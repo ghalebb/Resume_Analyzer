@@ -1,0 +1,7 @@
+{
+    "skills": "Windows, Red Hat Linux, UNIX, Centos, MySQL, Apache Tomcat, GIT, GITHUB, BITBUCKET, Jenkins, Ansible, Chef, Maven,bulid chains, Shell Script, Python and GROOVY, Agile (Scrum Team), Nagios, CloudWatch, Splunk, AWS, GCP, Git, GitHub, Bitbucket, Maven, Jenkins, Chef, Ansible, and Docker, SonarQube, Nexus, Terraform",
+    "education": "[\"Edu1\":{\"degree\":\"M.Tech\",\"university\":\"JNTU (Kakinada)\",\"graduationDate\":\"2015\"},\n \"Edu2\":{\"degree\":\"B.Tech\",\"university\":\"JNTU (Kakinada)\",\"graduationDate\":\"2012\"},\n \"Edu3\":{\"degree\":\"Higher Secondary\",\"university\":\"AP State Board\",\"graduationDate\":\"2008\"},\n \"Edu4\":{\"degree\":\"High School\",\"university\":\"AP State Board\",\"graduationDate\":\"2006\"}]",
+    "work_exp": "[{\"name\":\"Teacher\"}, {\"name\":\"Software Engineer\"}, {\"name\":\"Build Middleware Infrastructure Engineer\"}, {\"name\":\"Devops Engineer\"}]",
+    "personal_info": "[{\"Name\":\"Tulasi Tedala\",\"ID\":\"Tulasi_Tedala123\"}]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

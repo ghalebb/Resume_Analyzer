@@ -1,0 +1,7 @@
+{
+    "skills": "API Testing: Postman, Swagger; Database testing: DBeaver (SQL, MySQL, MariaDB); Test Automation: Selenium Webdriver, JavaScript, NodeJS, Xpath, Github, TestNG, Maven; Mobile Testing: Android Studio, BrowserStack, X-code; Bug Tracking and Resolution: JIRA; QA Tools: Chrome DevTools, Cucumber, Zephyr; Develop Test cases, Test plan, Bug report; Agile and Scrum Environments; Confluence, Slack; Manual Testing",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"Bachelor's degree\",\n      \"university\": \"East Siberian State University of Russia\",\n      \"graduationDate\": \"2006\"\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"Software QA Engineer\"},{\"name\":\"QA Engineer\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"159c2a\",\n    \"Name\": \"GALINA BAZAROVA\",\n    \"Email\": \"ad4f86@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "[]"
+}

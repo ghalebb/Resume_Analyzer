@@ -1,0 +1,7 @@
+{
+    "skills": "HTML, CSS, JavaScript, React.js, TypeScript, Node.js, MongoDB, Express.js, Redux.js, GatsbyJS, Strapi.js",
+    "education": "[\n  {\n    \"id\": \"Edu1\",\n    \"degree\": \"Master in Business Administration (Information Technology)\",\n    \"university\": \"Comsats Institute of Information Technology Lahore Pakistan\",\n    \"graduationDate\": \"May 2003\",\n    \"score\": \"3.7/4.0\"\n  },\n  {\n    \"id\": \"Edu2\",\n    \"degree\": \"Bachelor of Computer Science\",\n    \"university\": \"Allama Iqbal Open university Islamabad, Pakistan\",\n    \"graduationDate\": \"March 2002\",\n    \"score\": null\n  }\n]",
+    "work_exp": "[{\"name\":\"Full Stack Engineer\"},{\"name\":\"Software Developer\"},{\"name\":\"NetworkAdministrator\"},{\"name\":\"Help Desk\"},{\"name\":\"Teacher\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"IMRAN ZIA\",\n    \"ID\": \"P1\",\n    \"Email\": \"ad3jtp@r.postjobfree.com\",\n  }\n]",
+    "volunteer_info": "No volunteer work experience was found in the provided resume."
+}

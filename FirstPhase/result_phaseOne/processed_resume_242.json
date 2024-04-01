@@ -1,0 +1,7 @@
+{
+    "skills": "JavaScript, VBScript, C#, VB6.0, VB.Net, jQuery, AngularJS, Knockout.JS, NodeJS, TypeScript, Angular 13, Aurelia, System.JS, Moment.JS, Kendo UI for Angular, Web Service, WCF Service, WCF REST, WEB API, CSS, HTML, DHTML, LESS, SASS, Bootstrap, Visual Studio 2022, Visual Studio Code, Microsoft Azure, TeamCity, Entity Framework, EF Core, NHibernate, LINQ, Dapper, TFS 2017, SVN Tortoise, GIT, Bitbucket, SQL Server Management Studio 2018, NuGet, NPM, Gulp, Grunt, Bower, Yarn, Webpack, NVM, .NET Framework 4.8, NET Cor\u00e9 3.0, .Net 7, SiteCore.Net 7.5, Agile approach Scrum, Test Driven Development, Waterfall, MS Test, Nunit, xUnit, Telerik Test Studio, WCF Test Client, Jasmine, Karma, ReSharper, Telerik controls, iTextSharp, EF Core Power Tools, Fluent Validations, Data Annotations, Asp.net Dependency Injection, CQRS, Jasmine, Karma, NUnit, TsLint, ReSharper, NuGet, Webpack, GULP, NPM, Team City, Bitbucket, JIRA, TypeScript 3x, HTML 5",
+    "education": "[\"Edu1\":{\"degree\":\"MS\",\"university\":\"Madras University\",\"graduationDate\":\"2003\"},\n\"Edu2\":{\"degree\":\"BCA\",\"university\":\"Nagarjuna University\",\"graduationDate\":\"2001\"}\n]",
+    "work_exp": "[{\"name\":\"Sr. Software Engineer\"},{\"name\":\"Sr. .Net Application Developer\"},{\"name\":\"Lead Developer\"},{\"name\":\"Software Engineer\"},{\".Net Developer\"}]",
+    "personal_info": "[]",
+    "volunteer_info": "The provided resume does not contain any volunteer work experiences, so I cannot extract the requested data."
+}

@@ -1,0 +1,7 @@
+{
+    "skills": "C#, XML, XAML, HTML5 with CSS, Perl, SQL, Java Script, Azure, .Net Framework, WPF, LINQ, DirectX, MEF, Enterprise library, PRISM, HTML5, Web API, WCF, jQuery, Dapr, Signal R, Service Bus, Docker, Kubernetes, Event Hub, IOT Hub, Microsoft Sql Server, Firebird, Sqlite, MS Access, MangoDB, Postgre, Entity Framework, Dapper, nHibernate, .MS/CDS, Web API, ASP.NET Core, Expression blend, Rhyno mock, Enterprise Architect, Fake it easy, XUnit, SVN, TFS, Git, Rational Clear case, Rational Rose, nUnit, nCover, ANT performance tool, Mantis, Jira, TFS tracker, Jenkins, SONAR, RADAR, Gerrit, Azure Devops, Circuit Breaker, CQRS, Health Check, Orchestration pattern, API Gateway, Server/Client side discovery, Access Token, Saga, MVVM, Singleton, strategic pattern, Factory, Abstract Factory, Dependency injection with unity and AutoFac. Repository pattern, Observer pattern",
+    "education": "[\"Edu1\":{\"degree\":\"B.E.\",\"university\":\"VTU Belgaum\",\"graduationDate\":\"2007\"},\n\"Edu2\":{\"degree\":\"MS (Corporate)\",\"university\":\"Manipal University\",\"graduationDate\":\"N/A\"}\n]",
+    "work_exp": "[{\"name\":\"Architect\"},{\"name\":\"Architect\"},{\"name\":\"Specialist\"},{\"name\":\"Lead Engineer\"},{\"name\":\"SSE\"},{\"name\":\"Team member\"},{\"name\":\"SE\"}]",
+    "personal_info": "[]",
+    "volunteer_info": "No volunteer experiences are mentioned in the resume. Therefore, an empty list is returned."
+}

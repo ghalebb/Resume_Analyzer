@@ -1,0 +1,7 @@
+{
+    "skills": "Windows, Android, JIRA, Copy scale, MS Office, Excel",
+    "education": "[\"Edu1\":{\"degree\":\"B.E\",\"university\":\"RGPV University Bhopal\",\"graduationDate\": \"2015\"},\n\"Edu2\":{\"degree\":\"Intermediate\",\"university\":\"SVM Bhopal\",\"graduationDate\": \"2011\"},\n\"Edu3\":{\"degree\":\"High School\",\"university\":\"SVM Bhopal\",\"graduationDate\": \"2009\"},\n]",
+    "work_exp": "[{\"name\":\"HCL Technologies Limited\"},{\"name\":\"Shriram Transport Finance Company Limited\"},{\"name\":\"QUESS Corp Ltd\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"Unknown\",\n    \"ID\": \"1\",\n    \"Email\": \"ad24cq@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "[{\"name\":\"Volunteer in a College Fest\"}, {\"name\":\"Participated in \u201cRun for manavta \u201ca charity run organized by manavta trust India for cancer patients\"}]"
+}

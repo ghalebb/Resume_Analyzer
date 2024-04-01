@@ -1,0 +1,7 @@
+{
+    "skills": "Autodesk Inventor, AutoCAD, Solid Edge, Solid Works, Microsoft Office Suite, SAGE MRP, FEA Software",
+    "education": "[{\"Edu1\":{\"degree\":\"BS Machine & Product\\nDesign Engineering\\nEngineering\",\"university\":\"New England Institute of\\nTechnology\",\"graduationDate\":\"1990\",\"location\":\"Warwick, RI\"},\"Edu2\":{\"degree\":\"AS Machine & Tool Design\\nDesign\",\"university\":\"Community College of\\nRI\",\"graduationDate\":\"1985\",\"location\":\"Warwick, RI\"}}]",
+    "work_exp": "[{\"name\":\"Application Sales Engineer / Project Manager\"},{\"name\":\"Senior Design Engineer/Engineering Team Leader\"},{\"name\":\"Project Engineer\"}]",
+    "personal_info": "[\"label\":\"Person Node\",\"ID\":\"PEN01\",\"Email\":\"ad4a8m@r.postjobfree.com\"},\n{\"label\":\"Person Node\",\"ID\":\"PEN02\",\"Email\":\"\"},\n{\"label\":\"Person Node\",\"ID\":\"PEN03\",\"Email\":\"\"},\n{\"label\":\"Person Node\",\"ID\":\"PEN04\",\"Email\":\"\"}]",
+    "volunteer_info": "[]"
+}

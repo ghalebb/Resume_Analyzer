@@ -1,0 +1,7 @@
+{
+    "skills": "Windows, Mac-OS, Linux, SharePoint, Service-Now, Software Installations, Remote Support, System Administrator, Azure Administrator",
+    "education": "[\n    {\n        \"id\": \"Edu1\",\n        \"degree\": \"Bachelor of Science\",\n        \"university\": \"HNBGU Central University\",\n        \"graduationDate\": \"2016\",\n        \"score\": \"70%\"\n    }\n]",
+    "work_exp": "[{\"name\":\"Senior Technical Support Engineer\"},{\"name\":\"IT Desktop Engineer\"},{\"name\":\"Technical Support Executive\"}]",
+    "personal_info": "[{\"Name\":\"Gaurav Bahuguna\",\"Email\":\"Gaurav.bahuguna507 @gmail.com\"}]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

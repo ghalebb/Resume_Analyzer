@@ -1,0 +1,7 @@
+{
+    "skills": "Data Simulation, Machine Learning, Data Visualization, Natural Language Processing, Cloud Computing, Computer vision, Python, Pyspark, Linux, R, Java, Generative AI/LLMs, Jupyter Noterbooks, Pandas, Opencv, Amazon AWS, Azure, Hadoop",
+    "education": "[{\"Edu1\":{\"degree\":\"Master of Data Science\",\"university\":\"Illinois Institute of Technology\",\"graduationDate\":\"Dec 2020\",\"gpa\":\"3.8\"}},{\"Edu2\":{\"degree\":\"B.S.\",\"university\":\"United States Military Academy, West Point\",\"graduationDate\":\"May 2007\",\"gpa\":\"3.26\"}},{\"Edu3\":{\"degree\":\"Coiled Tubing Drilling Engineer\",\"university\":\"Drilling Engineers of the Future\",\"graduationDate\":\"Aug 2013\"}}]",
+    "work_exp": "[{\"name\":\"Data Science and Strategic Project Consulting\"},{\"name\":\"Stefanini-Data Scientist II, Innovations\"},{\"name\":\"IIT Physics Department Research Assistant\"},{\"name\":\"BP \u2013 America\"},{\"name\":\"Quality Control & Compliance Manager- US Army Corps of Engineers\"},{\"name\":\"Platoon Leader\"}]",
+    "personal_info": "[{\"Name\":\"TRAVIS G. BOLTZ\",\"ID\":\"P1\",\"Email\":\"ad4iff@r.postjobfree.com\"}]",
+    "volunteer_info": "[{\"name\":\"University Project Consultant\"}, {\"name\":\"Real Estate Data Science Developer\"}]"
+}

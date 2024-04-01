@@ -1,0 +1,7 @@
+{
+    "skills": "PHP, Python, Javascript, Java, HTML, CSS, MySql, Flutter",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"Computer Science and Engineering\",\n      \"university\": \"Jayaram College of Engineering and Technologies\",\n      \"graduationDate\": \"May 2017\",\n      \"score\": \"69%\"\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"Freelancer\"}, {\"name\":\"Electrical Engineer\"}]",
+    "personal_info": "[{\"Name\":\"Shankar C\",\"ID\":\"p1\",\"Email\":\"a1m2c@r.postjobfree.com\"}]",
+    "volunteer_info": "There are no volunteer work entities found in the provided resume."
+}

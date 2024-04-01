@@ -1,0 +1,7 @@
+{
+    "skills": "Effective Interpersonal Skills, Excellent Communication, Problem Solving, Structured Query Language (SQL), MS Office, MS Excel, MS Project, ERP Systems: JDE, QAD, SAP, Strategy Development, Primavera P6, AutoCAD, Aspen Icarus Estimating",
+    "education": "[\"Edu1\":{\"degree\":\"Bachelor of Science\", \"university\":\"string\", \"graduationDate\":null},\nEdu2\":{\"degree\":\"Master of Science\", \"university\":\"George Washington University School of Business\", \"graduationDate\":null}]",
+    "work_exp": "[{\"name\":\"MANAGEMENT RECRUITERS OF EDISON\"},{\"name\":\"Cost Controls Engineer\"},{\"name\":\"TreeHouse Foods\"},{\"name\":\"Cost control engineer\"},{\"name\":\"JACOBS ENGINEERING / AKER SOLUTIONS\"},{\"name\":\"Projects Team Leader\"},{\"name\":\"DuPont's Louisville Works Plant\"},{\"name\":\"AEROTEK ENGINEERING\"},{\"name\":\"Project Engineer\"},{\"name\":\"Solae, LLC\"},{\"name\":\"MARATHON OIL CORPORATION\"},{\"name\":\"Project Leader\"}]",
+    "personal_info": "[{\"Name\":\"Kathy M Gray\", \"ID\":\"person1\", \"Email\":\"ad4dmd@r.postjobfree.com\"}]",
+    "volunteer_info": "No entities are listed in the input, so an empty list is returned."
+}

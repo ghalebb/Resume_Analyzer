@@ -1,0 +1,7 @@
+{
+    "skills": "Security Operations, Network Monitoring, Log Analysis, Vulnerability Management, Incident response, Network Pen-Testing, Network Security, threat intelligence, SIEM, Web-App Pen-Testing, TCP/UDP, IP, ICMP, BGP, SMTP, DNS, DHCP, HTTP/HTTPS",
+    "education": "[\n  {\n    \"EduId\": \"Edu1\",\n    \"degree\": \"Master of Science\",\n    \"university\": \"Syracuse University - College of Engineering & Computer Science\",\n    \"graduationDate\": \"May 2024\"\n  },\n  {\n    \"EduId\": \"Edu2\",\n    \"degree\": \"Bachelor of Engineering\",\n    \"university\": \"Dr. D Y Patil University - Ramrao Adik Institute of Technology\",\n    \"graduationDate\": \"July 2021\"\n  }\n]",
+    "work_exp": "[{\"name\":\"Teaching Assistant\"},{\"name\":\"Security Operation Centre Engineer\"},{\"name\":\"Vulnerability Assessment and Penetration Testing Intern\"},{\"name\":\"Software Developer Summer Intern\"}]",
+    "personal_info": "[\"label\":\"Person\",\"ID\":\"1\",\"Email\":\"ad4g5g@r.postjobfree.com\",\"Name\":\"SAURAV SHASHANK NARVEKAR\"}]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

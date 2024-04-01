@@ -1,0 +1,7 @@
+{
+    "skills": "CMG Suite, Petral Software, Ms Excel, Ms PowerPoint, C Language",
+    "education": "[\n {\n  \"Edu1\": {\n   \"degree\": \"B.Tech\",\n   \"university\": \"Lovely Professional University, Phagwara\",\n   \"graduationDate\": \"2021\",\n   \"score\": \"7.54/10\"\n  }\n },\n {\n  \"Edu2\": {\n   \"degree\": \"B.Tech\",\n   \"university\": \"Petroleum Engineer\",\n   \"graduationDate\": null,\n   \"score\": null\n  }\n },\n {\n  \"Edu3\": {\n   \"degree\": \"+2\",\n   \"university\": \"H.M.Y Higher Secondary School, Manjeri\",\n   \"graduationDate\": \"2017\",\n   \"score\": \"84%\"\n  }\n },\n {\n  \"Edu4\": {\n   \"degree\": \"10th\",\n   \"university\": \"Malabar Special Police English Medium High School, Malappuram\",\n   \"graduationDate\": \"2015\",\n   \"score\": \"95%\"\n  }\n }\n]",
+    "work_exp": "[]",
+    "personal_info": "[{\"Name\":\"Vaseem Zaman KP\",\"ID\":\"p1\",\"Email\":\"ad3k5m@r.postjobfree.com\"}]",
+    "volunteer_info": "No volunteer entities were found in the provided resume."
+}

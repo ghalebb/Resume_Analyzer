@@ -1,0 +1,7 @@
+{
+    "skills": "SAP (Prism and APEX), SOLIDWORKS, Promodel Simulation, Arena Simulation, Minitab, MS Office, Discus, Net-Inspect, Lathes, Mills, Thermocouples, Micrometers, Calipers, Comparators, Gages, CMMs, Systems Modeling Language (SysML), Operation Research (OR), Microsoft Visual Basic (VBA), CNC programming, R for statistical computing",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"B.S. Degree\",\n      \"university\": \"California State Polytechnic University - Pomona\",\n      \"graduationDate\": \"2018\",\n      \"score\": \"None\"\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": \"M.S. Degree\",\n      \"university\": \"California State Polytechnic University - Pomona\",\n      \"graduationDate\": \"2024\",\n      \"score\": \"None\"\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"Raytheon Technologies\"},{\"name\":\"Precision Castparts/Composites Horizons LLC\"},{\"name\":\"RUBICON GEAR, INC\"},{\"name\":\"Hannibal Industries, INC\"},{\"name\":\"KFC\"},{\"name\":\"Teacher\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"Marian Aziz\",\n    \"ID\": \"P001\",\n    \"Email\": \"ad4e7f@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer experiences were found in the provided resume."
+}

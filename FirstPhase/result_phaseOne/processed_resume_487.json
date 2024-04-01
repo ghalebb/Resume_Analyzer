@@ -1,0 +1,7 @@
+{
+    "skills": "Test Planning, Strategy, & Execution, Functional Testing, Requirements Analysis, Multiple Test Case Applications (ALM, MTM, etc.), Oracle HCM Cloud Payroll Configurations, Webservice and End to End Testing, PowerShell Scripts, Requirements Analysis & Traceability, Defect Management, Test Driven & Behavioral Driven Development, SQL queries (Oracle PL/SQL, MySQL, MSSQL), Testing in Agile and Waterfall, Design & Build Enablement",
+    "education": "[\"Edu1\":{\"degree\":\"Management\",\"university\":\"State Univ. of West Georgia\",\"graduationDate\":null},\n\"Edu2\":{\"degree\":\"Biology\",\"university\":\"Georgia Institute of Technology\",\"graduationDate\":null}\n]",
+    "work_exp": "[{\"name\":\"Tek Systems\"},{\"name\":\"Primus Software\"},{\"name\":\"Accenture\"},{\"name\":\"Sage\"},{\"name\":\"eSecuritel\"},{\"name\":\"TSYS Loyalty\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"Sandy D. Kiser\",\n    \"ID\": \"P1\",\n    \"Email\": \"sandy.kiser@ gmail.com\"\n  }\n]",
+    "volunteer_info": "[{\"name\":\"Georgia Aquarium\"}]"
+}

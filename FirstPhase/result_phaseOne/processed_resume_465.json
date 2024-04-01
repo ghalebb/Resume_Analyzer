@@ -1,0 +1,7 @@
+{
+    "skills": "Agile Methodologies, Integration, Program Management, Ajax, Interpersonal Skills, Project Management, Analytical Skills, IT Management, Python, Angular, IT Operations, React, API Interactions, IT Services Management, REST Services, APIs, IT Strategy, SDLC, Application Development, Java, Service Delivery Management, Beautiful Soup, JavaScript, SOA Web Services, OSS (Provisioning, Network Inventory), BSS (Auding, Reporting, Billing), Jira, Software as a Service, BSS (CRM, Rating, Provisioning), Software Delivery Management, TMForum Standards (eTom, TAM, SID), Utilization and Creation of APIs, Cloud Computing, Network Operations, Software Architecture, System Architecture, Technical Leadership, Computer Science, Data Integration, DevOps, Platform as a Service",
+    "education": "[{\"Edu1\":{\"degree\":\"Data Science Bootcamp\",\"university\":\"Rutgers University\",\"graduationDate\":\"2023\",\"score\":null}},\n{\"Edu2\":{\"degree\":\"MBA\",\"university\":\"UNESA\",\"graduationDate\":\"2013\",\"score\":null}},\n{\"Edu3\":{\"degree\":\"Post Graduated\",\"university\":\"UNESA\",\"graduationDate\":\"2013\",\"score\":null}},\n{\"Edu4\":{\"degree\":\"Post Graduated\",\"university\":\"UNESA\",\"graduationDate\":\"2013\",\"score\":null}},\n{\"Edu5\":{\"degree\":\"Graduated\",\"university\":\"UNESA\",\"graduationDate\":\"2010\",\"score\":null}}]",
+    "work_exp": "[{\"name\":\"Senior Solution Architect\"},{\"name\":\"Head of Development\"},{\"name\":\"Architect\"},{\"name\":\"Teacher\"}]",
+    "personal_info": "[]",
+    "volunteer_info": "[]"
+}

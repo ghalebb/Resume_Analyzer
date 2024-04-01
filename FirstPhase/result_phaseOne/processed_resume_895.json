@@ -1,0 +1,7 @@
+{
+    "skills": "Core Java, SQL queries, Selenium WebDriver, Postman, Azure DevOps, JIRA, SSMS, Cucumber, TestNG, BDD, Technical blog writing, Release blog writing, Feature documentation, Team management, Effective communication, Team work, Leadership",
+    "education": "[\n{\n\"Edu1\": {\n\"degree\": \"B.Sc Computer Science\",\n\"university\": \"PSGR Krishnammal College\",\n\"graduationDate\": \"May. 2015\",\n\"score\": \"71\"\n}\n},\n{\n\"Edu2\": {\n\"degree\": \"HSC (+2)\",\n\"university\": \"PSGR Krishnammal College\",\n\"graduationDate\": \"May. 2012\",\n\"score\": \"77\"\n}\n}\n]",
+    "work_exp": "[{\"name\":\"Software QA Engineer\"},{\"name\":\"Software Test Engineer\"},{\"name\":\"Software Test Engineer\"}]",
+    "personal_info": "[{\"Name\":\"Deepthi Murugaraj\", \"ID\":\"p1\", \"Email\":\"ad10gm@r.postjobfree.com\"}]",
+    "volunteer_info": "[]"
+}

@@ -1,0 +1,7 @@
+{
+    "skills": "AWS EC2, VPC, S3, Route53, SNS, IAM, CloudFront, EBS, ELB, ECS, EKS, Lambda, CloudFormation, CloudFront, ssm, Auto Scaling, SQS, Microsoft Azure VM, Active Directory, ARM, App Service, AKS, ACR, Blob storage, Azure SQL, Azure Monitor, Azure Functions, Cosmos DB, Google Cloud Platform Compute Engine, Cloud Functions, BigQuery, GCR, GKE, Data Proc, DataFlow, App Engine, Knative, Cloud storage, Cloud Datastore, Chef, Ansible, Puppet, Maven, Ant, Gradle, Jenkins, Bamboo, GitLab CI, GitHub Actions, TeamCity, GitHub, SVN, Bitbucket, Sonatype Nexus, JFrog, Nagios, Splunk, Prometheus, Grafana, Log DNA, ELK, AppDynamics, Dynatrace, Datadog, Sysdig, Oracle, MongoDB, SQL Server, MS SQL, MySQL, NoSQL, Cosmos DB, PostgreSQL, Cassandra, Snowflake, HTML, Bash, Shell Scripting, Ruby, Groovy, YAML, Python, Java, Perl, PL/SQL Jira, Bugzilla, HP-ALM, Remedy, ServiceNow Oracle VM Virtual Box, VMware, Vagrant Apache Tomcat, WebLogic, WebSphere, Jboss, Wildfly, IIS, Nginx and Kafka",
+    "education": "Extraction Results:\n\nNo education-related entities were found in the provided resume.",
+    "work_exp": "[{\"name\":\"Amazon\"},{\"name\":\"CenterPoint Energy\"},{\"name\":\"AstraZeneca\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Name\",\n    \"id\": \"person52402\",\n    \"Email\": \"ad4gv6@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "The provided resume does not contain any volunteer work experience."
+}

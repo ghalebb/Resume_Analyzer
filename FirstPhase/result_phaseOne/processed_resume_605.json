@@ -1,0 +1,7 @@
+{
+    "skills": "RDBMS: Snowflake, Aurora Mysql, Oracle, Teradata, SQL Server, PL / SQL\nProgramming, MySQL.\nETL Tool: DataStage, Talend\nPrograming Language & Concept: Python, C, C++, OOPS concept.\nApplication tool: MS Excel, MS Word, MS, Visual Studio 2008, 2010 Power Point, Thin Client, Source Tree, SQL Developer\nOperating System: Win98, Win 2000, Win XP, Win7, Win8,8.1, Win10\nCLOUD: AZURE",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"MCA\",\n      \"university\": \"UPTU\",\n      \"graduationDate\": \"2014\"\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": \"BCA\",\n      \"university\": \"Kanpur University\",\n      \"graduationDate\": \"2011\"\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"Lead - Developer\"},{\"name\":\"IT Analyst\"},{\"name\":\"Senior Software Engineer\"},{\"name\":\"PL/SQL Developer\"},{\"name\":\"Senior Analyst\"},{\"name\":\"SQL Developer\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"Shiwani\",\n    \"ID\": \"shwn1234\",\n    \"Email\": \"ad3z1t@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "The text does not provide any volunteer experiences, so the requested data could not be extracted."
+}

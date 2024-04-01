@@ -1,0 +1,7 @@
+{
+    "skills": "Writing, Problem Solving, Troubleshooting, Microsoft Office, Windows 8, Windows 10, Active Directory, ITSM Tools, Azure Portal, Outlook Configuration, Malware Detection, Remote Troubleshooting, System Diagnostics, Report Analysis",
+    "education": "[\"Edu1\":{\"degree\":\"B.Sc.\",\"university\":\"Mumbai\",\"graduationDate\":\"2021\",\"score\":\"9.75 CGPA\"},\n\"Edu2\":{\"degree\":\"Diploma\",\"university\":\"Mumbai (MSBT)\",\"graduationDate\":\"2017\",\"score\":\"72.56%\"},\n\"Edu3\":{\"degree\":\"S.S.C\",\"university\":\"Maharashtra Board\",\"graduationDate\":\"2014\",\"score\":\"75.00%\"}]",
+    "work_exp": "[{\"name\":\"Future Focus Infotech Pvt. Ltd.\"},{\"name\":\"Service Desk Engineer\"},{\"name\":\"Dixit Infotech Pvt. Ltd.\"},{\"name\":\"Data Care Corporation Pvt. Ltd.\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Name\",\n    \"ID\": \"p1\",\n    \"Email\": null\n  }\n]",
+    "volunteer_info": "[]"
+}

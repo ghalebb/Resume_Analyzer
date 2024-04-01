@@ -1,0 +1,7 @@
+{
+    "skills": "Programming Language : C, Python, Java, MATLAB,\nDesigning tools & Software\u2019s : Solid works, ANSYS, AutoCAD, and Microsoft Office,\nSkills :Team Leadership, Public Speaking, Project Management, Research and Development",
+    "education": "[\n  {\n    \"id\": \"Edu1\",\n    \"degree\": \"Bachelor of Engineering\",\n    \"university\": \"Muffakham Jah College of Engineering and Technology\",\n    \"graduationDate\": \"2021\",\n    \"score\": \"8.24\"\n  },\n  {\n    \"id\": \"Edu2\",\n    \"degree\": \"Intermediate\",\n    \"university\": \"Sultan-Ul Uloom Junior College\",\n    \"graduationDate\": \"2017\",\n    \"score\": \"8.15\"\n  },\n  {\n    \"id\": \"Edu3\",\n    \"degree\": \"High School\",\n    \"university\": \"Mesco grades high school\",\n    \"graduationDate\": \"2015\",\n    \"score\": \"7.5\"\n  }\n]",
+    "work_exp": "[{\"name\":\"Machinist\"}, {\"name\":\"Welder\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"1\",\n    \"Email\": \"ad2e0d@r.postjobfree.com\"\n  },\n  {\n    \"label\": \"Person\",\n    \"ID\": \"2\",\n    \"Email\": null\n  }\n]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

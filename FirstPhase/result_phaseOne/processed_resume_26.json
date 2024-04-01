@@ -1,0 +1,7 @@
+{
+    "skills": "Agile, Apache Airflow, Apache Druid, Apache Hive, Apache Kafka, Apache Oozie, Apache Pig, Apache Spark, Apache Superset, AWS Cloud Services, AWS EC2, AWS Redshift, AWS S3, AWS Simple Storage Service, AWS Virtual Private Cloud, Bash, Cassandra, C++, Data Lake, Data Modeling, Data Warehousing, Dimensional Modeling, DynamoDB, ETL Data Pipelines, Google Cloud Services, Google Cloud Storage, Google DataProc, Hadoop, HBase, Hive, Informatica Cloud (IICS), Informatica Intelligent Cloud Services (IICS), Informatica Power Exchange, Java, Libraries, MapReduce, Microsoft Power Automate, Microsoft Power BI, MongoDB, MS Access, MS Excel, MS Power Point, MS SQL Server, MySQL, NoSQL, NumPy, Oracle, Pandas, PL/SQL, Python, RDBMS, Redshift, Scala, Scikit-learn, Snowflake, Spark SQL, SQL, Sqoop, Star Schema, Tableau, Teradata, Version control, Visualization",
+    "education": "[\"Edu1\":{\"degree\":\"Bachelor\u2019s\", \"university\":\"JNTU\", \"graduationDate\":null}, \"Edu2\":{\"degree\":\"Master\u2019s\", \"university\":\"University of Sunderland\", \"graduationDate\":null}",
+    "work_exp": "[{\"name\":\"United Airlines\"}, {\"name\":\"Google\"}, {\"name\":\"Comcast\"}, {\"name\":\"American Electric Power\"}, {\"name\":\"Huntington National Bank\"}, {\"name\":\"United Nations\"}, {\"name\":\"Prudential Financial\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"Reddy\",\n    \"ID\": \"1\",\n    \"Email\": \"ad35yi@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer work entities were identified in the provided resume."
+}

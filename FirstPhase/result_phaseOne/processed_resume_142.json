@@ -1,0 +1,7 @@
+{
+    "skills": "- VMware ESXi, VMotion, Vconverter\n- Clusters, HA, DRS, FT, Snapshots, Clone\n- Ansible, Ansible Playbooks\n- Git, Git Lab\n- EC2, S3, IAM, Cloudfront, CloudWatch, Cloud Trial, VPC\n- TCP/UDP, DNS, DHCP, IP, Sys Log, Samba, Httpd\n- RHEL, CentOS, Ubuntu\n- Patching, Decommissioning, Migration\n- System Tuning, Kernel Tuning, Hardware Tuning\n- NetBackup\n- PXE Boot, Kick-Start, Nic-Bonding\n- Log Monitoring, Permissions, User Management, ILO/IDRAC\n- Bash-Scripting, YAML\n- NFS, MySQL, SSH, Apache, Yum, Rpm, Yum Repo Server, NTP\n- Networking, Filesystem, RAID\n- Nagios, Prometheus\n- BMC Remedy, Jira, Snow\n- SAN, LUN, NAS, NFS, LVM\n- Docker, Kubernetes\n- Bash-Scripting, YAML\n- Git, Git Lab",
+    "education": "[{\"Edu1\":{\"degree\":\"Bachelor in Computer Science\",\"university\":\"ITT Tech Institute\",\"graduationDate\":\"2012\"}}]",
+    "work_exp": "[{\"name\":\"Charles Schwab\"},{\"name\":\"Dell Technologies\"},{\"name\":\"Fiserv\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"p1\",\n    \"Email\": \"ad4fvp@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer work entities are found in the provided resume."
+}

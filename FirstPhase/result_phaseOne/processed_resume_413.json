@@ -1,0 +1,7 @@
+{
+    "skills": "- AWS\n- DevOps\n- Continuous Integration\n- Continuous Deployment\n- Cloud Implementations\n- Java\n- Python\n- EC2\n- S3\n- EBS\n- ELB\n- CloudWatch\n- RDS\n- Jenkins\n- Ansible\n- Docker\n- Kubernetes\n- Monitoring\n- Nagios\n- ELK\n- SQL\n- POSTGRES\n- MYSQL\n- SMTP\n- SNMP\n- Unix\n- Git\n- VSTS\n- Kubernetes\n- Terraform\n- CloudFormation\n- Data Visualisation\n- Prometheus\n- Grafana\n- Athena\n- Kafka\n- Docker\n- Shell and PowerShell scripting\n- Postman\n- Swagger\n- Cloud Foundry\n- RHEL\n- ADFS",
+    "education": "[\"Edu1\":{\"degree\":\"Associate of Science (A.S.)\",\"university\":\"Foothill College\",\"graduationDate\":None},\n\"Edu2\":{\"degree\":\"Bachelor of Arts (B.A.)\",\"university\":None,\"graduationDate\":None}\n]",
+    "work_exp": "[{\"name\":\"Senior Cloud Engineer\"},{\"name\":\"Senior DevOps Engineer\"},{\"name\":\"DevOps Engineer\"},{\"name\":\"Cloud Engineering\"},{\"name\":\"Build and Release Engineer\"},{\"name\":\"Full Stack Developer\"}]",
+    "personal_info": "[{\"Name\":\"Rakan Mohammad\",\"ID\":\"1\",\"Email\":\"ad3muf@r.postjobfree.com\"}]",
+    "volunteer_info": "[]"
+}

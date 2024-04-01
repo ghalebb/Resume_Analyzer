@@ -1,0 +1,7 @@
+{
+    "skills": "SQL, PL/SQL, Python, Scala, Java, C, C++, Hadoop, HDFS, Map Reduce, HIVE, PIG, HBase, SQOOP, Oozie, Zookeeper, Spark, Kafka, Storm, Solr, Impala, Airflow, JUnit, Log4j, Rational Clear case, CVS, ANT, Maven, JBuilder, CVS, Subversion, GIT, Ant, Maven, Gradle, Hudson, Team City, Jenkins, Chef, Puppet, Ansible, Docker, Shell (Bash), Perl, PowerShell, Ruby, Groovy, PowerShell, Nagios, Cloud Watch, JIIRA, Bugzilla and Remedy, Oracle, MS SQL Server, DB2, MS Access & MySQL, Teradata, Cassandra, Mongo DB, HBase, AWS, Azure, Snowflake, Windows, Solaris, Unix, Linux (Red Hat 5.x, 6.x, 7.x'SUSELinux 10), Sun Solaris, Ubuntu, CentOS",
+    "education": "[\n \"Edu1\":{\n  \"degree\":\"Master\u2019s in computer science\",\n  \"university\":\"New Jersey Institute of Technology \",\n  \"graduationDate\":\"Aug\u20192023\",\n },\n \"Edu2\":{\n  \"degree\":\"Bachelor\u2019s in computer science and engineering\",\n  \"university\":\"Jawaharlal Nehru Technological University\",\n  \"graduationDate\":\"Jun\u20192020\",\n }\n]",
+    "work_exp": "[{\"name\":\"Cloud Engineer\"},{\"name\":\"Data Engineer\"},{\"name\":\"Big Data Engineer\"},{\"name\":\"Business Data Analyst\"}]",
+    "personal_info": "Extraction Results:\n\n[{\"Name\":\"Sai Krupa\",\"ID\":\"P_01\", \"Email\":\"ad39k2@r.postjobfree.com\"}]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}
