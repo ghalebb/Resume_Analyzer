@@ -1,0 +1,7 @@
+{
+    "skills": "Java, Microservices, Spring Boot, MySQL",
+    "education": "[\n  {\n    \"id\": \"Edu1\",\n    \"degree\": \"B.Tech \u2013 Information Technology\",\n    \"university\": \"College of Engineering and Management, Kolaghat\",\n    \"graduationDate\": \"2022\",\n    \"score\": \"85.50%\"\n  },\n  {\n    \"id\": \"Edu2\",\n    \"degree\": null,\n    \"university\": \"Nardingaj College, Bihar\",\n    \"graduationDate\": \"2017\",\n    \"score\": \"60.60%\"\n  },\n  {\n    \"id\": \"Edu3\",\n    \"degree\": null,\n    \"university\": \"Orro High School\",\n    \"graduationDate\": \"2015\",\n    \"score\": \"63.80%\"\n  }\n]",
+    "work_exp": "[{\"name\":\"Software Developer\"},{\"name\":\"Teacher\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"Subin Roushan\",\n    \"ID\": \"1\",\n    \"Email\": \"ad21ra@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "[]"
+}

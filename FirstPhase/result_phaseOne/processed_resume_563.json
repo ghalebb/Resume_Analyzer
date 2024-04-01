@@ -1,0 +1,7 @@
+{
+    "skills": "- Java\n- git\n- Microsoft-word\n- Basic-Electrical",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"B.E.\",\n      \"university\": \"NMU\",\n      \"graduationDate\": \"2017\",\n      \"score\": \"66.00%\"\n    },\n    \"Edu2\": {\n      \"degree\": \"H.S.C.\",\n      \"university\": \"STATE BOARD OF MAHARASHTRA\",\n      \"graduationDate\": \"2013\",\n      \"score\": \"60.67%\"\n    },\n    \"Edu3\": {\n      \"degree\": \"S.S.C.\",\n      \"university\": \"STATE BOARD OF MAHARASHTRA\",\n      \"graduationDate\": \"2011\",\n      \"score\": \"89.27%\"\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"NDQube Technologies Pvt Ltd\"},{\"name\":\"Flash Electronics India Pvt Ltd\"},{\"name\":\"Statlec India Electricals Pvt. ltd\"}]",
+    "personal_info": "[{\"label\":\"Person\",\"ID\":\"p1\",\"Name\":\"Tejas Pavitre\",\"Email\":\"ad36w2@r.postjobfree.com\"}]",
+    "volunteer_info": "The provided resume does not contain any volunteer work entities."
+}

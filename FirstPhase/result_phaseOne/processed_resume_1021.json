@@ -1,0 +1,7 @@
+{
+    "skills": "Project Management, Stakeholder Management, Solution Designing, Technology Optimization, Cloud Implementation, Team Building, Leadership, Services Delivery, Effort Estimations, GIS Implementation, Cost Optimization, Vendor Management, ArcGIS Pro basics, ArcGIS Online basics, Windows, IIS, Oracle, SQL Server, Agile, Waterfall, Scrum, SOAP, REST, C#, ASP.Net, Python, MS Azure, Javascript, HTML, CSS, JS, JQuery, XML, ESRI (ArcGIS Desktop, ARCGIS Server, ArcGIS Pro, ArcGIS Portal, ARCGIS Dashboard, ArcFM, ArcGIS Geoprocessing tool, ArcGIS Data Reviewer, ArcObject, ArcPy), FME Server, FME Desktop",
+    "education": "[\"Edu1\":{\"degree\":\"Master of Science\",\"university\":\"Symbiosis International University, India\",\"graduationDate\":null},\n\"Edu2\":{\"degree\":\"Master of Science\",\"university\":\"Wilson College, Mumbai University\",\"graduationDate\":null},\n\"Edu3\":{\"degree\":\"Bachelor of Science\",\"university\":\"Mumbai University\",\"graduationDate\":null}]",
+    "work_exp": "[{\"name\":\"GIS Digital Modernisation\"},{\"name\":\"GIS Architect\"},{\"name\":\"Senior GIS Architect\"},{\"name\":\"GIS Architect\"},{\"name\":\"GIS Consultant\"},{\"name\":\"GIS Application Developer\"},{\"name\":\"Software Engineer\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"1\",\n    \"Email\": \"ad3elo@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer experience was listed in the provided resume."
+}

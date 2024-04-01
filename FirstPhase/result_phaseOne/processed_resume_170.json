@@ -1,0 +1,7 @@
+{
+    "skills": "Linux, Microsoft Cloud Technologies, GCP, AWS, Openstack, Cisco, Ciena, Juniper, TCP/IP, BGP, OSPF, UDP, DNS, DIAMETER, SIP, LDAP, SDN, NFV, Docker, Containers",
+    "education": "No education information is present in the provided resume. Therefore, an empty list is returned.\n\n[]",
+    "work_exp": "[{\"name\":\"CLOUD NETWORK ARCHITECT\"},{\"name\":\"SENIOR CLOUD ENGINEER SPECIALIST-NETWORK ENGINEER\"},{\"name\":\"ENGINEER III, NETWORK ENGINEERING & OPERATIONS\"},{\"name\":\"NETWORK OPERATION CENTER ENGINEER\"},{\"name\":\"ASSSOCIATE TECHNICIAN- NETWORK REPAIR BUREAU\"},{\"name\":\"INFORMATION TECHNOLOGY MANAGER\"},{\"name\":\"Teacher\"}]",
+    "personal_info": "[\n {\n  \"label\": \"Person\",\n  \"ID\": \"P_1\",\n  \"Name\": \"TREVOR SMITH\",\n  \"Email\": \"ad4fly@r.postjobfree.com\",\n }\n]",
+    "volunteer_info": "No volunteer experiences are found in the provided resume. Therefore, the list of entities is empty."
+}

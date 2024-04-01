@@ -1,0 +1,7 @@
+{
+    "skills": ".Net, C#, ASP.NET, SQL, Javascript, AWS, Azure, NODE, BootStrap, Selenium, Cabybara, Spec-Flow, Docker, Ruby, LinQ, SOAP/RestAPI, BDD, GIT",
+    "education": "[{\"Edu1\":{\"degree\":\"Master Technology Associate\",\"university\":\"Microsoft\",\"graduationDate\":\"July 2021\"},\n\"Edu2\":{\"degree\":\"Salesforce and Deloitte Pathfinder Program\",\"university\":\"Salesforce and Deloitte\",\"graduationDate\":\"Jun 2020\"},\n\"Edu3\":{\"degree\":\"Javascript and .Net(C#)\",\"university\":\"ElevenFifty Academy\",\"graduationDate\":\"Jan 2018\"},\n\"Edu4\":{\"degree\":\"Bachelor of Science\",\"university\":\"University of Evansville\",\"graduationDate\":\"May 2013\"}}\n]",
+    "work_exp": "[{\"name\":\"Sr. QA Specialist/ Consultant\"},{\"name\":\"EImagine Present\"},{\"name\":\"Sr. QA Engineer\"},{\"name\":\"Truist Bank-Atlanta, GA\"},{\"name\":\"QA Test Analyst (SDET)\"},{\"name\":\"TJX-Farminton, MA\"},{\"name\":\"Test Analyst/Production Support\"},{\"name\":\"CVS-Buffalo Groove, IL\"},{\"name\":\"QA Test Analyst (SDET)\"},{\"name\":\"Sallie Mae-Indianapolis, IN\"}]",
+    "personal_info": "[\n  {\n    \"name\": \"DEQUON TURNER\",\n    \"ID\": \"0\",\n    \"email\": \"ad4baq@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "[]"
+}

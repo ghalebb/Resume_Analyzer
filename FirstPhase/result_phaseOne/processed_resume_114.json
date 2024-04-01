@@ -1,0 +1,7 @@
+{
+    "skills": "Big Data, Hadoop, Hive, Flume, Sqoop, Airflow, Nifi, Spark, Spark Streaming, HBase, Pig, Yarn, Kafka, Zookeeper, Python, Scala, PySpark, SQL, continuous Integration (CI-CD), HiveQL, MapReduce, XML, FTP, Python, Jenkins, UNIX, Shell scripting, LINUX, Parquet, Avro & JSON, ORC, Text, CSV, Apache Spark, Spark Streaming, Flink, Storm, AWS EC2, Apache Cassandra, Amazon Redshift, DynamoDB, Apache HBase, Apache Hive, MongoDB, Amazon AWS, Azure, GCP, Databricks, Google Cloud Platform, Redshift, DynamoDB, Cassandra, Apache HBase, SQL, MongoDB, Snowflake",
+    "education": "[\n {\"Edu1\":{\"degree\":\"M.S\",\"university\":\"Santa Clara University\",\"graduationDate\":null}},\n {\"Edu2\":{\"degree\":\"M.S\",\"university\":\"University of Science and Technology of China\",\"graduationDate\":null}},\n {\"Edu3\":{\"degree\":\"B.S\",\"university\":\"Anhui University\",\"graduationDate\":null}}\n]",
+    "work_exp": "[{\"name\":\"Sr. Data Engineer\"},{\"name\":\"Sr. Big Data Engineer\"},{\"name\":\"Data Engineer\"},{\"name\":\"Hadoop Developer\"},{\"name\":\"Teacher\"},{\"name\":\"Big Data Engineer\"},{\"name\":\"Sr. Data Engineer\"}]",
+    "personal_info": "[\"label\":\"Person Node\",\"ID\":\"per1441\",\"Email\":\"ad4fdt@r.postjobfree.com\",\"Name\":\"Jun Liu\"}",
+    "volunteer_info": "No volunteer experiences were found in the provided resume."
+}

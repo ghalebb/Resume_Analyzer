@@ -1,0 +1,7 @@
+{
+    "skills": "Windows XP, Vista, AutoCAD-2006, STADD Pro, MS Office, MS Excel",
+    "education": "[{\"Edu1\":{\"degree\":\"BE\",\"university\":\"string\",\"graduationDate\":\"string\",\"score\":\"61%\"}},\n{\"Edu2\":{\"degree\":\"Diploma\",\"university\":\"K,L,N Polytechnic, madurai\",\"graduationDate\":\"2009\",\"score\":\"69.5%\"}},\n{\"Edu3\":{\"degree\":\"Higher Secondary\",\"university\":\"Government Higher Secondary School,Elumalai\",\"graduationDate\":\"2007\",\"score\":\"53.58%\"}},\n{\"Edu4\":{\"degree\":\"Secondary School\", \"university\":\"Government Higher Secondary School,Elumalai\",\"graduationDate\":\"2005\",\"score\":\"62%\"}}]",
+    "work_exp": "[{\"name\":\"JET\"},{\"name\":\"Site Engineer\"},{\"name\":\"Project Sr Site Engineer\"},{\"name\":\"Project Engineer\"},{\"name\":\"Project Engineer\"}]",
+    "personal_info": "[\n {\n  \"label\": \"Person\",\n  \"ID\": \"P1\",\n  \"Name\": \"Mathankumar.S\",\n  \"Email\": \"ad2cf1@r.postjobfree.com\",\n  \n },\n \n {\n   \"lable\": \"Person\",\n   \"ID\": \"P2\",\n   \"Name\": \"M.Subbian\"\n }\n]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

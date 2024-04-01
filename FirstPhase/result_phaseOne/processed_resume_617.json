@@ -1,0 +1,7 @@
+{
+    "skills": "AutoCad, Staad Pro",
+    "education": "[\n    {\n        \"Edu1\": {\n            \"degree\": \"Bachelor of Technology\",\n            \"university\": \"Manipal University Jaipur\",\n            \"graduationDate\": \"2021-Present\",\n            \"score\": \"7\"\n        },\n    },\n    {\n        \"Edu2\": {\n            \"degree\": \"Diploma in civil engineering\",\n            \"university\": \"BN College of Engineering and Technology\",\n            \"graduationDate\": \"2020\",\n            \"score\": \"69%\"\n        },\n    },\n    {\n        \"Edu3\": {\n            \"degree\": \"Class 10th\",\n            \"university\": \"Geeta International Public School, Padrauna Kushinagar, UP\",\n            \"graduationDate\": \"2017\",\n            \"score\": \"7.60\"\n        },\n    },\n]",
+    "work_exp": "[{\"name\":\"M/s. Maa Bindhyawasani Construction Company\"},{\"name\":\"Assistant Site Engineer\"},{\"name\":\"Summer Training\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"person\",\n    \"ID\": \"pe1\",\n    \"Email\": \"ad3xer@r.postjobfree.com\",\n    \"Name\":\"Shivsagar Tiwari\"\n  }\n]",
+    "volunteer_info": "No volunteer work entities found."
+}

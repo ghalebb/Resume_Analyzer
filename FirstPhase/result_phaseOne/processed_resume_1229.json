@@ -1,0 +1,7 @@
+{
+    "skills": "Office 365, Active Directory, VMWare, Hyper-V, Cloud, Azure, AWS, Backup systems, Networking, OS Windows, MacOS & Linux, Windows Server, InTune, Teams, SharePoint, PowerShell, Auto Task, WebEx, Cisco, MS Office Suite, VMWare ESX, Windows",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"MSc in Telecom Technology\",\n      \"university\": \"SIKKIM MANIPAL UNIVERSITY\",\n      \"graduationDate\": \"2007\",\n      \"score\": \"1st Division\"\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": \"BSc in Information Technology\",\n      \"university\": \"SIKKIM MANIPAL UNIVERSITY\",\n      \"graduationDate\": \"2007\",\n      \"score\": \"1st Division\"\n    }\n  },\n  {\n    \"Edu3\": {\n      \"degree\": \"Diploma in Information Technology\",\n      \"university\": \"SIKKIM MANIPAL UNIVERSITY\",\n      \"graduationDate\": \"2007\",\n      \"score\": \"1st Division\"\n    }\n  },\n  {\n    \"Edu4\": {\n      \"degree\": \"Diploma in Electronics\",\n      \"university\": \"NATIONAL APPRENTICESHIPS\",\n      \"graduationDate\": \"1989\",\n      \"score\": \"1st Division\"\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"Technical Manager\"},{\"name\":\"Teacher\"},{\"name\":\"Electronics Engineer\"}]",
+    "personal_info": "[{\"label\":\"Person\",\"ID\":\"PE-1\",\"Name\":\"SANJIV KAUSHAL\",\"Email\":\"adsjzq@r.postjobfree.com\"}]",
+    "volunteer_info": "The provided resume does not contain any volunteer work entities."
+}

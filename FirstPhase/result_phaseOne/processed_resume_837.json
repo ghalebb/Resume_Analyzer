@@ -1,0 +1,7 @@
+{
+    "skills": "C, Windows XP and higher versions, MS Office, MS Word, MS Excel, Internet, Power Point, PLC programing",
+    "education": "[\"Edu1\":{\"degree\":\"B.Tech\",\"university\":\"West Bengal University of Technology\",\"graduationDate\":\"2014\",\"score\":\"7.13 / 10 DGPA\"}]",
+    "work_exp": "[{\"name\":\"CCTV Engineers\"},{\"name\":\"Telecom Site Engg\"},{\"name\":\"Site Engineer\"},{\"name\":\"Project Engineer\"},{\"name\":\"RF Engineer\"},{\"name\":\"Site Engineer\"},{\"name\":\"Teacher\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"P1\",\n    \"Name\": \"Sk Najbul Hossain\",\n    \"Email\": \"ad2efw@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "The provided resume does not contain any volunteer work entities."
+}

@@ -1,0 +1,7 @@
+{
+    "skills": "Auto Cad, CNC Programming, Simulation, Communication skills",
+    "education": "[\"Edu1\":{\"degree\":\"B.E(MECH)\",\"university\":\"Narasu\u2019s Sarathy Institute Of\\nTechnology\",\"graduationDate\":\"2018\"},\n\"Edu2\":{\"degree\":\"DME (MECH)\",\"university\":\"The Kavery Polytechnic\\nCollege\",\"graduationDate\":\"2015\"},\n\"Edu3\":{\"degree\":\"HSC\",\"university\":\"Government Boys Higher\\nSecondary School\",\"graduationDate\":\"2013\"},\n\"Edu4\":{\"degree\":\"SSLC\",\"university\":\"Government Boys Higher\\nSecondary School\",\"graduationDate\":\"2011\"}]",
+    "work_exp": "[{\"name\":\"Trainer and Team leader\"},{\"name\":\"QC engineer\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Name\",\n    \"ID\": \"1\",\n    \"Email\": \"g.sai@gmail.com\"\n  }\n]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

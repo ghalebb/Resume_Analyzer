@@ -1,0 +1,7 @@
+{
+    "skills": "AWS, Azure, SNS, EC2, IaC, Tableau, S3, SAS, DMS, VPC, RDS, SES, Auto Scaling, Code Pipeline, CI/CD, ECR, CLI, Lambda, CloudWatch, Route53, Putty, Databases, VScode, Eclipse, BitBucket, VMware, Jupyter Notebook, VS Code Containerization, Programming, Automation, AWS, Azure, GCP(Essentials), Cloud Formation, Terraform, Scrum, Waterfall Operating, Windows, Ubuntu, macOS, Linux, GIT, Bitbucket, GitHub, Jenkins, Ansible, PowerShell, Docker, Kubernetes, Cloud Watch, ELK, C, C++, Java, Python, HTML, CSS, SQL, JavaScript",
+    "education": "[{\"Edu1\":{\"degree\":\"Bachelor of Technology\",\"university\":\"ANITS\",\"graduationDate\":\"2021\",\"score\":None}}]",
+    "work_exp": "[{\"name\":\"DevOps Engineer\"}, {\"name\":\"Software Engineer\"}]",
+    "personal_info": "[{\"Name\":\"Srinivas Teja\",\"ID\":\"p1\",\"Email\":\"ad4a9z@r.postjobfree.com\"}]",
+    "volunteer_info": "[]"
+}

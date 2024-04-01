@@ -1,0 +1,7 @@
+{
+    "skills": "Python, SIEM Tools, Packet Sniffer, IDS/IPS, Linux (CLI), SQL - PL/SQL, DB SME, SQL*Loader, Backup & Recovery, Data Guard 10g & 11g, Information Security professional, Vulnerability Assessment, Risk management, Strong communication, Problem-Solving skills, Network Security Protocols, Threat Modeling, Incident response and escalation, CIA Triage Proficient, Reducing Security Incidents, Security Posture, Security Incidents business operations, Google Cybersecurity Certification, Database Administration, Database Design, Testing, Data Modeling, Data Structures, Perform Tuning, High Availability, CompTIA Security+ SY0-701, Oracle Cloud Database 12c, DBA Certification for Oracle 11g",
+    "education": "[\"Edu1\":{\"degree\":\"Master of Software Engineering (MSE)\",\"university\":\"string\",\"graduationDate\":\"2003\"},\n\"Edu2\":{\"degree\":\"Executive MBA\",\"university\":\"string\",\"graduationDate\":\"2021\"}\n]",
+    "work_exp": "[\n  {\n    \"name\": \"Crescent Group\"\n  },\n  {\n    \"name\": \"ASP Cares (ASP)\"\n  },\n  {\n    \"name\": \"Air University\"\n  },\n  {\n    \"name\": \"COMSATS Software Center\"\n  }\n]",
+    "personal_info": "[{\"Name\":\"Masood Ahmad\",\"ID\":\"pe1\",\"Email\":\"ad4ag7@r.postjobfree.com\"}]",
+    "volunteer_info": "No volunteer entities were found in the provided resume."
+}

@@ -1,0 +1,7 @@
+{
+    "skills": "Microsoft ADO (ActiveX Data Object), Microsoft ADO.NET (ActiveX Data Object), SQL (Structured Query Language), Microsoft .NET, Microsoft Visual Studio Application Programming Interface (API), Microsoft C# (C Sharp), JavaScript, JSON, Microsoft Visual Basic.NET, Microsoft VBScript (Visual Basic Script), Scripting Language, XML (Extensible Markup Language), Microsoft Active Server Page (ASP), CSS (Cascading Style Sheet), Intranet, Microsoft ASP.NET (Active Server Page), Microsoft SharePoint, DevOps, Scrum, Project Management, Team Player, eCommerce, Sales, Workload Automation, Web Design, Enterprise Application Integration (EAI), Team Lead/Manager, User Interface/Experience (UI/UX), Project Tracking Systems Maintenance, Software Administration, Software Engineering, ScrumMaster, Microsoft Certifications, Microsoft SQL Server, Microsoft Windows Azure, Bug Tracking/Defect Management",
+    "education": "The provided resume does not contain any education information. Therefore, an empty list is returned.\n\n[]",
+    "work_exp": "[{\"name\":\"Developer\"},{\"name\":\"Developer\"},{\"name\":\"Software Engineer\"}]",
+    "personal_info": "[]",
+    "volunteer_info": "No volunteer work entities were found on the resume provided."
+}

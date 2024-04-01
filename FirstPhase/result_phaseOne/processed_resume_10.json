@@ -1,0 +1,7 @@
+{
+    "skills": "* Automation\n* Selenium IDE\n* Selenium RC\n* Selenium Web driver\n* Selenium Grid\n* HTML\n* CSS\n* XML\n* XPATH\n* Java Script\n* Java\n* C#\n* .NET\n* SQL\n* Apache HTTP\n* Apache Tomcat\n* TFS\n* WebLogic\n* Junit\n* TestNG\n* JIRA\n* SOAP UI\n* Rest API\n* Eclipse\n* Visual Studio\n* Cucumber\n* Fire path\n* Firebug\n* Jenkins\n* Maven\n* Postman\n* Putty\n* Git Bash\n* Source tree\n* Bitbucket\n* GIT\n* MySQL\n* PostgreSQL\n* ORACLE\n* Microsoft Project\n* Microsoft Office\n* Browsers\n* SOAP API\n* REST API\n* REST Webservices\n* Web Services\n* Web Development Tools\n* Web Servers / Application Servers\n* Testing tools\n* Defect Tracking tools\n* Operating Systems\n* Database Servers\n* Project Management",
+    "education": "[\"Edu1\":{\"degree\":\"Master\u2019s\",\"university\":\"University of Michigan Flint\",\"graduationDate\":\"year 2016\"},\n\"Edu2\":{\"degree\":\"Bachelor\u2019s\",\"university\":\"JNTUH\",\"graduationDate\":\"year 2013\"}]",
+    "work_exp": "[{\"name\":\"Automation Tester\"},{\"name\":\"SDET\"},{\"name\":\"UAT Tester\"},{\"name\":\"QA Automation Tester\"},{\"name\":\"Software Quality Engineer\"},{\"name\":\"Manual Tester\"},{\"name\":\"Interfaces Tester\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Name\",\n    \"ID\": \"1\",\n    \"Email\": \"ad4iek@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "The provided resume does not contain any information on volunteer work. Therefore, I cannot extract the requested data from the provided context."
+}

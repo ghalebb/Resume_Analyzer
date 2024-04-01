@@ -1,0 +1,7 @@
+{
+    "skills": "- Jira Software\n- Confluence\n- Jira Service Management\n- Github\n- Bitbucket\n- Crowd\n- Jenkins\n- Bamboo\n- Atlassian Cloud\n- AWS Data Center\n- Groovy Scripting\n- Putty\n- SQL*Plus\n- OEM\n- MS-Office\n- Windows\n- Linux\n- VM Ware\n- Oracle 12C\n- MS SQL Server 2008, 2012\n- MySQL",
+    "education": "[\"Edu1\":{\"degree\":\"MCA - Master of Computer Applications\", \"university\":\"Acharya Nagarjuna University College\", \"graduationDate\":\"2012\", \"score\": \"72%\"}]",
+    "work_exp": "[{\"name\":\"TEKSystems India Pvt. Ltd.\"},{\"name\":\"ANI Technologies Pvt. Ltd.\"},{\"name\":\"Wells Fargo India Solutions Pvt. Ltd.\"},{\"name\":\"Datavail Infotech Pvt. Ltd.\"},{\"name\":\"OLA\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"person\",\n    \"ID\": \"pid1\",\n    \"Name\": \"V N Raju Vallabhaneni\",\n    \"Email\": \"ad4b2p@r.postjobfree.com\"\n  },\n  {\n    \"label\": \"person\",\n    \"ID\": \"pid2\",\n    \"Name\": \"Lakshmana Rao\",\n    \"Email\": null\n  }\n]",
+    "volunteer_info": "No volunteer experience was found in the text provided, so the list is empty."
+}

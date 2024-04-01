@@ -1,0 +1,7 @@
+{
+    "skills": "SDLC, STLC, Agile, Waterfall, Software Testing Methodology, Windows, UNIX/Linux, IDX, Open VMS, Jira, ALM, Java, Selenium Web-driver, Selenium Grid, Cucumber Maven, TestNG, Jenkins, API, JMeter GIT, POM framework, SQL, Oracle, AWS, HTTP, XML, HTML, SOAPUI, JSON, Visual Studio 2012, Microsoft Office, JIRA, Requirement, Agile, Scrum, TestNG, Maven, Cucumber, Visual Studio 2012, SQL, JIRA, Smoke, Functional, Integration, System, User Acceptance, Regression, GUI, API, EDI 837 HIPAA, X12, EDI 837, MMIS, Facets, Claim Test Pro",
+    "education": "[\"Edu1\":{\"degree\":\"Bachelor of Science\",\"university\":\"Addis Abeba University\",\"graduationDate\":\"2007\"}]",
+    "work_exp": "[{\"name\":\"TD Ameritrade\"},{\"name\":\"Aetna\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Name\",\n    \"ID\": \"PE001\",\n    \"Email\": \"ad4ar7@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "[]"
+}

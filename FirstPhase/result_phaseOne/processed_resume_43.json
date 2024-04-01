@@ -1,0 +1,7 @@
+{
+    "skills": "Regression testing, Functional testing, Smoke testing, UI testing, Exploratory testing, JavaScript, SQL, MySQLWorkbench, HTML & CSS, Cypress, Mocha, Node.js, Postman, JSON, Android studio, Xcode, Charles proxy, API, Git, GitHub Action, Jenkins, VS Code, Jira, Confluence, Trello, Figma, TestRail, Notion",
+    "education": "[\n \"Edu1\": {\n \"degree\": \"Bachelor\u2019s degree\",\n \"university\": \"State University of Economics\",\n \"graduationDate\": \"2007\",\n \"score\": null\n }\n]",
+    "work_exp": "[{\"name\":\"Software QA Engineer\"},{\"name\":\"Software QA Tester\"},{\"name\":\"Auditor\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"Anastasia Eliseeva\",\n    \"ID\": \"1\",\n    \"Email\": \"ad4ht8@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "There are no volunteer work entities found in the provided resume."
+}

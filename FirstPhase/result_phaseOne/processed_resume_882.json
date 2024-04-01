@@ -1,0 +1,7 @@
+{
+    "skills": "Project Management, Structural Engineering, Concreting, Painting, Tiling, Labor Billing, Scheduling, AutoCAD, MS Office",
+    "education": "[\n    {\n        \"Edu1\":{\n            \"degree\":\"Diploma in Civil Engineering\",\n            \"university\":\"Rajagopal polytechnic college\",\n            \"graduationDate\":\"April 2010\",\n            \"score\":\"86%\"\n        }\n    },\n    {\n        \"Edu2\":{\n            \"degree\":\"Higher Secondary Certificate (+2)\",\n            \"university\":\"Goodlet Higher secondary school\",\n            \"graduationDate\":\"March 2008\",\n            \"score\":\"81%\"\n        }\n    },\n    {\n        \"Edu3\":{\n            \"degree\":\"SSLC (10th Std)\",\n            \"university\":\"Goodlet High school\",\n            \"graduationDate\":\"April 2005\",\n            \"score\":\"59%\"\n        }\n    }\n]",
+    "work_exp": "[{\"name\":\"M/S SMD HOMES\"},{\"name\":\"M/S Trishul commercial complexes pvt ltd\"},{\"name\":\"M/S Maheswara developers\"},{\"name\":\"JKB Housing Private Limited\"},{\"name\":\"SRF Limited\"}]",
+    "personal_info": "[\n  { \"label\": \"Name\", \"ID\": \"p1\", \"Email\": \"ad12l9@r.postjobfree.com\" },\n  { \"label\": \"Father's Name\", \"ID\": \"p2\", \"Email\": null }\n]",
+    "volunteer_info": "The provided resume does not contain any volunteer work entities, so the requested data could not be extracted."
+}

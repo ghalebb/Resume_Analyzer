@@ -1,0 +1,7 @@
+{
+    "skills": "Ai, Pr iD, CAD, 3D, max, Ps",
+    "education": "[\"Edu1\":{\"degree\":\"Master Degree\",\"university\":\"Cairo University\",\"graduationDate\":None},\n\"Edu2\":{\"degree\":\"B.Sc.\",\"university\":\"Faculty of Fine Arts - Egypt\",\"graduationDate\":None}]",
+    "work_exp": "[{\"name\":\"Al BURJ Engineering Consultants\"},{\"name\":\"C.G.C.House General Contracting\"},{\"name\":\"COMMODORE General Contracting\"},{\"name\":\"AL-RAKHA General Contracting\"},{\"name\":\"(MCE) \u201cMisr Consulting Engineers\u201d\"},{\"name\":\"LUCAS International Wiring Systems (U.K. Factory)\"},{\"name\":\"Housing Community of \u201cCooperation Society for Communication Authority\"},{\"name\":\"Al-Buraidi Est.\"},{\"name\":\"AMBRIC, American British Consultant\"},{\"name\":\"KESTING German Nationality\"},{\"name\":\"(ECG) Egyptian Consultant Group\"},{\"name\":\"BYGGING Swedish Nationality\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"PE1\",\n    \"Name\": \"ATTEF ZAKI Mohamed\",\n    \"Email\": \"adr81p@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer work entities are found in the provided resume."
+}

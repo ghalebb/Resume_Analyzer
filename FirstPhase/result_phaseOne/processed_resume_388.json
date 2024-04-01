@@ -1,0 +1,7 @@
+{
+    "skills": "Linux, Jenkins, Terraform, GitHub/GIT, Jira, AWS, Ansible, CI/CD, Docker, Agile, Research, Critical thinking, WINSCP, Team player, Verbal and Writing Communication, Technical Documentation, Process Automation, Technical Troubleshooting, Network configuration, Process documentation, VMware, user management",
+    "education": "[\"Edu1\":{\"degree\":\"Bachelor of Science\",\"university\":\"HIMS Cameroon\",\"graduationDate\":\"12/2014\"},\n\"Edu2\":{\"degree\":\"Bachelor of Science\",\"university\":\"Western Governors University\",\"graduationDate\":None}}\n]",
+    "work_exp": "[{\"name\":\"AWS DEVOPS ENGINEER\"},{\"name\":\"DevOps Engineer\"},{\"name\":\"DevOps Engineer\"},{\"name\":\"INTERN LINUX SYSTEM ADMINISTRATOR\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person 1\",\n    \"ID\": \"P_1\",\n    \"Email\": \"ad4ba7@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "The provided resume does not contain any volunteer work entities, so an empty list is returned.\n\n[]"
+}

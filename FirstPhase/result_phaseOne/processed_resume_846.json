@@ -1,0 +1,7 @@
+{
+    "skills": "Enterprise Architecture, Business Architecture, IT Architecture, Solution Architecture, Software Construction, Architectural Patterns, Microservices, Streaming, Decoupled, Programming languages, Frameworks, Java, Go, Python, Spring Boot, Micronaut, Angular, Scala, Akka, Play, Security, ABAC, RBAC, SSO, SAML, SCIM, Azure Active Directory, Clean code, Clean architectures, SDLC, Cloud, Public cloud, Private cloud, Devops, K8S, Stack storm, ArgoCD, Jenkins, Generative AI, Transformer architecture, Agile, Safe, Data Structure & Algorithm, Java, Python, Golang and Microsoft, Cloud, Solution Architect, Domain Architect, Cloud, eLearning, eHealthcare, Embedded Insurance, Healthcare, Telecom domain, TmForum, Etsi, GSMA standards, Acord and Open Banking standards, GDPR, Privacy initiatives, Sustainability Engineering guidelines, Quality attributes, Generative AI, Transformer architecture, Datacentre architectures, Infrastructure, Cloud platform, Huawei Cloud Stack, Openstack API",
+    "education": "[\"Edu1\":{\"degree\":\"Bachelor of Engineering\",\"university\":\"STJ Institute of Technology\",\"graduationDate\":\"1996\",\"score\":\"78%\"},\n\"Edu2\":{\"degree\":\"Post Graduate Diploma\",\"university\":\"Symbiosis Centre for Distance Learning\",\"graduationDate\":None,\"score\":\"Distinction\"}]",
+    "work_exp": "[{\"name\":\"KFC\"},{\"name\":\"Teacher\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"Perwez Khan\",\n    \"ID\": \"usr-1\",\n    \"Email\": \"ad2bcn@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "[]"
+}

@@ -1,0 +1,7 @@
+{
+    "skills": "Ability to perform under pressure, Critical-thinking skills, Observational skills, Problem-solving skills, Effective communication, Multi tasking",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"B-tech\",\n      \"university\": \"Avanthi institute of engineering and technology\",\n      \"graduationDate\": \"2018\",\n      \"score\": \"65.15%\"\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": \"Inter\",\n      \"university\": \"Nri junior college\",\n      \"graduationDate\": \"2014\",\n      \"score\": \"83.1%\"\n    }\n  },\n  {\n    \"Edu3\": {\n      \"degree\": \"SSC\",\n      \"university\": \"MNR HIGH school\",\n      \"graduationDate\": \"2012\",\n      \"score\": \"5.0\"\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"Hoble bellows.co\"},{\"name\":\"Airtel payment Bank\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"001\",\n    \"Name\": \"MANOJKUMAR\",\n    \"Email\": \"ad1rf6@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "[]"
+}

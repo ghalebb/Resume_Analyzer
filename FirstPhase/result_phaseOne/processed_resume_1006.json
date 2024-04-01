@@ -1,0 +1,7 @@
+{
+    "skills": "Java / J2EE, C/C++, Spring MVC, Spring Security, Spring Boot, JPA / Hibernate, JUnit, Log4j, Swagger, HTML, Javascript (including jQuery), JSP, Thymeleaf, CSS, XML, XSLT, XSD, AJAX, REST APIs, Micro services, SOAP, JAX-WS, SQL, Oracle, MS SQL Server, DB2, MySQL, Eclipse, NetBeans, JBuilder, Visual Studio, Android Studio, MATLAB, Postman, Git (SourceTree, Bit Bucket), SVN, Oracle SQL Developer, TOAD, Squirrel, SQL Server Management Studio, Navicat, JIRA, Version One, Jasper reports, Aspose, MS Office, Open Office",
+    "education": "[\"Edu1\":{\"degree\":\"Bachelor of Science\",\"university\":\"FAST - National University of Computer & Emerging Sciences\",\"graduationDate\":\"December 2010\"},\"Edu2\":{\"degree\":\"GCE A Levels\",\"university\":\"Crescent Model Higher Secondary School and College\",\"graduationDate\":\"July 2006\"}]",
+    "work_exp": "[{\"name\":\"DEPARTMENT OF MUNICIPALITIES AND TRANSPORT\"}, {\"name\":\"GLOBAL ENGINEERING SERVICES INVENSIFY INC\"}, {\"name\":\"NETSOL\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"PERSON001\",\n    \"Name\": \"RAFAY BIN HIJAZY\",\n    \"Email\": \"ad372q@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer work entities were found in this resume."
+}

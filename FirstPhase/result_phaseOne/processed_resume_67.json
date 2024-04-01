@@ -1,0 +1,7 @@
+{
+    "skills": "Python 3.x/2.x, R, Java, Shell Script, MySQL, SQL Server 2008, PostgreSQL, AWS EC Cloud, JavaScript, HTML, DHTML, XHTML, XML, REST, Soap, WSDL, XML, SOA, Apache CXF, Apache Axis 2, WSDL, Git, SVN, Spring Tools Suite, Eclipse, IntelliJ, Net beans, Sublime Text, JUnit, Mockito, AWS EC2, S3, RDS, Boto3, Pandas, Numpy, TensorFlow, Sci-kit-learn, Spark, PySpark, Jenkins, Maven, Nexus, Docker, Git, Maven, Nexus, Postman, Angular, ReactJS, Typescript, NodeJS, NextJS, Bootstrap",
+    "education": "Extraction Results:\n\nNo education information is found in the provided resume.",
+    "work_exp": "[{\"name\":\"Sherwin Williams\"},{\"name\":\"Streamline Digital\"},{\"name\":\"Miami Dade\"},{\"name\":\"Premier Energies\"},{\"name\":\"WinWire Technologies\"}]",
+    "personal_info": "The provided resume does not have the required data to extract the requested entity, hence the entity extraction is not possible.",
+    "volunteer_info": "The provided resume does not mention any volunteer experiences."
+}

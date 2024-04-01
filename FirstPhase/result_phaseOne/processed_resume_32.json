@@ -1,0 +1,7 @@
+{
+    "skills": "Python, React.js, SQL, Node.js, Express.js, MongoDB, JavaScript, jQuery, Redux, Flask, Alembic, PostgreSQL, Git, HTML5, CSS3, Webpack, Heroku, TDD, Docker, Object Oriented Design, Google Analytics 4, Salesforce",
+    "education": "[\"Edu1\":{\"degree\":\"B.S. in Molecular Biology\",\"university\":\"Boston College\",\"graduationDate\":null,\"score\":\"Magne Cum Laude\"},\n\"Edu2\":{\"degree\":\"Rigorous 1000-hour full-stack software engineering course\",\"university\":\"App Academy\",\"graduationDate\":\"October 2023\",\"score\":null}]",
+    "work_exp": "[{\"name\":\"Marketing Data Analyst\"},{\"name\":\"Quality Improvement Analyst\"}]",
+    "personal_info": "[\n {\n  \"label\": \"Person\",\n  \"ID\": \"p1\",\n  \"Email\": \"ad4h1d@r.postjobfree.com\"\n }\n]",
+    "volunteer_info": "No volunteer experiences were found in the provided resume."
+}

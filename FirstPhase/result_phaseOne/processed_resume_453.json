@@ -1,0 +1,7 @@
+{
+    "skills": "Java, Python, C++, SQL, Perl, Shell Script, MySQL, MSSQL, DynamoDB, PostgreSQL, HTML, JavaScript, TypeScript, CSS, Node.js, React, Spring MVC, Spring Boot, JUnit, Mockito, AWS, GCP, Azure, Linux, Unix, Docker, Kubernetes, GitHub, Jenkins, Jira, Agile, Kanban, CI/CD, DevOps, RESTful APIs, Microservices, Gradle, Maven, Zookeeper, Kafka, ActiveMQ, JDBC, JPA, Android, iOS, IaaS, PaaS, SaaS, Networking",
+    "education": "[\n{\"Edu1\":{\"degree\":\"Master of Science\",\"university\":\"San Jose State University\",\"graduationDate\":\"May 2025\",\"gpa\":\"3.8\"}}, \n{\"Edu2\":{\"degree\":\"Bachelor of Technology\",\"university\":\"Vinoba Bhave University\",\"graduationDate\":\"May 2015\",\"gpa\":\"3.83\"}}\n]",
+    "work_exp": "[{\"name\":\"Morgan Stanley\"},{\"name\":\"Hewlett Packard Enterprise\"},{\"name\":\"Tata Consultancy Services\"}]",
+    "personal_info": "[{\"Name\":\"Puja Kumari\",\"ID\":\"P1\",\"Email\":\"ad39qj@r.postjobfree.com\"}]",
+    "volunteer_info": "[{\"name\": \"Volunteer\"}]"
+}

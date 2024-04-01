@@ -1,0 +1,7 @@
+{
+    "skills": "CCNA networking, TCP/IP networking, Network engineering, Telecommunication system designing, Servers (CISCO), Firewall (CISCO, Fortigate), Virtualization (VMWare, Hyper-X), Microsoft OS (Win. client, Win. server), Microsoft Office, Cloud computing (Azure), Customer service, ITIL",
+    "education": "[\n{\"Edu1\":{\"degree\":\"MASTER DEGREE IN TELECOMMUNICATION AND NETWORKING\",\"university\":\"KAZAN NATIONAL RESEARCH TECHNICAL UNIVERSITY NAMED AFTER A. N. TUPOLEV - KAI\",\"graduationDate\":\"JULY 2020\", \"score\":null}},\n{\"Edu2\":{\"degree\":\"BACHELOR DEGREE IN TELECOMMUNICATION AND SIGNAL PROCESSING\",\"university\":\"KAZAN NATIONAL RESEARCH TECHNICAL UNIVERSITY NAMED AFTER A. N. TUPOLEV - KAI\",\"graduationDate\":\"JULY 2018\", \"score\":null}}\n]",
+    "work_exp": "[{\"name\":\"IT / NETWORK ADMINISTRATOR\"},{\"name\":\"NETWORK ENGINEER\"},{\"name\":\"INTERN NETWORK ENGINEER\"}]",
+    "personal_info": "[{\"Name\":\"YAZAN ASAAD\",\"ID\":\"P1\",\"Email\":\"adzwx9@r.postjobfree.com\"},{\"Name\":\"KNRTU-KAI\",\"ID\":\"P2\",\"Email\":\"\"}]",
+    "volunteer_info": "The provided resume does not contain any volunteer experience, therefore, no volunteer work entities can be extracted."
+}

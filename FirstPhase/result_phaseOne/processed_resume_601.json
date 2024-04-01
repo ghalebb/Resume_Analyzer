@@ -1,0 +1,7 @@
+{
+    "skills": "- Java\n- Python\n- Go\n- Javascript\n- NodeJS\n- Shell\n- Bash\n- Groovy scripting\n- AWS\n- GCP\n- Azure\n- Spring\n- Quarkus\n- JPA Stream APIs\n- Apache Camel\n- JPA/ Hibernate\n- J2EE\n- JUnit\n- Mockito\n- Elastic stack\n- EHCache\n- Redis\n- Apigee Edge and Hybrid gateway\n- RESTful web services\n- JMS\n- JTA\n- JPA\n- Maven Building tool\n- Kafka\n- AWS services\n- CNCF tools\n- Oracle\n- Postgres\n- MySQL\n- DB2\n- MongoDB\n- Cosmos\n- Cassandra\n- Tomcat\n- JBOSS 6.3.0 EAP\n- IBM Weblogic 12C\n- Github\n- SVN\n- Jenkins CICD\n- Github actions\n- Docker\n- Kubernetes\n- Terraform\n- Helm charts",
+    "education": "The provided text does not contain any education-related information, so the requested entities cannot be extracted.",
+    "work_exp": "[{\"name\":\"Kaiser Permanente\"},{\"name\":\"Union Pacific Railroads\"},{\"name\":\"Google\"},{\"name\":\"PS Technology\"},{\"name\":\"NIKE Inc.\"},{\"name\":\"Bureau Veritas\"},{\"name\":\"Telstra\"},{\"name\":\"Infosys Finacle\"}]",
+    "personal_info": "[]",
+    "volunteer_info": "[]"
+}

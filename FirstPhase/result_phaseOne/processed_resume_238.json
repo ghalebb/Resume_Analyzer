@@ -1,0 +1,7 @@
+{
+    "skills": "Programming Languages: Python, Java, C, R, SQL, NoSQL, TypeScript, and Flask\nDistributed Computing & Version Control: Apache Spark/Kafka/Flink, Git, Linux, Airflow and Docker\nData Analytics & Visualization: DBT, Tableau/ PowerBI, PySpark, MS Excel, Pandas, NumPy, Matplotlib and Seaborn\nAWS Cloud: AWS Glue, Athena, Redshift, EMR, QuickSight, Lambda, EC2, RDS, S3, CloudFront, ECR, Kinesis, DynamoDB, SQS, SNS\nAzure Cloud: Azure ADF, Data Lake, Databricks, HDInsight, Azure SQL, and Azure Synapse\nDatabases & Data Warehousing: Snowflake,Postgres, SQL Server, Cassandra, MongoDB\nMachine Learning: Statistical Data Mining/Analysis (Hypothesis Testing, Time Series, Experimental Design), Regression, Classification, Clustering, Neural Networks and NLP (Natural Language Processing)\nSoftware Development: Object-Oriented Programming, Agile, Scrum, Test-Driven Development",
+    "education": "[{\"Edu1\":{\"degree\":\"Master's\",\"university\":\"University at Buffalo \u2013 SUNY\",\"graduationDate\":\"Dec. 2023\",\"score\":\"3.7 GPA\"},\n\"Edu2\":{\"degree\":\"Bachelor of Technology\",\"university\":\"Vel Tech University\",\"graduationDate\":\"May 2022\",\"score\":\"9.18 GPA\"}}\n]",
+    "work_exp": "[{\"name\":\"Software Developer\"},{\"name\":\"Vision Computers Inc\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"BHUVANENDRA JONNALAGADDA\",\n    \"ID\": \"P1\",\n    \"Email\": \"ad4d9n@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

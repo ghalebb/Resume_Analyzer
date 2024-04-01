@@ -1,0 +1,7 @@
+{
+    "skills": "Python, C, C++, Java, SQL, Hadoop, HDFS, Hive, Pig, Cassandra, Spark SQL, Snowflake, Apache Spark, AWS (S3, EC2, EMR, Dynamo DB, Redshift), GCP, SQL Server Integration Services, Informatica, Power BI, Tableau, R, SAS, Rapid Miner, SPSS Statistics, Hive QL, IBM DB2, Oracle, SQL Server, Teradata, Cassandra, Windows, Linux, Unix",
+    "education": "[\"Edu1\":{\"degree\":\"Bachelor\u2019s in Electrical Engineering\",\"university\":\"Osmania University\",\"graduationDate\":None,\"score\":\"3.4/4 CGPA\"},\n\"Edu2\":{\"degree\":\"Master\u2019s in Data Science\",\"university\":\"University of North Texas\",\"graduationDate\":None,\"score\":\"3.83/4 CGPA\"}]",
+    "work_exp": "[{\"name\":\"Adroit Innovative Solutions Inc\"},{\"name\":\"Accenture\"},{\"name\":\"Techno soft solutions\"}]",
+    "personal_info": "[]",
+    "volunteer_info": "There are no volunteer experiences in the provided resume, so the output list is empty."
+}

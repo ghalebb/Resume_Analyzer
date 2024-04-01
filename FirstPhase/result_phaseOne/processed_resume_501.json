@@ -1,0 +1,7 @@
+{
+    "skills": "Application Servers : WebLogic Server 8.1/9.2/10.3,11and WebSphere 7 & 8 (basic)\nWebServers : iPlanet6.0/7.0,Apache Server 2.0.x/2.2.x, IIS6/7.5,JBoss Server\n3. x/4.x/5.x, Tomcat Server 5.5/6.0.\nBuild Automation tool : Jenkins/Hudson, Artifactory\nSource Controls : Team Foundation Server (TFS 2008/2010),Accurev, GIT/GIT STASH\nScripting : Unix Shell Scripting, Perl Scripting,Ant,Maven,Python\nOperation Systems : Windows NT/2008/R2 and Linux/Sun OS\nMonitoring Tools: : Centreon,Splunk,Gomez\nBug Tracking Tools : JIRA, IBM CMIS\nSW Methodologies : Agile, Scrum Methodologies, Waterfall\nCloud Technology : AWS",
+    "education": "[\"Edu1\":{\"degree\":\"Master of Computer Science\",\"university\":\"Andhra University\",\"graduationDate\":None}]",
+    "work_exp": "[{\"name\":\"Consultant\"},{\"name\":\"SCM Engineer\"},{\"name\":\"Build and Deploy\"},{\"name\":\"DevOps\"}]",
+    "personal_info": "[{\"Name\":\"NAGA BHUSHANAM S\",\"ID\":\"p1\",\"Email\":\"ad4h0k@r.postjobfree.com\"}]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

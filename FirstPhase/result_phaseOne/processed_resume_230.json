@@ -1,0 +1,7 @@
+{
+    "skills": "Test Approaches, Waterfall, Agile/Scrum, SDLC, Bug life Cycle, Testing Tools, Selenium WebDriver, SOAPUI, Appium, JMeter, Jenkins, Selenium Grid, Frameworks, Page Object Model, Data Driven, Cucumber, TestNG, Junit, Artifacts, Test Plan, Test Case, Test Summary Report, Bug report, User Stories, Backlogs, Test Build and Integration tools, Jenkins, Maven, API testing, REST, SOAP, SOAPUI, Programming Tools, Java, C#, Databases/Database tools, SQL Server, Oracle, MySQL, Markup Languages, HTML, XML, Xpath, CSS, MS Office Tools, Outlook, Word, Excel, PowerPoint, MS Access, Other Utilities, Eclipse, PL/SQL, GIT, SVN, JMeter, Types of testing, Manual Testing, UI Testing, Integration Testing, Regression Testing, Black Box Testing, Performance Testing, Ad-hoc testing",
+    "education": "[\"Edu1\":{\"degree\":\"Bachelor\u2019s\",\"university\":\"India\",\"graduationDate\":None},\n\"Edu2\":{\"degree\":\"Masters\",\"university\":\"Chicago, IL\",\"graduationDate\":None}]",
+    "work_exp": "[{\"name\":\"SDET\"},{\"name\":\"Automation Tester\"},{\"name\":\"Manual Tester\"},{\"name\":\"SDET QA\"},{\"name\":\"QA Tester\"}]",
+    "personal_info": "[]",
+    "volunteer_info": "[]"
+}

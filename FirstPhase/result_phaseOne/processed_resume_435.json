@@ -1,0 +1,7 @@
+{
+    "skills": "MS SQL Server 2022/2019/2016/2014/2008 R2/2005/2000/7.0/6.5, Sybase 10/11/12, Oracle 11G, Windows NT - 2022, HP UNIX, Red hat Linux, Transact SQL, PowerShell, PL SQL, .Net, Java, PERL, C, COBOL, IDEAL, Redgate, QDS, Solarwinds DPA, Quest, Visual Studio, Zabbix, Datadog, Power BI, PagerDuty, Notion, Confluence, Slack, Webex, Zoom, ERWIN, ER Studio, PowerShell, C#, GIT/GITHUB, Extended Events, SQL Profiler",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"MS\",\n      \"university\": \"IIT Chennai, INDIA\",\n      \"graduationDate\": \"1994\",\n      \"score\": null\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": \"BS\",\n      \"university\": \"SV University, Tirupati, INDIA\",\n      \"graduationDate\": \"1992\",\n      \"score\": null\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"Rithum\"},{\"name\":\"Heidrick & Struggles\"},{\"name\":\"Zip2 Corporation\"},{\"name\":\"Tata Consultancy Services\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"LANCE (LAKSHMANA) KODURI\",\n    \"ID\": \"per1\",\n    \"Email\": \"ad4ac9@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer work experiences were mentioned in the provided resume."
+}

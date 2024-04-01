@@ -1,0 +1,7 @@
+{
+    "skills": "Assembly work of vehicles, Plans, Execution, Measurement instruments, 3D assembly drawings, Riveting, Welding, Torquing of Bolts, Drilling, Tapping",
+    "education": "[\n {\n  \"Edu1\": {\n   \"degree\": \"Bachelor of Engineering\",\n   \"university\": \"Shivaji Rao Kadam Institute Of Technology And Management Indore\",\n   \"graduationDate\": null,\n   \"score\": \"8.53 C.G.P.A.\"\n  }\n },\n {\n  \"Edu2\": {\n   \"degree\": \"XII (senior secondary)\",\n   \"university\": \"Vinayak Public School, Indore MP\",\n   \"graduationDate\": \"2016\",\n   \"score\": \"61.6\"\n  }\n },\n {\n  \"Edu3\": {\n   \"degree\": \"X (secondary)\",\n   \"university\": \"Vinayak Public School, Indore MP\",\n   \"graduationDate\": \"2014\",\n   \"score\": \"8.4\"\n  }\n }\n]",
+    "work_exp": "[{\"name\":\"Production Engineer\"},{\"name\":\"Intern\"},{\"name\":\"Vocational Trainee Student\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"P-1\",\n    \"Name\": \"Vijay Singh\",\n    \"Email\": null\n  }\n]",
+    "volunteer_info": "No volunteer work entities found in the resume."
+}

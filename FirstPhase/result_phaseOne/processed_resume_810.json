@@ -1,0 +1,7 @@
+{
+    "skills": "JavaScript, TypeScript, Node.js, NestJS, Data Structures, Express, Python, Django Rest Framework, Object-Oriented Programming, Core Java, C++, HTML, CSS, PostgreSQL, MongoDB, Mongoose, SQL, NoSQL, Git, Azure, AWS, JWT, Postman, MATLAB, Ansys Hfss",
+    "education": "[{\"Edu1\":{\"degree\":\"Bachelor of Technology (B.Tech)\",\"university\":\"Indian Institute of Technology Indore\",\"graduationDate\":\"2020\",\"score\":\"7.1 / 10 (CPI)\"}},{\"Edu2\":{\"degree\":\"Class 12\",\"university\":\"Jawahar Navodaya Vidyalaya Durgapur\",\"graduationDate\":\"2016\",\"score\":\"90.4%\"}},{\"Edu3\":{\"degree\":\"Class 10\",\"university\":\"Jawahar Navodaya Vidyalaya Durgapur\",\"graduationDate\":\"2014\",\"score\":\"10 / 10 (CGPA)\"}}]",
+    "work_exp": "[{\"name\":\"Software Developer\"},{\"name\":\"Tata Aia Urja Web App\"},{\"name\":\"Mantra Labs Internal Project\"},{\"name\":\"Tata Marketing Influencer App\"},{\"name\":\"Tata Calculator App\"},{\"name\":\"Astrology app\"},{\"name\":\"Backend Developer\"},{\"name\":\"Quality Engineer\"},{\"name\":\"Shree Abirami Engineering Works\"},{\"name\":\"Teacher\"}]",
+    "personal_info": "[{\"Name\":\"Vaibhav Kumar\",\"ID\":\"per1\",\"Email\":\"ad2imw@r.postjobfree.com\"}]",
+    "volunteer_info": "[]"
+}

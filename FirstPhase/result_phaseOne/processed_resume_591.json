@@ -1,0 +1,7 @@
+{
+    "skills": "Tekla Structures, ACAD, MS office, Design Packages, Planning Softwares",
+    "education": "[\"Edu1\":{\"degree\":\"B-Tech\",\"university\":\"Mahatma Gandhi University\",\"graduationDate\":\"April 1991\"},\n \"Edu2\":{\"degree\":\"M-Tech\",\"university\":\"NIT Calicut\",\"graduationDate\":\"October 1996\"},\n \"Edu3\":{\"degree\":\"Business Management\",\"university\":\"XLRI Jamshedpur\",\"graduationDate\":\"March 2004\"},\n \"Edu4\":{\"degree\":\"IES\",\"university\":\"Undefined\",\"graduationDate\":\"1996\"},\n \"Edu5\":{\"degree\":\"JCP\",\"university\":\"Sun Micro Systems Inc, United States\",\"graduationDate\":\"Undefined\"}]",
+    "work_exp": "[{\"name\":\"Project Head\"},{\"name\":\"Associate Vice President\"},{\"name\":\"Operational & Engineering Head\"},{\"name\":\"Sr. DESIGN ENGINEER\"},{\"name\":\"ASSISTANT EXECUTIVE ENGINEER\"},{\"name\":\"Teacher\"}, {\"name\":\"KFC\"}]",
+    "personal_info": "[\n {\"label\":\"Person\",\"ID\":\"p1\",\"Email\":\"ad319o@r.postjobfree.com\"},\n {\"label\":\"Person\",\"ID\":\"p2\",\"Name\":\"BIJU MAHIMA\"}\n]",
+    "volunteer_info": "The provided resume does not contain any information about volunteer work, therefore no volunteer work entities can be extracted."
+}

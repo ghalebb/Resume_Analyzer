@@ -1,0 +1,7 @@
+{
+    "skills": "- Systematic problem-solving\n- Windows and Linux proficiency\n- Networking and protocols\n- Software troubleshooting\n- Remote desktop tools\n- Virtualization (VMware, Hyper-V)\n- Security principles and practices\n- Cloud computing (AWS, Azure)\n- Mobile device management",
+    "education": "[\n{\n\"Edu1\": {\n\"degree\": \"Postgraduate Diploma\",\n\"university\": \"University of Liverpool\",\n\"graduationDate\": \"05/2013\"\n},\n\"Edu2\": {\n\"degree\": \"Diploma\",\n\"university\": \"Houston Community College (HCC)\",\n\"graduationDate\": \"05/2022\"\n}\n}\n]",
+    "work_exp": "[{\"name\": \"Technical Support and Help Desk\"}, {\"name\": \"GTS Technology Solutions\"}, {\"name\": \"IT Support Engineer\"}, {\"name\": \"Newman Co for Information Technology\"}, {\"name\": \"IT and Support Engineer\"}, {\"name\": \"Libyan Supreme Committee of Veterinary Medicine\"}]",
+    "personal_info": "[{\"Name\":\"Noble Elgamoudi\",\"ID\":\"p_1\",\"Email\":\"ad4enh@r.postjobfree.com\"}]",
+    "volunteer_info": "[{\"name\":\"Election Center Support Volunteer\"}]"
+}

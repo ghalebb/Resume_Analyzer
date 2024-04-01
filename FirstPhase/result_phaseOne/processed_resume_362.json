@@ -1,0 +1,7 @@
+{
+    "skills": "GraphQL, NodeJS, AWS, JUnit, Mockito/Powermock, TestNG, Artillery, Gitlab, SpringBoot, Struts, JSP, JQuery, Solr, AngularJS, Mesos, Marathon, MongoDB, Cassandra, Kafka, Git, Jenkins, Lean Software Development, Enterprise Software Architecture Patterns, C#/.NET, ASP.NET, Visual Basic, T-SQL, SVN, TFS, Java/JSP, PL/SQL, TFS, Oracle, Coldfusion, XML, PL/SQL, DreamWeaver, Oracle",
+    "education": "[\"Edu1\":{\"degree\":\"Master of Science\",\"university\":\"University of Pennsylvania\",\"graduationDate\":\"2007\"},\n\"Edu2\":{\"degree\":\"Bachelor of Science\",\"university\":\"Stony Brook University\",\"graduationDate\":\"2005\"},\n\"Edu3\":{\"degree\":\"Bachelor Program\",\"university\":\"Saint Louis University\",\"graduationDate\":\"2003\"}]",
+    "work_exp": "[{\"name\":\"AMAZON\"},{\"name\":\"HITACHI VANTARA\"},{\"name\":\"VISTAPRINT\"},{\"name\":\"HIGHBRIDGE CAPITAL MANAGEMENT\"},{\"name\":\"UNIVERSITY OF PENNSYLVANIA, Penn Law School\"},{\"name\":\"EZE SOFTWARE GROUP\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"AKSEL ALLOUCH\",\n    \"ID\": \"ALSKL123\",\n    \"Email\": \"ad4bn4@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer work entities were found."
+}

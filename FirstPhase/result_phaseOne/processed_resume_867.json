@@ -1,0 +1,7 @@
+{
+    "skills": "Functional Testing, API testing, Database Testing, Mobile Application Testing, Regression Testing, Retesting, Usability Testing, UAT, Selenium, TestNG, Maven, JIRA, POSTMAN, SOAP UI, GitHub, Java, HTML, MySQL",
+    "education": "[\"Edu1\":{\"degree\":\"Bachelor of Engineering\",\"university\":\"Sant Gadge Baba Amravati, University\",\"graduationDate\":\"2018\",\"score\":None},\n\"Edu2\":{\"degree\":\"Technical Diploma\",\"university\":\"MSBTE\",\"graduationDate\":\"2015\",\"score\":None},\n\"Edu3\":{\"degree\":\"SSC\",\"university\":\"Maharashtra State Board\",\"graduationDate\":\"2012\",\"score\":None}]",
+    "work_exp": "[{\"name\":\"Software Engineer in Test\"}, {\"name\":\"Techno cipher IT Solutions\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"P1\",\n    \"Name\": \"SAURABH BAND\",\n    \"Email\": \"ad1632@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "The provided resume does not contain any volunteer work experiences."
+}

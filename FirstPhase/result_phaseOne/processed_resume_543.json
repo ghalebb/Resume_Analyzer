@@ -1,0 +1,7 @@
+{
+    "skills": "- Citrix XenApp\n- Citrix XenDesktop\n- Citrix Provisioning Services\n- Citrix MCS\n- Citrix NetScaler\n- Azure AVD\n- Windows 7\n- Windows 10\n- Windows 11\n- Windows 2012\n- Windows 2016\n- Windows 2019\n- VMware Vsphere 5.5\n- VMware Vsphere 6.5\n- VMware Vsphere 7.0\n- VMware Esxi 5.5\n- VMware Esxi 6.5\n- VMware Esxi 7.0\n- Msix app-attach\n- VMware app volume 4\n- Microsoft Azure\n- Active Directory\n- UPM\n- WIM\n- MS Fslogix\n- VMware App Volume\n- VMware VDI\n- VMware Horizon\n- Azure AVD\n- Cloud\n- Citrix Citrix\n- Citrix PVS\n- Citrix MCS",
+    "education": "[\"Edu1\":{\"degree\":\"MCA\",\"university\":\"Guru Jambeshwar University\",\"graduationDate\":\"2009-12\"},\n\"Edu2\":{\"degree\":\"MSC-IT\",\"university\":\"Sikkim Manipal University\",\"graduationDate\":\"2007-2009\"},\n\"Edu3\":{\"degree\":\"BA\",\"university\":\"Delhi University\",\"graduationDate\":\"1999-2002\"},\n\"Edu4\":{\"degree\":\"10+2\",\"university\":\"CBSE\",\"graduationDate\":\"1997-1999\"}\n]",
+    "work_exp": "[{\"name\":\"Stefanini India(Noida)\"},{\"name\":\"HCL Technologies LTD\"},{\"name\":\"Mintergraph Pvt LTD\"},{\"name\":\"CMS Info system LTD\"},{\"name\":\"GS Infosystem (Local Vendor)\"}]",
+    "personal_info": "[{\"Name\":\"Pradeep Kumar\",\"ID\":\"Person001\"}]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

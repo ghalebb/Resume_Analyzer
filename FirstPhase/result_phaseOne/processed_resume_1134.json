@@ -1,0 +1,7 @@
+{
+    "skills": "HVAC Designing and Calculation, \nAuto Cad Mechanical & Civil, \nOffice Management (MS Word, Excel, Power point, in-page)",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"B. Tech (Hons)\",\n      \"university\": \"string\",\n      \"graduationDate\": null\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": \"B. Tech\",\n      \"university\": \"string\",\n      \"graduationDate\": null\n    }\n  },\n  {\n    \"Edu3\": {\n      \"degree\": \"Diploma of Associate Engineering\",\n      \"university\": \"Punjab board of technical education Lahore Pakistan\",\n      \"graduationDate\": null\n    }\n  },\n  {\n    \"Edu4\": {\n      \"degree\": \"Matriculation with Science\",\n      \"university\": \"Gujranwala board of higher secondary school certificate Punjab Pakistan\",\n      \"graduationDate\": \"2006\"\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"Gulf Sail Specialized Engineering\"},{\"name\":\"Hi Corner Consultants Architects and Engineers\"},{\"name\":\"COLONY SUGUR MILLS KARMANWALA PVT LTD.\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"p1\",\n    \"Email\": \"adw7b9@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "There are no volunteer work entities in the provided resume."
+}

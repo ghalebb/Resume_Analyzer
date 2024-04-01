@@ -1,0 +1,7 @@
+{
+    "skills": "Java, Spring, JUnit, SQL, ElasticSearch, MongoDB/NoSQL, JavaScript, Python, Node/NodeJS, Android, Polymer, Git, Azure, AWS",
+    "education": "[{\"Edu1\":{\"degree\":\"BA\",\"university\":\"University of Colorado\",\"graduationDate\":\"2016\"}}]",
+    "work_exp": "[{\"name\":\"RADIAN\"},{\"name\":\"WALTERS STATE COMMUNITY COLLEGE\"},{\"name\":\"LGS INNOVATIONS\"},{\"name\":\"FREELANCE\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"1\",\n    \"Email\": \"ad4e27@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer work entities are found in the resume."
+}

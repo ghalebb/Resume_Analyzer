@@ -1,0 +1,7 @@
+{
+    "skills": "Test Management Tool : JIRA, DBMS : MY SQL, API Testing Tool : POSTMAN, Swagger API, Operating System : Windows, Linux, Test build Tool : Basic Knowledge of Git and GitHub, Language known : Basic Python, Basic knowledge of Azure portal (az-104)",
+    "education": "[\n    {\n        \"Edu1\": {\n            \"degree\": \"Bachelor of Engineering\",\n            \"university\": \"RTMNU\",\n            \"graduationDate\": \"2017\",\n            \"score\": \"6.79 CGPA\"\n        }\n    },\n    {\n        \"Edu2\": {\n            \"degree\": \"Diploma\",\n            \"university\": null,\n            \"graduationDate\": \"2013\",\n            \"score\": \"68.33%\"\n        }\n    }\n]",
+    "work_exp": "[{\"name\":\"IDmission\"},{\"name\":\"QA Engineer\"},{\"name\":\"Ozone Research & Applications (I) Pvt Ltd\"},{\"name\":\"Design Engineer\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"Asavari A Pimplapure\",\n    \"ID\": \"1\",\n    \"Email\": \"ad11r7@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer work entities are found in the provided resume."
+}

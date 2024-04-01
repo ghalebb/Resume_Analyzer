@@ -1,0 +1,7 @@
+{
+    "skills": "Python, Java, Django",
+    "education": "[\"Edu1\":{\"degree\":\"Master of Science in Computer Science\",\"university\":\"School of Informatics & Computing, Indiana University\",\"graduationDate\":\"May 2015\",\"score\":\"3.72/4.0\"},\n\"Edu2\":{\"degree\":\"Bachelor of Technology in Computer Science\",\"university\":\"MPSTME, NMIMS University\",\"graduationDate\":\"May 2013\",\"score\":\"3.43/4.0\"}}\n]",
+    "work_exp": "[{\"name\":\"Software Engineer\"},{\"name\":\"Technical Consultant\"},{\"name\":\"Teacher\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"PRANAY SOGANI\",\n    \"ID\": \"P1\",\n    \"Email\": \"ad27av@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "[]"
+}

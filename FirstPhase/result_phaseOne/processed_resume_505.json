@@ -1,0 +1,7 @@
+{
+    "skills": "Javascript, Typescript, Angular, ReactJs, NextJs, Ionic, NodeJs, NestJs, GraphQL, MongoDB, MySQL, Postgres, Firestore, Github, Google Cloud Platform, Amazon Web Services, Docker, Illustrator, Photoshop, Figma, Leadership, Team Management, Problem Solving, UI Designing, Frontend Development, Backend Development, Database Design and Querying, CI/CD Pipeline, Containerization, Infrastructure Setup",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"Bachelors in Technology\",\n      \"university\": \"Jawaharlal Nehru Technological University\",\n      \"graduationDate\": \"MAY 2018\",\n      \"score\": null\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"Senior Software Engineer\"},{\"name\":\"Software Engineer\"},{\"name\":\"Senior Software Developer\"},{\"name\":\"Freelance Developer\"},{\"name\":\"Freelance Frontend Developer\"}]",
+    "personal_info": "[{\"Name\":\"Navadeep Raja\",\"ID\":\"P1\",\"Email\":\"ad4ha2@r.postjobfree.com\"}]",
+    "volunteer_info": "The provided resume does not contain any volunteer experiences, so there are no volunteer entities to extract."
+}

@@ -1,0 +1,7 @@
+{
+    "skills": "Basic knowledge in computer, Chemical Engineering, Chemistry, Data Structure, Fluid Dynamics, Heat Transfer, High Technology, Mono Software, Production Process",
+    "education": "[\n\t{\n\t\t\"Edu1\": {\n\t\t\t\"degree\": \"B-Tech\",\n\t\t\t\"university\": \"Wbut\",\n\t\t\t\"graduationDate\": \"08/2008\",\n\t\t\t\"score\": \"7.78\"\n\t\t}\n\t},\n\t{\n\t\t\"Edu2\": {\n\t\t\t\"degree\": \"Class XII in science\",\n\t\t\t\"university\": \"Wbchse\",\n\t\t\t\"graduationDate\": \"03/2004\",\n\t\t\t\"score\": \"55%\"\n\t\t}\n\t},\n\t{\n\t\t\"Edu3\": {\n\t\t\t\"degree\": \"10th in Others\",\n\t\t\t\"university\": \"Holy Rock School\",\n\t\t\t\"graduationDate\": \"03/2002\",\n\t\t\t\"score\": \"53%\"\n\t\t}\n\t}\n]",
+    "work_exp": "[{\"name\":\"Q And A Expert\"},{\"name\":\"Sales Executive\"},{\"name\":\"Stores Manager\"},{\"name\":\"Project Manager\"},{\"name\":\"Production Chemist\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"Pallab Karmakar\",\n    \"ID\": \"P01\",\n    \"Email\": \"ad2o9c@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer experiences were found in the provided resume."
+}

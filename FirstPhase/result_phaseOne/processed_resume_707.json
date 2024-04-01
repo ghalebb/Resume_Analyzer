@@ -1,0 +1,7 @@
+{
+    "skills": "Java, Java8, Spring, Spring MVC, Spring Data JPA, Spring Boot, Microservices, Maven, Scrum, Agile Methodology, Rest API Development, JIRA, JDBC, Exception Handling, SQL, Postman Tool, GIT, Swagger",
+    "education": "[\"Edu1\":{\"degree\":\"B.Tech/B.E.\",\"university\":\"Srikalahasteeswara Institute of Technology (SKIT)\",\"graduationDate\":\"2020\"}]",
+    "work_exp": "[{\"name\":\"Software Engineer\"},{\"name\":\"Roche Ventana Development\"},{\"name\":\"APP's Portal\"}]",
+    "personal_info": "[\n{\n\"Name\": \"Macharla Palani \\nKumar\",\n\"ID\": \"1\",\n\"Email\": \"palani.macharla@g\\nmail.com\"\n}\n]",
+    "volunteer_info": "No volunteer work entities were found in the resume provided."
+}

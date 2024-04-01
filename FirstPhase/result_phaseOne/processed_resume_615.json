@@ -1,0 +1,7 @@
+{
+    "skills": "MS Office",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"B.TECH\",\n      \"university\": \"S. V. College of Engineering, Tirupathi\",\n      \"graduationDate\": \"2017\",\n      \"score\": \"71%\"\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": \"INTERMEDIATE\",\n      \"university\": \"Sri Chaitanya Junior College,Tirupathi\",\n      \"graduationDate\": \"2013\",\n      \"score\": \"86%\"\n    }\n  },\n  {\n    \"Edu3\": {\n      \"degree\": \"SSC\",\n      \"university\": \"Kiran Engish Medium High School\",\n      \"graduationDate\": \"2011\",\n      \"score\": \"87%\"\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"IT HR- Recruiter\"},{\"name\":\"Part time paper evaluator\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"PULI LEKYA \",\n    \"ID\": \"PER002\",\n    \"Email\": \"ad3xfr@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer work entities found in the provided resume."
+}

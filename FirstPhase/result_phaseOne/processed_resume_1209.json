@@ -1,0 +1,7 @@
+{
+    "skills": "webMethods (API Gateway), webMethods IS, UMS, Stream Sets, Oracle Fusion Middleware 11g/12c, JDeveloper 11g/12c, SAG Designer, Postman, Newman, Jenkins, Splunk, Kibana, Elastic Search, Oracle 10g/11g, MS SQL Server, MySQL, Mongo DB, Dynamo DB, Apache Tomcat 5.x/6.x, Oracle Web Logic 11g/12c, Oracle Application Framework, Java Script, Python",
+    "education": "[\"Edu1\":{\"degree\":\"BSE\",\"university\":\"Bahria Institute of Management & Computer Sciences\",\"graduationDate\":\"2010\"}]",
+    "work_exp": "[{\"name\":\"Capgemini\"},{\"name\":\"Infosys\"},{\"name\":\"Fujitsu Middle-East\"},{\"name\":\"Inbox Business Technologies\"},{\"name\":\"Ooredoo Telecom (Starlink)\"},{\"name\":\"Al-Wajda International Telecom Services\"},{\"name\":\"Manhattan Pvt. Limited\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"p1\",\n    \"Email\": \"ads7nd@r.postjobfree.com\"\n  },\n  {\n    \"label\": \"Person\",\n    \"ID\": \"p2\",\n    \"Email\": null\n  }\n]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

@@ -1,0 +1,7 @@
+{
+    "skills": "C#, VB, ASP.NET, ASP.NET Core, Web API 2.0, WCF, WinForms, WPF, VSTO, EC2, S3, Route 53, Cloud Front, Elastic Bean Stalk, VPC, RDS, Cloud Watch, ELB, IAM Roles, Elastic IP\u2019s, Cloud Formation, Azure VM, Azure Service Bus, Azure Functions, Azure Logic Apps, Azure Migrate, Azure Fabrics, API Gateway, APIM, Kubernetes, Ansible, Terraform, JavaScript, Typescript, JQuery, Node JS, React JS, Aurelia, Angular, Kendo UI, Telerik UI, CSS, Bootstrap, Kafka, SSRS, Crystal reports, Entity framework, GIT, Jenkins, PostgreSQL, Oracle, No SQL, SSIS, NUnit, XUnit, Moq frameworks, Cypress, SQL Server",
+    "education": "[\n\"Edu1\":{\"degree\":\"Bachelor of Technology\",\"university\":\"JNTU, Hyderabad\",\"graduationDate\":null},\n\"Edu2\":{\"degree\":\"AWS Certified Solution Architect \u2013 Associate\",\"university\":\"AWS\",\"graduationDate\": null}\n]",
+    "work_exp": "[{\"name\":\"Lead Software Engineer\"},{\"name\":\"Lead Software Engineer\"},{\"name\":\"Senior Software Engineer\"},{\"name\":\"Software Engineer\"},{\"name\":\"Software Engineer\"},{\"name\":\"Software Engineer\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"1\",\n    \"Email\": \"ad3ntw@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "The provided resume does not contain any volunteer work experiences, so the list is empty."
+}

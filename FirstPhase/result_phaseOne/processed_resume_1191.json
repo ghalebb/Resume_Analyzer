@@ -1,0 +1,7 @@
+{
+    "skills": "SketchUp, Lumion, Revit, AutoCAD, 3dsMax, ArchiCAD, Indesign, PhotoShop, CorelDraw",
+    "education": "No education information could be extracted from the provided resume. Therefore, an empty list is returned:\n\n[]",
+    "work_exp": "[{\"name\":\"KFC\"},{\"name\":\"Teacher\"}]",
+    "personal_info": "Entities Found:\n[\n{\n\"label\":\"Person\",\n\"ID\":\"Per1\",\n\"Email\":\"adt6pa@r.postjobfree.com\"\n}\n]",
+    "volunteer_info": "No volunteer work entities found in the provided resume."
+}

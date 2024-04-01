@@ -1,0 +1,7 @@
+{
+    "skills": "Cloud Computing, Windows Servers, Security, EUM, O365, Azure, Mimecast, HP Server, Dell, Sonic wall, Fortinet, VMware, Veeam, SCCM, Process Implementation, Project Implementation, Citrix Infrastructure, Network Administration, Switch Configurations, Windows Administration, Ubuntu, VPN, Team Viewer, MSN, Asset Management",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"Master of Computer Application (MCA)\",\n      \"university\": \"ANNA UNIVERSITY Coimbatore, Tamil Nadu\",\n      \"graduationDate\": \"2015\"\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": \"Batchelor of Science (BSC)\",\n      \"university\": \"BHARATHITHASAN UNIVERSITY Trichy, Tamil Nadu\",\n      \"graduationDate\": \"2011\"\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"IT Engineer\"},{\"name\":\"IT Support Engineer\"},{\"name\":\"Process Executive\"},{\"name\":\"Network Admin\"},{\"name\":\"IT Support Engineer\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"p-1\",\n    \"Name\": \"MOHAMED FAIZAL N\",\n    \"Email\": \"ad1gi8@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

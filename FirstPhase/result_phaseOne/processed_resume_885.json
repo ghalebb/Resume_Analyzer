@@ -1,0 +1,7 @@
+{
+    "skills": "Selenium WebDriver, TestNG, Java, SQL, HTML, XML, Maven, JavaScript, REST API, Cucumber, Postman, Soap UI, Agile, Waterfall, Jenkins, Continuous Integration, GIT, Version Control, JIRA, ALM, UFT, Selenium, Coded UI, Appium, Load Runner, Jmeter, HP QC, Bugzilla, TestNG, BDD, Eclipse, J2EE, BDD Feature files, Backbone.js, Knockout.js, Jasmine, SOAP, Mobile Testing, API testing, Automation Testing, Protractor Angular Testing, Manual Testing, Black Box Testing, White Box testing, System Testing, Integration Testing, Regression Testing, Acceptance Testing, Sanity Testing, Back End Testing, GUI Testing, Quality Assurance, Quality Assurance Schedule Management, Performance testing, DevOps Testing, Data Driven, Keyword Driven, Hybrid, Test Driven Development, Acceptance Test Driven Development, Bug Life Cycle, V-model, Kanban SAFe, Scrum, Angular, Cypress, Puppeteer, Jest, PHPUnit, Django, Flask, Laravel, Codeigniter, CakePHP, React.js, Vue.js, Node.js, TypeScript, C++, C#, Visual Basic, PHP, Python, Ruby, Perl, R, Terraform, Ansible, Puppet, Docker, Kubernetes, AWS, Azure, Google Cloud, Serverless, Microservices",
+    "education": "[\"Edu1\":{\"degree\":\"B.Tech\",\"university\":\"ECE\",\"graduationDate\":\"2011\"}]",
+    "work_exp": "[{\"name\":\"Walmart\"},{\"name\":\"Liberty Mutual Insurance\"},{\"name\":\"Bed Bath & Beyond\"},{\"name\":\"IBM\"}]",
+    "personal_info": "[{\"Name\":\"Pravallika Nukala\",\"ID\":\"p1\",\"Email\":\"ad1137@r.postjobfree.com\"}]",
+    "volunteer_info": "[]"
+}

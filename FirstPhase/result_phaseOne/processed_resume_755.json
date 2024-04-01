@@ -1,0 +1,7 @@
+{
+    "skills": "Web scripting languages:- HTML, Documentation tools :- MS Office, Database :- SQL",
+    "education": "[\"Edu1\":{\"degree\":\"Bachelor of Computer Engineering\",\"university\":\"K.K.Wagh Institute of Engineering,Education & Research\",\"graduationDate\":\"2018\"},\n\"Edu2\":{\"degree\":\"Diploma in Computer Engineering\",\"university\":\"Sandip Foundation's Sandip Institute of Polytechnic \",\"graduationDate\":\"2015\"}]",
+    "work_exp": "[{\"name\":\"Quality Engineer\"},{\"name\":\"Quality Analyst\"},{\"name\":\"Software Engineer\"}]",
+    "personal_info": "[{\"label\":\"Person\",\"ID\":\"e1\",\"Email\":\"ad20sc@r.postjobfree.com\"},{\"label\":\"Person\",\"ID\":\"e2\",\"Email\":null},{\"label\":\"Person\",\"ID\":\"e3\",\"Email\":null}]",
+    "volunteer_info": "No volunteer work entities found in the provided resume."
+}

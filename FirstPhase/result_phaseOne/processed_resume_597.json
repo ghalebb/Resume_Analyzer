@@ -1,0 +1,7 @@
+{
+    "skills": "Electrical and electronics parts Testing and Troubleshooting, Quality Control and Assurance, Project Management, Team Building and Leadership, Customer/Supplier Relation, Strategic Planning & Implementation, Process Improvement, Requirement Gathering, Quality and Testing, Root Cause Finding",
+    "education": "The provided resume does not include any education-related entities such as degrees, universities, graduation dates, or scores. Therefore, an empty list is returned.",
+    "work_exp": "[{\"name\":\"Deputy Manager QC\"},{\"name\":\"Assistant Manager - QC\"},{\"name\":\"Quality and Testing Engineer\"},{\"name\":\"Assistant Manager \u2013 Electrical Maintenance\"}]",
+    "personal_info": "[{\"label\":\"Person\",\"ID\":\"P1\",\"Email\":\"ad304h@r.postjobfree.com\",\"Name\":\"Sharad Prajapati\"},\n{\"label\":\"Person\",\"ID\":\"P2\",\"Email\":null,\"Name\":\"COO\"},\n{\"label\":\"Person\",\"ID\":\"P3\",\"Email\":null,\"Name\":null}\n]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

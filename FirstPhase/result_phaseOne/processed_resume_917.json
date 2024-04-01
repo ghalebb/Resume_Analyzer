@@ -1,0 +1,7 @@
+{
+    "skills": "C#, VB.Net, Azure, SQL Server, Angular, React JS, JavaScript, jQuery, AJAX, Visual Studio, WCF, SharePoint, SonarQube, Splunk, Classic ASP, VB, Crystal Reports, HTML5, CSS, Bootstrap, RPA UIPath, Xamarin, Progressive Web Apps, PowerShell, Oracle, My SQL, MangoDB, Cosmos DB, SSIS, SSRS, TFS, Azure DevOps, Jira, ServiceNow, Foot Prints, AZURE App Services, Azure Functions, Azure Storage, Azure SQL Server, Azure Data Lakes, Amazon Web Services, EC2, VPC, S3, SNS, SQS, Lambda, Ansible, IIS, Agile, Scrum, Waterfall, Postman, Soap UI, Fiddler, Selenium, BDD, Cucumber, ASP.NET, MVC, ASP.Net Core, .Net Framework, Web Services, REST API, Windows 2008/2012/2013/2016 Server, Windows Services, Message Queues",
+    "education": "[\"Edu1\":{\"degree\":\"Master of Computer Application\",\"university\":\"India\",\"graduationDate\":None}]",
+    "work_exp": "[{\"name\":\"Vertafore\"},{\"name\":\"Accenture\"},{\"name\":\"Value Labs\"},{\"name\":\"Quant Systems\"},{\"name\":\"Navaradhi Software Solutions\"}]",
+    "personal_info": "[\"label\":\"Person\",\"ID\":\"per-1\",\"Email\":\"ad1vui@r.postjobfree.com\"}",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

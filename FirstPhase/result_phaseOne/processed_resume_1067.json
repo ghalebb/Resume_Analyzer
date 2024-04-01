@@ -1,0 +1,7 @@
+{
+    "skills": "Html, Css, Javascript, React js, Node js, MySQL, Git, WordPress",
+    "education": "[\"Edu1\":{\"degree\":\"B.E\",\"university\":\"Anna University\",\"graduationDate\":\"2019\",\"location\":\"Chennai, India\"},\n\"Edu2\":{\"degree\":\"Master of Business Administration\",\"university\":\"Not provided\",\"graduationDate\":\"Not provided\"},\n\"Edu3\":{\"degree\":\"Not provided\",\"university\":\"Coursera\",\"graduationDate\":\"Not provided\"},\n\"Edu4\":{\"degree\":\"UI Development\",\"university\":\"Achiever's IT software training institute\",\"graduationDate\":\"Not provided\",\"location\":\"Bangalore, India\"},\n\"Edu5\":{\"degree\":\"Digital Marketing\",\"university\":\"Not provided\",\"graduationDate\":\"Not provided\"}]",
+    "work_exp": "[{\"name\":\"Software Engineer\"},{\"name\":\"Software Engineer\"},{\"name\":\"Junior Software Engineer\"},{\"name\":\"Software Engineer Intern\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"Mohamed Faisal\",\"ID\":\"ms3\",\"Email\": \"ad0u65@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "[]"
+}

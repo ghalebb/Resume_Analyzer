@@ -1,0 +1,7 @@
+{
+    "skills": "Python, R, C/C++, HTML/CSS, CSS3, Apache Spark, Apache Hive, TensorFlow, Flutter Flow, MySQL, MongoDB, Firebase, Azure Cloud Services, Hortonworks Data Platform, GCP, Tidal, Db Visualizer, WinSCP, Putty, DBeaver, Talend, MS Storage Explorer, MS SharePoint Designer, Postman, Heroku, No-SQL, Docker, Git/GitHub, Unix Shell, Microsoft Office Skills, Back end, Agile, SCRUM, Open source, Unit testing, Statistics, Risk Management and Analysis, Data Science, Software Development Life Cycle, Data Enterprise",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"Masters in Computer Science\",\n      \"university\": \"Portland State University, OR, US\",\n      \"graduationDate\": \"None\",\n      \"score\": \"3.89/4.0\"\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"Wipro Technologies Ltd\"},{\"name\":\"Portland State Computer Science Department\"}]",
+    "personal_info": "[{\"label\":\"Person\",\"ID\":\"a1\",\"Name\":\"Bhanoday Sai Kastala\",\"Email\":\"# ad4bqp@r.postjobfree.com\"}]",
+    "volunteer_info": "No volunteer work entities were found in the given resume."
+}

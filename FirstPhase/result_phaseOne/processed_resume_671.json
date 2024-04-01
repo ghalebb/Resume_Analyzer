@@ -1,0 +1,7 @@
+{
+    "skills": ", , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,",
+    "education": "[\n    {\n        \"Edu1\": {\n            \"degree\": \"MSc (IT)\",\n            \"university\": \"Annamalai University\",\n            \"graduationDate\": \"May 2007\",\n            \"score\": \"63%\"\n        }\n    },\n    {\n        \"Edu2\": {\n            \"degree\": \"BBA\",\n            \"university\": \"Madras University\",\n            \"graduationDate\": \"May 2004\",\n            \"score\": \"53%\"\n        }\n    }\n]",
+    "work_exp": "[{\"name\":\"Finecons Private Limited\"},{\"name\":\"Kellogg and Andelson Management Services Private LTD.\"},{\"name\":\"Intelenet Global Services Pvt Ltd\"},{\"name\":\"Nexage Technologies India Pvt. Ltd\"},{\"name\":\"Moyphus Software\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"1\",\n    \"Name\": \"NAGARAJ. V\",\n    \"Email\": \"ad3int@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

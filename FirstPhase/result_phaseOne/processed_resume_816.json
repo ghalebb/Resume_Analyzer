@@ -1,0 +1,7 @@
+{
+    "skills": "AUTOCAD, REVIT, STADD PRO, MS. office, Windows family",
+    "education": "[\n \"Edu1\":   {\n                \"degree\": \"Bachelor of Engineering\",\n                \"university\": \"Annamalai University\",\n                \"graduationDate\": \"2019\",\n                \"score\": \"6.5\"\n            },\n    \"Edu2\":   {\n                \"degree\": \"XII\",\n                \"university\": \"rajiv gandhi national matric Higher secondary school\",\n                \"graduationDate\": \"2014\",\n                \"score\": \"75%\"\n            },\n \"Edu3\":   {\n                \"degree\": \"X\",\n                \"university\": \"R.c high school\",\n                \"graduationDate\": \"2012\",\n                \"score\": \"85%\"\n            }\n]",
+    "work_exp": "No work experience was found in the provided resume.",
+    "personal_info": "[\n{\n\"Name\": \"SATHISH.D\",\"ID\": \"S1\",\"Email\":\"ad2hl8@r.postjobfree.com\"\n},\n{\n\"Name\": \"S.DURAI\",\"ID\": \"S2\",\"Email\":null\n}\n]",
+    "volunteer_info": "[{\"name\":\"NCC\"},{\"name\":\"NSS\"}]"
+}

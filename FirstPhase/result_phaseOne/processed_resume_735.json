@@ -1,0 +1,7 @@
+{
+    "skills": "Java, Microservices, React, JavaScript, HTML/CSS, Springboot, Mysql, JIRA, JDBC, Kafka, Webservices, SQL",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"Bachelor Of Engineering\",\n      \"university\": \"Dr.Babasaheb Ambedkar Marathwada Univercity\",\n      \"graduationDate\": \"06/2018\",\n      \"score\": \"6.04\"\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": null,\n      \"university\": \"MSBTE\",\n      \"graduationDate\": null,\n      \"score\": \"69.47 %\"\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"Full Stack Developer\"},{\"name\":\"Software Engineer\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"Sayali Mundhe\",\n    \"ID\": \"11\",\n    \"Email\": \"ad26o3@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "The provided text does not contain any volunteer work experiences."
+}

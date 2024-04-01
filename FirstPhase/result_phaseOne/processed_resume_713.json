@@ -1,0 +1,7 @@
+{
+    "skills": "PHP, Mysql, LARAVEL, lumen, new relic, Wordpress, Joomla, Codeigniter, RabbitMQ, solr, Magento, Drupal, GIT, LAMP, AWS services, OpenAI, Ajax, JavaScript, jQuery, Cordova Mobile App, Putty, FileZilla, Windows, UNIX, PHP, cordova, JQuery, Ajax",
+    "education": "[\n{\"Edu1\":{\"degree\":\"B.E.\",\"university\":\"NRI Institute of Technology & management, Gwalior M.P\",\"graduationDate\":\"Jun-2012\",\"score\":\"67.82%\"}},\n{\"Edu2\":{\"degree\":\"12th\",\"university\":\"Madhya Pradesh Board\",\"graduationDate\":\"Feb-2008\",\"score\":\"57.33%\"}},\n{\"Edu3\":{\"degree\":\"10th\",\"university\":\"Madhya Pradesh Board\",\"graduationDate\":\"Mar-2007\",\"score\":\"55%\"}}\n]",
+    "work_exp": "[{\"name\":\"Netscribes Data & Insights Private Limited\"},{\"name\":\"NETWORK18\"},{\"name\":\"CONVERGENCE SERVICES PVT LTD\"},{\"name\":\"TECHLECT BUSINESS SOLUTION PVT LTD\"}]",
+    "personal_info": "[\n{\n\"label\": \"Person\",\n\"id\": \"p1\",\n\"Email\": \"ad3a1g@r.postjobfree.com\"\n}\n]",
+    "volunteer_info": "No volunteer work information was found in this resume."
+}

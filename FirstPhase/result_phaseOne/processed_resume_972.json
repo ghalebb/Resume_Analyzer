@@ -1,0 +1,7 @@
+{
+    "skills": "AUTO CADD, SOLID WORK, ANSYS, GD&T",
+    "education": "[\n\"Edu1\": {\n\"degree\": \"M.TECH+B.TECH MECHANICAL ENGINEERING\",\n\"university\": \"INTEGRAL UNIVERSITY LUCKNOW\",\n\"graduationDate\": \"2019.11\",\n\"score\": \"68%\"\n},\n\"Edu2\": {\n\"degree\": \"HIGHER SECONDRY\",\n\"university\": \"KIC UP BOARD\",\n\"graduationDate\": \"2014.06\",\n\"score\": \"76%\"\n},\n\"Edu3\": {\n\"degree\": \"HIGH SCHOOL\",\n\"university\": \"SMT RAM RATI DEVI SE SEC SCHOOL\",\n\"graduationDate\": \"2011.09\",\n\"score\": \"6.8CGPA\"\n}\n]",
+    "work_exp": "[{\"name\":\"SERVICE ENGINEER\"},{\"name\":\"MAINTENANCE ENGINEER\"},{\"name\":\"INSTALLATION RO MACHINE\"}]",
+    "personal_info": "[{\"label\":\"Person\",\"ID\":\"1\",\"Name\":\"SALEEM KHAN\",\"Email\":\"ad1huj@r.postjobfree.com\"}]",
+    "volunteer_info": "[]"
+}

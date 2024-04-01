@@ -1,0 +1,7 @@
+{
+    "skills": "AUTOCAD, MICROSTATION, REVIT, SEWER GEMS, 3DSMax, Adobe Photoshop, WATER GEMS",
+    "education": "[\n \"Edu1\":{\n  \"degree\":\"B.E\",\n  \"university\":\"SATYABHAMA UNIVERSITY\",\n  \"graduationDate\":\"2014\",\n  \"scores\":\"61%\"\n },\n \"Edu2\":{\n  \"degree\":\"DIPLOMA IN MECHANICAL ENGG\",\n  \"university\":\"Tamilnadu polytechnic,Madurai\",\n  \"graduationDate\":\"1997\",\n  \"scores\":\"69%\"\n },\n \"Edu3\":{\n  \"degree\":\"HSC\",\n  \"university\":\"M.S.P.SolaiNadar Memorial higher\\nSecondary school,Dindigul\",\n  \"graduationDate\":\"1994\",\n  \"scores\":\"62%\"\n },\n \"Edu4\":{\n  \"degree\":\"SSLC\",\n  \"university\":\"M.S.P.SolaiNadar Memorial higher\\nSecondary school,Dindigul\",\n  \"graduationDate\":\"1992\",\n  \"scores\":\"89%\"\n }\n]",
+    "work_exp": "[{\"name\":\"JACOBS\"},{\"name\":\"DUCON CONSULTANTS\"},{\"name\":\"STERLING WILSON\"},{\"name\":\"BHARGAV ASSOCIATES CHENNAI (P) LTD\"},{\"name\":\"AIRTREATMENT ENGINEERING (P)LTD\"},{\"name\":\"VGN HOMES\"},{\"name\":\"PRISM CONSULTANTS\"},{\"name\":\"SA CONSULTANTS\"},{\"name\":\"ARS DESIGNERS\"}]",
+    "personal_info": "[]",
+    "volunteer_info": "No volunteer work was found in the provided resume."
+}

@@ -1,0 +1,7 @@
+{
+    "skills": "C, C++, Java, JavaScript, Python, Rust, Scala, NodeJS, Angular, Spring, Apache, Nginx, Tomcat, OpenSSL, Java Cryptographic Architecture, Jira, Confluence, GitHub, Bitbucket, Git, JSON, XML, HTTP, MySQL, PostgreSQL, Concourse, Bamboo, Docker, Docker Compose, Ubuntu, Centos Linux",
+    "education": "[\"Edu1\":{\"degree\":\"MS\",\"university\":\"UNIVERSITY OF CALIFORNIA - SAN DIEGO\",\"graduationDate\":null},\n\"Edu2\":{\"degree\":\"BS\",\"university\":\"UNIVERSITY OF CALIFORNIA - SAN DIEGO\",\"graduationDate\":null},\n\"Edu3\":{\"degree\":\"BS\",\"university\":\"UNIVERSITY OF CALIFORNIA - SAN DIEGO\",\"graduationDate\":null}\n]",
+    "work_exp": "[{\"name\":\"COMCAST\"},{\"name\":\"COMBINED CONDITIONAL ACCESS DEVELOPMENT AND SUPPORT (CCAD)\"},{\"name\":\"MOTOROLA\"},{\"name\":\"APPROVED WORKMAN\"}]",
+    "personal_info": "[{\"Name\":\"ERIC EUGENE BERRY\",\"Email\":\"ad4go5@r.postjobfree.com\"}]",
+    "volunteer_info": "The text provided does not contain any volunteer work entities, thus the output is an empty list."
+}

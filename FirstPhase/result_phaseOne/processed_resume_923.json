@@ -1,0 +1,7 @@
+{
+    "skills": "SAP, e-Market Place, MAXIMO, ADAPTIVE, MS WORD, EXCEL",
+    "education": "[\"Edu1\":{\"degree\":\"B.E\",\"university\":\"People Education Society college of Engineering\",\"graduationDate\":\"2017\",\"score\":\"65.93 %\"},\"Edu2\":{\"degree\":\"Diploma in E&TC\",\"university\":\"MSBTE\",\"graduationDate\":\"2013\",\"score\":\"67.09 %\"},\"Edu3\":{\"degree\":\"SSC\",\"university\":\"Maharashtra State Board\",\"graduationDate\":\"2008\",\"score\":\"73.69 %\"}]",
+    "work_exp": "[{\"name\":\"Facility Engineer\"}, {\"name\":\"Teacher\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"E1\",\n    \"Name\": \"Vishnu Dagduba Kale\",\n    \"Email\": \"ad1t3u@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer entities found in resume."
+}

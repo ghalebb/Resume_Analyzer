@@ -1,0 +1,7 @@
+{
+    "skills": "MS-OFFICE (2003,2007,2010), ADOBE PHOTOSHOP, WINDOWS XP/7/8, M-STATC (AGRICULTURAL), STATISTICS, SPSS, Leadership qualities, Team management and problem-solving abilities, Public presentation skills, Ability to deal effectively with concerned people, Worked under high stress, independently as well as in a team environment",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"M. Sc\",\n      \"university\": \"Agri uni Peshawar\",\n      \"graduationDate\": \"2012\",\n      \"score\": \"3.39/4.00 (76.2%)\"\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": \"B. Sc\",\n      \"university\": \"Agri uni Peshawar\",\n      \"graduationDate\": \"2009\",\n      \"score\": \"3.22/4.00 (70.8%)\"\n    }\n  },\n  {\n    \"Edu3\": {\n      \"degree\": \"F. Sc\",\n      \"university\": \"BISE Peshawar\",\n      \"graduationDate\": \"2004\",\n      \"score\": \"770/1100 (72.1%)\"\n    }\n  },\n  {\n    \"Edu4\": {\n      \"degree\": \"SSC\",\n      \"university\": \"BISE Peshawar\",\n      \"graduationDate\": \"2002\",\n      \"score\": \"669/850 (78.7%)\"\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"Agriculture Engineer\"},{\"name\":\"Operational Manager\"},{\"name\":\"Pest Control Engineer\"},{\"name\":\"Senior Horticulturist\"},{\"name\":\"Landscape Manager\"},{\"name\":\"Research Assistant\"},{\"name\":\"Teacher\"}]",
+    "personal_info": "[{\"Name\":\"Muhammad Amir\",\"ID\":\"001\",\"Email\":\"adr1y3@r.postjobfree.com\"}]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

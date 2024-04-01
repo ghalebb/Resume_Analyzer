@@ -1,0 +1,7 @@
+{
+    "skills": "Agile, AlphaServer, Budgeting, C, C++, CBTC, CENELEC, Change Management, Commissioning, Conflict Management, Customer Service, Data Structures, Debugging, Design, Dimensions, DOORS, Eclipse IDE, Embedded Software, EN50128/EN50129, Ethernet, FORTRAN, Gerrit, Gitlab, HMI, Human Resources, Industrial Equipment, Intel, JAVA, Jenkins, Level 2, LINUX, Manufacturing, Microsoft Office, Modeling Software, Networking, OpenVMS, OPC, Oracle, PowerPC, Primavera P6, Product Demos, Product Development, Product Management, Project Documentation, Project Engineering, Project Leadership, Project Management, Recruiting, Research & Development, Requirements Management, Resource Allocation, RTC, RS-232/422/485, RSLinx, Scrum, Serial communications, Software Troubleshooting, Sprint, SQL Server, Supervisory Software, Systems Engineering, TCP UDP, V-model, VirtualBox, Visual Studio/.Net, VMWare, VxWorks, Waterfall, Windows",
+    "education": "The provided resume does not contain any education-related entities, so an empty list is returned.",
+    "work_exp": "[{\"name\":\"Senior Software Architect\"},{\"name\":\"Lead Systems Engineer\"},{\"name\":\"Process Automation Consultant\"},{\"name\":\"Vice-President/Director\"},{\"name\":\"Controller\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"e1\",\n    \"Name\": \"Michael R Bovan\",\n    \"Email\": \"ad39jc@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer experiences were found in the provided resume."
+}

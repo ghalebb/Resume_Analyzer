@@ -1,0 +1,7 @@
+{
+    "skills": "- Directing the team of Engineers\n- Project Integration Management\n- Time Management\n- Cost Management\n- Procurement Management\n- Quality Management\n- Human Resource Management\n- Communication Management\n- Risk Management\n- Site Management",
+    "education": "[\"Edu1\":{\"degree\":\"Graduate Engineering\",\"university\":\"Regional Engineering College\",\"graduationDate\":None,\"score\":None},\n\"Edu2\":{\"degree\":\"Diploma Course\",\"university\":\"NCCT\",\"graduationDate\":None,\"score\":None}\n]",
+    "work_exp": "[{\"name\":\"Roy's Consultants\"},{\"name\":\"Al Mustadamah LLC\"},{\"name\":\"Strategic Precious Metal processing LLC(SPMP)\"},{\"name\":\"Oman Aluminum Rolling Company (OARC)\"},{\"name\":\"Progesys, Inc\"},{\"name\":\"Emirates Global Aluminum (EGA)\"},{\"name\":\"Linde Gmbh\"},{\"name\":\"Worleyparsons (Europe)\"},{\"name\":\"Aluminum Bahrain (Alba)\"},{\"name\":\"Louis Berger Inc, USA\"},{\"name\":\"FLS Fuller Bulk Handling Ltd\"},{\"name\":\"PEC-Tech, April Group\"},{\"name\":\"Mechano Paper Machine Ltd\"},{\"name\":\"Larsen & Toubro Ltd\"},{\"name\":\"Mining & Allied Machinery Corporation Ltd\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"p1\",\n    \"Email\": \"ad2yeu@r.postjobfree.com\"\n  },\n  {\n    \"label\": \"Person\",\n    \"ID\": \"p2\",\n    \"Email\": \"rgita81@skype.com\"\n  }\n]",
+    "volunteer_info": "No volunteer work entities could be extracted from the provided text."
+}

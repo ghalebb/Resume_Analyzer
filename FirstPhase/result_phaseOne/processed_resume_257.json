@@ -1,0 +1,7 @@
+{
+    "skills": "C#, .NET, C++, Object-Oriented Design, Multi-threading, Windows SDK, Networking, Socket, TCP/IP, Real-time Back-End Server-Side Applications, Front-End, C#/WinForm, UI Design, Multi-Tier Client/Server Applications, STL, Boost, MFC, ATL/COM, MS SQL Server, Oracle DB, JSON, XML, Git, GitLab, GitHub, CI/CD Pipeline Automation, Agile, Sprint, Scrum, JIRA, Kanban, XP (TDD/BDD, Pair Programming), Cloud (AWS, MS Azure), VoIP (SIP, H323, MGCP, ASN.1, RTP/RTCP, and Other Protocols), Gatekeeper, Gateway Development, Team Leader / Architect Experience, Customized GUI Controls, Data Grid Model/View/Controller Design/Implentation, C#, Razor/Blazor, ASP.NET Core, SQL, Visual Studio, Visual C++",
+    "education": "[\"Edu1\":{\"degree\":\"Master of Computer Science (AI)\",\"university\":\"Chinese Academy of Sciences, Institute of Computing Technology\",\"graduationDate\":\"N/A\"},\n\"Edu2\":{\"degree\":\"Bachelor of Computer Science\",\"university\":\"Harbin Engineering University\",\"graduationDate\":\"N/A\"}\n]",
+    "work_exp": "[{\"name\":\"KFC\"},{\"name\":\"Teacher\"}]",
+    "personal_info": "[{\"Name\":\"Edmund Liu\",\"ID\":\"ad4do4\",\"Email\":\"ad4do4@r.postjobfree.com\"}]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

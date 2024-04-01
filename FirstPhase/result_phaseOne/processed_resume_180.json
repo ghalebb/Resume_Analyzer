@@ -1,0 +1,7 @@
+{
+    "skills": "TCP/IP, IPV6, FHRP, VPN, MPLS, IDS/IPS, BGP, IS-IS, OSPF, EIGRP, DMVPN, GETVPN, L3VPN, L2VPN, VxLAN, IPSEC, SNMP, 802.11, 802.1x, Radius, Tacacs+, LDAP, SAML, Palo Alto firewall, ASA firewall, VPN Services, Cisco and Arista routing and switching devices, AWS/Azure/ Google cloud environment, Citrix Xen-Desktop, Vmware Vsphere 6.5, Linux/ LPI, Python Scripting / Ansible, Network Automation, DISA STIG Compliance",
+    "education": "[\"Edu1\":{\"degree\":\"PhD\",\"university\":\"Towson University - Towson, MD\",\"graduationDate\":\"May 2025\",\"score\":null},\n\"Edu2\":{\"degree\":\"Master of Science\",\"university\":\"University of Maryland Global Campus - Adelphi, MD\",\"graduationDate\":\"December 2009\",\"score\":null},\n\"Edu3\":{\"degree\":\"Master of Science\",\"university\":\"Polytechnic High School of Engineering - Yaounde - Cameroon\",\"graduationDate\":\"July 1997\",\"score\":null}]",
+    "work_exp": "[{\"name\":\"SDWAN Consultant\"},{\"name\":\"SDWAN/ SASE/ Security Consultant\"},{\"name\":\"Senior VeloCloud SD-WAN Consultant\"},{\"name\":\"Distributed Platform Security Engineer\"},{\"name\":\"SDWAN and Cloud Based Solution Design Engineer\"},{\"name\":\"Engineering Technology Department Coordinator\"},{\"name\":\"Assistant Professor\"},{\"name\":\"Information Technology Consultant\"},{\"name\":\"Information System Coordinator\"},{\"name\":\"Project Manager\"},{\"name\":\"Telecommunication Engineer\"}]",
+    "personal_info": "[]",
+    "volunteer_info": "[]"
+}

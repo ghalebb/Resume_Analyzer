@@ -1,0 +1,7 @@
+{
+    "skills": "MATLAB, P-Spice, Electronic Work Bench, Proteus, Keil, AUTOCAD, Ethereal, Simulink, Assembly Language, Verilog HDL, C++, Win98, Win2000, Win XP, Win 7, Win 8, Win 10, Win 11, MS Office, SAP",
+    "education": "[\"Edu1\":{\"degree\":\"B. Sc Electrical Engineering (Power)\",\"university\":\"string\",\"graduationDate\":\"2009\",\"score\":\"3.08 / 4.00 77.25%\"},\n\"Edu2\":{\"degree\":\"D.A.E Electrical (Power) / F.Sc (Pre Engineering)\",\"university\":\"string\",\"graduationDate\":\"2005\",\"score\":\"2704 / 3550 77.15%\"},\n\"Edu3\":{\"degree\":\"Matriculation\",\"university\":\"string\",\"graduationDate\":\"2002\",\"score\":\"584 / 850 69%\"}]",
+    "work_exp": "[{\"name\":\"DEWA\"},{\"name\":\"DRY DOCKS DUBAI\"},{\"name\":\"QARSHI INDUSTRIES PVT\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"Hasan Mahmood\",\n    \"ID\": \"person1\",\n    \"Email\": \"adzmag@r.postjobfree.com\"\n  },\n  {\n    \"Name\": \"Arshad Mahmood\",\n    \"ID\": \"person2\",\n    \"Email\": null\n  }\n]",
+    "volunteer_info": "No volunteer experiences were found in the resume provided."
+}

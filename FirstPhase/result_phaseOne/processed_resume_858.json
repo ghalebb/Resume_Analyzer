@@ -1,0 +1,7 @@
+{
+    "skills": "Java/JEE, Shell, Python, Elasticsearch, Logstash, and Kibana, Ansible, Ansible Tower, AWS, Azure, Scrum, Kanban, Agile, Waterfall, Docker, Kubernetes, Terraform, SonarQube, MuleSoft AnyPoint, Salesforce Sandboxes, XL Release, Maven, Gradle, Jenkins, Bamboo, GitHub Actions, GitLab CICD, Bitbucket, AccuRev, IBM-RTC, SVN",
+    "education": "[\"Edu1\":{\"degree\":\"M.Tech\",\"university\":\"Royal Institute of Technology and Science\",\"graduationDate\":\"2015\"},\n\"Edu2\":{\"degree\":\"B.Tech\",\"university\":\"University College of Engineering\",\"graduationDate\":\"2009\"}]",
+    "work_exp": "[{\"name\":\"Software Engineering Associate Manager\"},{\"name\":\"Sr. DevOps Engineer\"},{\"name\":\"IT Analyst\"},{\"name\":\"Systems Engineer\"}]",
+    "personal_info": "[{\"Name\":\"MD Hameedulla Sharief\",\"ID\":\"person_01\",\"Email\":\"ad18t0@r.postjobfree.com\"}]",
+    "volunteer_info": "There are no volunteer experiences found in the resume."
+}

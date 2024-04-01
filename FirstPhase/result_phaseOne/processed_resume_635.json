@@ -1,0 +1,7 @@
+{
+    "skills": "Selenium Web Driver, SQL, TestRail, JIRA, Java, Windows",
+    "education": "[\"Edu1\":{\"degree\":\"M.C.A.\",\"university\":\"University of Pune\",\"graduationDate\":\"2011\"},\n\"Edu2\":{\"degree\":\"B.Sc.\",\"university\":\"North Maharashtra University\",\"graduationDate\":\"2008\"},\n\"Edu3\":{\"degree\":\"HSC\",\"university\":\"S.G.B.A.U. Amravati\",\"graduationDate\":\"2005\"},\n\"Edu4\":{\"degree\":\"SSC\",\"university\":\"S.G.B.A.U. Amravati\",\"graduationDate\":\"2003\"}]\n}",
+    "work_exp": "[{\"name\":\"Sr. Software Engineer\"},{\"name\":\"Sr. Software Engineer\"},{\"name\":\"Software Engineer\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"Krantikumar V. Patil\",\n    \"ID\": \"1\",\n    \"Email\": \"ad3tc5@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer work entities were found in the resume provided."
+}

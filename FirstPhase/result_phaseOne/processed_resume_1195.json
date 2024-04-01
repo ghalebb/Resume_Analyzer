@@ -1,0 +1,7 @@
+{
+    "skills": "ASP.NET, C#, VB.NET, MVC, WEB API, JQUERY, SQL SERVER, DEVEXPRESSS, DevExtreme, XML, CSS, DOM, HTML, AJAX, JAVASCRIPT, JSON, API, ADO.NET, T-SQL, IIS, Object Oriented Concepts, Entity Framework",
+    "education": "[{\"Edu1\":{\"degree\":\"MCA\",\"university\":\"Sree Amman Arts & Science College\",\"graduationDate\":\"2010\",\"score\":\"81 %\"},\"Edu2\":{\"degree\":\"BSc Mathematics\",\"university\":\"Farook College\",\"graduationDate\":\"2007\",\"score\":\"76 %\"}}]",
+    "work_exp": "[{\"name\":\"Software Engineer/Deployment\"},{\"name\":\"Team Leader/Software Engineer\"},{\"name\":\"Software Engineer\"},{\"name\":\"Software Engineer/Controller\"},{\"name\":\"Software Engineer/Deployment\"},{\"name\":\"Software Engineer\"},{\"name\":\"Software Engineer\"},{\"name\":\"Software Engineer/Deployment\"},{\"name\":\"Software Engineer\"},{\"name\":\"Software Engineer/Deployment\"}]",
+    "personal_info": "[\n  {\n    \"ID\": \"P1\",\n    \"Name\": \"SHAMSEENA.K.N\",\n    \"Email\": \"adtzn6@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer experiences were found in the provided resume."
+}

@@ -1,0 +1,7 @@
+{
+    "skills": "Analytical skills, Attention to detail, Test planning, Test case writing, Test implementation, Bug reporting, Bug tracking, Regression testing, Functional testing, User Acceptance testing, Black box testing, Usability testing, Compatibility testing, End-to-End testing, Exploratory testing, Gherkin (BDD) syntax, Test documentation, SDLC, Agile methodology, Scrum framework, Jira, MySQL, Oracle, Azur DevOps, TestRail, GitHub, Performance, JMeter, Payment processing, Chrome Dev Tools, XCode, Android studio, ADB, BrowserStack, Rest API, Postman, Charles Proxy, Swagger",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"Bachelor\u2019s degree\",\n      \"university\": \"KAFU (Kazakhstan-American Free University)\",\n      \"graduationDate\": null,\n      \"score\": null\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"Software QA Analyst\"}, {\"name\":\"Quisitive\"}]",
+    "personal_info": "[{\"label\":\"Person\",\"ID\":\"1\",\"Email\":\"ad3805@r.postjobfree.com\"},{\"label\":\"Person\",\"ID\":\"2\",\"Name\":\"Darya Rosado\",\"Email\":\"ad3805@r.postjobfree.com\"}]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

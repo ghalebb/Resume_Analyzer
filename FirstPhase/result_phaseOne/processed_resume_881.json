@@ -1,0 +1,7 @@
+{
+    "skills": "EC2, ASG, ELB, S3, VPC, ECS, Elastic Beanstalk, AWS Budget, IAM roles and policies, security groups, NACL, S3 Bucket access, and policies, Terraform, CloudFormation, AWS CDK, Git, Jenkins, SonarQube, AWS code commit, code build, code deploy, code pipeline, Python, Shell script, YAML, Ansible, Docker, ECR, CloudWatch, CloudTrail, Datadog, Zabbix, Threat Stack, CrowdStrike, Rapid7, ServiceNow, Jira",
+    "education": "No education data could be extracted from the provided resume.",
+    "work_exp": "[{\"name\":\"Cognizant Technology Solutions\"},{\"name\":\"Tech Lead(DevOps)\"},{\"name\":\"IDC technologies private ltd\"},{\"name\":\"IT Support engineer\"},{\"name\":\"Future Net Technologies Pvt. Ltd\"},{\"name\":\"On-Job Trainee\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"P01\",\n    \"Name\": \"Mohanraj Devarasu\",\n    \"Email\": \"ad123t@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer experience was found in the provided resume."
+}

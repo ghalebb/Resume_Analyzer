@@ -1,0 +1,7 @@
+{
+    "skills": "Installing hydraulic equipment, Repairing hydraulic equipment, Interpreting maintenance manuals and specifications, Overhauling engines, Overhauling transmissions, Heavy lifting, Meeting tight deadlines, Internal communications, External communications, Strategic thinking",
+    "education": "[{\"Edu1\": {\"degree\": \"Engineering\", \"university\": \"MES Institute of Technology And Management\", \"graduationDate\": \"2019\"}},\n\t{\"Edu2\": {\"degree\": \"Plus Two\", \"university\": \"State Board of Kerala\", \"graduationDate\": \"2015\"}},\n\t{\"Edu3\": {\"degree\": \"S.S.L.C\", \"university\": \"State Board of Kerala\", \"graduationDate\": \"2013\"}}]",
+    "work_exp": "[{\"name\":\"Mechanical Engineer\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"e001\",\n    \"Name\": \"TONY GEORGE\",\n    \"Email\": \"adtkyv@r.postjobfree.com\"\n  },\n  {\n    \"label\": \"Person\",\n    \"ID\": \"e002\",\n    \"Name\": \"George\",\n    \"Relationship\": {\n      \"ID\": \"e001\",\n      \"Type\": \"Father\"\n    }\n  },\n  {\n    \"label\": \"Person\",\n    \"ID\": \"e003\",\n    \"Name\": \"Jolly\",\n    \"Relationship\": {\n      \"ID\": \"e001\",\n      \"Type\": \"Mother\"\n    }\n  }\n]",
+    "volunteer_info": "No volunteer work experience found in the resume provided."
+}

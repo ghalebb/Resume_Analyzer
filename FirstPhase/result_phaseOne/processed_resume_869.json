@@ -1,0 +1,7 @@
+{
+    "skills": "AutoCAD, Solidworks, AutoCAD 2010, Win XP, Win 7, Win 8",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"M.E- MFG\",\n      \"university\": \"Kathir College of Engg\",\n      \"graduationDate\": \"2016\",\n      \"score\": 73\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": \"B.E- Mech\",\n      \"university\": \"G.C.T, Coimbatore\",\n      \"graduationDate\": \"1997\",\n      \"score\": 60\n    }\n  },\n  {\n    \"Edu3\": {\n      \"degree\": \"D.P.E\",\n      \"university\": \"ThiyagaRajar Polytechnic, Salem\",\n      \"graduationDate\": \"1984\",\n      \"score\": 72\n    }\n  },\n  {\n    \"Edu4\": {\n      \"degree\": \"S.S.L.C.\",\n      \"university\": \"S.M.Hr.School, Tharamangalam.\",\n      \"graduationDate\": \"1980\",\n      \"score\": 82\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"M/s.Revathie Gear Products Factory\"},{\"name\":\"M/s Eurotech global solution india (p) ltd\"},{\"name\":\"M/s Harini Fibres\"},{\"name\":\"M/s Strategic Enineering p ltd\"},{\"name\":\"M/s LGB\"},{\"name\":\"M/s Micmac Machine Tools\"},{\"name\":\"M/s DPF Engineering Products\"}]",
+    "personal_info": "[{\"Name\":\"A.SWAMYNATHAN\",\"ID\":\"per001\",\"Email\":\"ad16e6@r.postjobfree.com\"},{\"Name\":\"D.P.E\",\"ID\":\"edu001\"}]",
+    "volunteer_info": "No volunteer work entities found."
+}

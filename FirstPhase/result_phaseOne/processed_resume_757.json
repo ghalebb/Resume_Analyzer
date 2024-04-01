@@ -1,0 +1,7 @@
+{
+    "skills": "React, Next, Laravel, CI, Magento2, DJango, HTML, CSS, SCSS, JQuery, Bootstrap, Material, Tailwind, MySQL, PostgreSQL, MongoDB, PHP, JS, Node, Express, TypeScript, AWS, GitHub, GitLab, BitBucket",
+    "education": "[{\"Edu1\":{\"degree\":\"Master Degree - MCA\",\"university\":\"IMCC\",\"graduationDate\":\"2016\"},\n\"Edu2\":{\"degree\":\"Bachelor Degree - BCA\",\"university\":\"NCK\",\"graduationDate\":\"2014\"}}\n]",
+    "work_exp": "[{\"name\":\"InaDev\"},{\"name\":\"LTIMindtree\"},{\"name\":\"QualitasIt Solutions pvt. ltd.\"},{\"name\":\"Fabrikaa\"},{\"name\":\"E-arth Solution Pvt. Ltd.\"},{\"name\":\"Pratik Dhotmal\"},{\"name\":\"Olive Gaea\"},{\"name\":\"Pharma Intelligence - TtrialScope\"},{\"name\":\"Kunte's Chess Academy\"}]",
+    "personal_info": "[{\"Name\":\"Pratik Narendra Dhotmal\",\"ID\":\"pnd01\",\"Email\":\"ad20rn@r.postjobfree.com\"},{\"Name\":\"Pratik Dhotmal\",\"ID\":\"pd02\",\"Email\":null}]",
+    "volunteer_info": "No volunteer work entities found in the provided resume."
+}

@@ -1,0 +1,7 @@
+{
+    "skills": "Python, PowerShell, React, Mapbox, CSS, HTML, JavaScript",
+    "education": "[\n  {\n    \"id\": \"Edu1\",\n    \"degree\": \"High School Diploma\",\n    \"university\": \"Idaho Arts Charter School\",\n    \"graduationDate\": \"2018\"\n  }\n]",
+    "work_exp": "[{\"name\":\"National Security Agency, Fort Meade, MD\"}, {\"name\":\"United States Air Force, Fort Meade, MD\"}, {\"name\":\"Aireos, Remote\"}, {\"name\":\"PaxIQ, Meridian, ID\"}, {\"name\":\"Freelancer, Remote\"}]",
+    "personal_info": "[{\"Name\":\"Andria Brown\",\"ID\":\"pb1\",\"Email\":\"ad4gqp@r.postjobfree.com\"}]",
+    "volunteer_info": "[{\"name\":\"Software Development Consulting\"},{\"name\":\"Stack Overflow\"},{\"name\":\"Open-Source Software Maintainer\"}]"
+}

@@ -1,0 +1,7 @@
+{
+    "skills": "Adobe Photoshop, Auto CAD, Civil Engineer, Computer Hardware & Software, Digital Marketing, Textile Designing, 3D Studio",
+    "education": "[\n \"Edu1\": {\n  \"degree\": \"Bachelor\",\n  \"university\": \"Punjab Board\",\n  \"graduationDate\": \"2011\",\n  \"specialization\": \"ACCOUNTS\"\n },\n \"Edu2\": {\n  \"degree\": \"Diploma\",\n  \"university\": \"Punjab Board\",\n  \"graduationDate\": \"2011\",\n  \"specialization\": \"Civil Engineer\"\n },\n \"Edu3\": {\n  \"degree\": \"I.COM\",\n  \"university\": \"Faisalabad Board\",\n  \"graduationDate\": \"2009\",\n  \"specialization\": \"ACCOUNTS\"\n },\n \"Edu4\": {\n  \"degree\": \"MATRIC\",\n  \"university\": \"Faisalabad Board\",\n  \"graduationDate\": \"2007\",\n  \"specialization\": \"Arts\"\n }\n]",
+    "work_exp": "[{\"name\":\"Marketing Manager\"},{\"name\":\"Documents Controller\"},{\"name\":\"Digital Printing\"},{\"name\":\"HOD Digital\"},{\"name\":\"In Charge Creation & HOD Design Studio\"},{\"name\":\"Designer\"},{\"name\":\"HSE officer\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"TALHA HAMEED\",\n    \"ID\": \"P1\",\n    \"Email\": \"adz1nn@r.postjobfree.com\"\n  },\n  {\n    \"Name\": \"Abdul Hameed\",\n    \"ID\": \"P2\",\n    \"Email\": null\n  }\n]",
+    "volunteer_info": "The provided resume does not contain any volunteer work entities."
+}

@@ -1,0 +1,7 @@
+{
+    "skills": "Compliance Management, risk analysis, risk assessments, cybersecurity, Security Control, IT Auditing, SPLUNK, Alienvault , ITIL, ITSM, SNOW, Blockchain, Ethereum, Hyperledger, Marketing, SEO, Creativity, Social Media, Leadership, Content Marketing, SQL, Jira, JMeter, MYSQL",
+    "education": "[\n  {\n    \"id\": \"Edu1\",\n    \"degree\": \"Bachelor of Computer Application\",\n    \"university\": \"Pune University\",\n    \"graduationDate\": null\n  },\n  {\n    \"id\": \"Edu2\",\n    \"degree\": null,\n    \"university\": \"Army Public School / Utkal University\",\n    \"graduationDate\": null\n  }\n]",
+    "work_exp": "[{\"name\":\"Tech Mahindra\"},{\"name\":\"Concentrix\"},{\"name\":\"Idealabs FutureTech Ventures\"},{\"name\":\"DARQHour Research\"},{\"name\":\"Ivalue\"},{\"name\":\"Mphasis\"},{\"name\":\"Aptiva\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"Preeti Mohapatra\",\n    \"ID\": \"preeti\",\n    \"Email\": \"ad339m@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "[]"
+}

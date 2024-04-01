@@ -1,0 +1,7 @@
+{
+    "skills": "Manual testing, Ms-office tool, Postman testing tool, Eclipse tool, Selenium Tool, Katalon tool",
+    "education": "The provided resume does not contain any education-related entities such as degrees, universities, graduation dates, or scores. Hence, an empty list is returned.\n\n[]",
+    "work_exp": "[{\"name\":\"Teacher\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"P1\",\n    \"Email\": \"ad277p@r.postjobfree.com\"\n  },\n  {\n    \"label\": \"Person\",\n    \"ID\": \"P2\",\n    \"Email\": null\n  }\n]",
+    "volunteer_info": "The provided resume does not contain any information about volunteer work, so the requested data could not be extracted."
+}

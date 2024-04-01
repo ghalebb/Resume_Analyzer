@@ -1,0 +1,7 @@
+{
+    "skills": "Fast learner and willingness to learn, Leadership Skills, Good communication skills, Adapts in any situation that may arise in the workplace, Time management skills, Computer Literate (MS Word, Excel), Knowledgeable in software development (VB.NET), web development (HTML, CSS) and database administration (MYSQL)",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"Bachelor of Science\",\n      \"university\": \"Bulacan State University- Main Campus\",\n      \"graduationDate\": \"2019\",\n      \"score\": null\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": null,\n      \"university\": \"Notre Christi Academy of the Philippines\",\n      \"graduationDate\": \"2013\",\n      \"score\": null\n    }\n  },\n  {\n    \"Edu3\": {\n      \"degree\": null,\n      \"university\": \"Cambaog Elementary School\",\n      \"graduationDate\": \"2009\",\n      \"score\": null\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"Operation Supervisor\"},{\"name\":\"Industrial Engineer\"},{\"name\":\"Intern\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"1000\",\n    \"Name\": \"JENNY LYN S. DE LEON\",\n    \"Email\": \"advwfy@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer work entities have been found in the provided resume."
+}

@@ -1,0 +1,7 @@
+{
+    "skills": "MS Office, Basics of C, Power Point, Excel, Basic Orcad PCB Design",
+    "education": "[\n{\n\"Edu1\": {\n\"degree\": \"M.Sc.\",\n\"university\": \"K.R College of Arts & Science\\nKovilpatti\",\n\"graduationDate\": \"2016\",\n\"score\": \"73%\"\n}\n},\n{\n\"Edu2\": {\n\"degree\": \"B.Sc.\",\n\"university\": \"G.VenkadaSwamy Naidu\\nCollege\\nKovilpatti.\",\n\"graduationDate\": \"2014\",\n\"score\": \"60%\"\n}\n}\n]",
+    "work_exp": "[{\"name\":\"FIELD ENGINEER\"},{\"name\":\"Network Engineer\"},{\"name\":\"splicer\"},{\"name\":\"Field FR Engineer\"},{\"name\":\"Splicer\"},{\"name\":\"Field Technical engineer\"}]",
+    "personal_info": "[\n{\"label\":\"Person\",\"ID\":\"1\",\"Name\":\"S.GANESH PERUMAL\",\"Email\":\"ad14jl@r.postjobfree.com\"},\n{\"label\":\"Person\",\"ID\":\"2\",\"Name\":\"R.Shunmugam\",\"Email\":\"\"},\n{\"label\":\"Person\",\"ID\":\"3\",\"Name\":\"S.Avudaithai\",\"Email\":\"\"}\n]",
+    "volunteer_info": "[]"
+}

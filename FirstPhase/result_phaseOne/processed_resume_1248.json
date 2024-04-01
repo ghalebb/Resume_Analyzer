@@ -1,0 +1,7 @@
+{
+    "skills": "Inspection, Radiation, Mechanical Engineering, Materials Management, Welding, Quality Control, Manufacturing, Microsoft Office Suite, Windows Operating System, Internet navigation, Web design",
+    "education": "[{\"Edu1\":{\"degree\":\"B. Tech\",\"university\":\"M. G. M. College of Engineering and Tech.\",\"graduationDate\":\"2013\",\"score\":\"63%\"},\n\"Edu2\":{\"degree\":\"10+2\",\"university\":\"UP Board\",\"graduationDate\":\"2009\",\"score\":\"63.80%\"},\n\"Edu3\":{\"degree\":\"10th\",\"university\":\"UP Board\",\"graduationDate\":\"2006\",\"score\":\"56.70%\"}}]",
+    "work_exp": "[{\"name\":\"Quality Engineer\"}, {\"name\":\"Sales Executive\"}, {\"name\":\"Teacher\"}]",
+    "personal_info": "[{\"Name\":\"Brijesh Kumar Singh\",\"ID\":\"1\",\"Email\":\"adrydx@r.postjobfree.com\"}]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume. Therefore, an empty list is returned."
+}

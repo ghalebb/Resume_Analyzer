@@ -1,0 +1,7 @@
+{
+    "skills": "Python, Apache Spark, PySpark, Snowflake, DBT, Great Expectations, React, Amazon Kinesis, Elasticsearch, FluentD, Kibana, PySpark, Kubernetes, Spark SQL, Azure Databricks, Delta Lake, Airflow, AWS, Auto Scaling Groups, TDD, Docker, Scala, Jenkins, AWS EC2, Route53, S3, Redshift, RDS, Redis",
+    "education": "[\n{\"Edu1\":{\"degree\":\"BA\",\"university\":\"Pontifical Catholic University of Peru\",\"graduationDate\":\"2015\"}},\n{\"Edu2\":{\"degree\":\"Full Stack Development Immersive Program Graduate Certificate\",\"university\":\"Galvanize\",\"graduationDate\":\"2016\"}}\n]",
+    "work_exp": "[{\"name\":\"Arine\"},{\"name\":\"Extend Data\"},{\"name\":\"Vizio\"},{\"name\":\"Nexthealth Technologies\"},{\"name\":\"AppThis\"}]",
+    "personal_info": "[{\"Name\":\"Atem Tacktic\",\"ID\":\"1\",\"Email\":\"ad4g55@r.postjobfree.com\"}]",
+    "volunteer_info": "[]"
+}

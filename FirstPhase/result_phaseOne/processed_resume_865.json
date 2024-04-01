@@ -1,0 +1,7 @@
+{
+    "skills": "Solid understanding of iOS frameworks, APIs, and concepts (Storyboard, UIKit, Core Graphics, iCloud), Flutter, MVC, MVVM, Swift programming language (protocols, closures, generics), third-party SDKs and APIs (Google services, Facebook APIs, Twitter APIs), App Store Connect, iTunes Connect, Git version control system, code review tools, UI/UX design, SwiftUI, Xcode development environment, Python, Laravel, Fastlane, unit testing (XCTestCase, Dependency Injection, Protocol Oriented Programming), design patterns (Factory, Adapter, Observer, Delegation)",
+    "education": "[\"Edu1\":{\"degree\":\"Master Of Science(Information Technology)\",\"university\":\"Sardar Patel University\",\"graduationDate\":\"2015\"},\"Edu2\":{\"degree\":\"Bachelors of Computer Application\",\"university\":\"VNSGU\",\"graduationDate\":\"2013\"}\n]",
+    "work_exp": "[{\"name\":\"CharmeUse Technology\"},{\"name\":\"M-Connect Solution\"},{\"name\":\"Make Time Count\"},{\"name\":\"IBL InfoTech\"},{\"name\":\"Moon Technolabs\"},{\"name\":\"EggHead Experts\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"PradipKumar Kikani\",\n    \"ID\": \"PRADP12345\",\n    \"Email\": \"ad17ke@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

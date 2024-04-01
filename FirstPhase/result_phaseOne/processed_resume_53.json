@@ -1,0 +1,7 @@
+{
+    "skills": "HTML, CSS, JavaScript, TypeScript, Java, jQuery, React, Redux, Next.js, React Native, Storybook, Webpack, Babel, Jest, Jasmine, Cypress, Enzyme, Mocha, JUnit, MySQL, PostgreSQL, SQL Server, Oracle, MongoDB, Cassandra, Redis, Bootstrap, Tailwind CSS, Material UI, Spring Boot, Socket.IO, Node.js, JWT, OAuth, Hibernate, JPA, REST, GraphQL, SOAP, gRPC, Git, Docker, Jenkins, Firebase, Linux, Apache, NGINX, Kakfa, Cloudflare, Jira, AWS",
+    "education": "[\n \"Edu1\":{\n  \"degree\":\"Bachelor\u2019s Degree\",\n  \"university\":\"Nova Southeastern University\",\n  \"graduationDate\":\"May 2013\"\n }\n]",
+    "work_exp": "[{\"name\":\"MarketJoy, Florida - Senior Full Stack Engineer\"},{\"name\":\"Inverted Software, Nevada - Full Stack Developer\"},{\"name\":\"Aligned Studios, Florida - Front End Developer\"}]",
+    "personal_info": "[{\"Name\":\"Curtis Conley\",\"ID\":\"1\",\"Email\":\"ad4hrj@r.postjobfree.com\"}]",
+    "volunteer_info": "[]"
+}

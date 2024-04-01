@@ -1,0 +1,7 @@
+{
+    "skills": "Client Management, Software Project Management, Task Management, Software Testing (Manual), API Testing, Attention to Detail, Communication, Teamwork, Time management, Leadership skills, Decision making, Problem-solving, Process Design, Auditing and Reporting, Microsoft Office, Project Management (Agile, Scrum, Kanban), Technical Support",
+    "education": "[\n{\"Edu1\":{\"degree\":\"Master in Electrical Engineering\",\"university\":\"National University of Computer and Emerging Science (FAST)\",\"graduationDate\":\"2021\"}},\n{\"Edu2\":{\"degree\":\"Bachelor in Computer Engineering\",\"university\":\"Comsats University Islamabad, Lahore Campus, Pakistan\",\"graduationDate\":\"2018\"}}\n]",
+    "work_exp": "Extraction Results:\n\n[{\"name\":\"Software Project Manager\"},{\"name\":\"Branch Manager\"},{\"name\":\"Operations Coordinator\"},{\"name\":\"IT Support Engineer\"}]",
+    "personal_info": "[{\"Name\":\"Muhammad Armaghan Majeed\",\"ID\":\"P1\",\"Email\":\"adubn0@r.postjobfree.com\"},{\"Name\":\"https://www.linkedin.com/in/muhammad-armaghan-215661116/\",\"ID\":\"P2\",\"Email\":\"\"},{\"Name\":\"Dubai, UAE\",\"ID\":\"P3\",\"Email\":\"\"}]",
+    "volunteer_info": "[{\"name\":\"IEEE NUECS Week\"},{\"name\":\"NUECS SOFTEC\"}]"
+}

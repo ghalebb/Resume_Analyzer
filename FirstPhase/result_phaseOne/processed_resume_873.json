@@ -1,0 +1,7 @@
+{
+    "skills": "MPLS Link Configuring, Maintaining and monitor, Well versed in BGP based Link, Basic knowledge on Cisco IP Phones, Configuring Cisco Routers and Switches, Configuring and maintaining Fortigate Firewall, Maintaining and troubleshooting the network, Routing/WAN: EIGRP, OSPF, RIP, BGP, PPP, and PPPoE, Switching: VLAN, VTP, STP, Ether channel, Security: ACL, NAT, VPN IP Sec Tunnel, GRE Tunnel, Others: DNS, DHCP, TCP/IP, NAT, PAT, Configuring Access points and wireless technologies, Knowledge on wireless Router, Upgrading the software and operating systems",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"BCA\",\n      \"university\": \"C Kandaswami Naidu College for Men\",\n      \"graduationDate\": \"2016\",\n      \"score\": \"65.70%\"\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": \"MCA\",\n      \"university\": \"Kongu Engineering College\",\n      \"graduationDate\": \"2018\",\n      \"score\": null\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"Network Support Engineer\"},{\"name\":\"V5 Global Services Pvt Ltd\"},{\"name\":\"Project for Airtel\"},{\"name\":\"Network Engineer L1\"}]",
+    "personal_info": "[{\"Name\":\"Mohan K\",\"ID\":\"1\",\"Email\":\"\"},{\"Name\":\"Kumar MP\",\"ID\":\"2\",\"Email\":\"\"},{\"Name\":\"Lakshmi TMK\",\"ID\":\"3\",\"Email\":\"\"}]",
+    "volunteer_info": "[]"
+}

@@ -1,0 +1,7 @@
+{
+    "skills": "Data Modeling: Data Vault 2.0 and Vault Speed, Business Intelligence: Cognos, MicroStrategy, Crystal Reports, Data Warehouse/Databases: Snowflake, Teradata, Oracle, SQL Server, Postgres, Snowflake Optimization, ETL: Informatica, Snap Logic, AWS Cloud: AWS Glue, AWS S3, Athena, Postgres, Process Mapping and Improvement, System Design and Systems Improvement, Data Profiling, Data Analysis, Mapping (SQL/PL-SQL),SQL, JavaScript, Stored Procedures, DevOps: CI/CD, GIT, Eclipse, Bamboo, CTRL M, Kafka, Snowpipe, CloudForge, Jira, Agile, Problem Solving, Analytical Skillset, Team Player",
+    "education": "[\"Edu1\":{\"degree\":\"BS/MS\",\"university\":\"Moscow Engineering and Physics Institute\",\"graduationDate\":\"N/A\"}]",
+    "work_exp": "[{\"name\":\"Senior Data Engineer\"},{\"name\":\"Senior Data Analyst\"},{\"name\":\"Associate Software Developer\"}]",
+    "personal_info": "[]",
+    "volunteer_info": "No volunteer work entities are mentioned in the context."
+}

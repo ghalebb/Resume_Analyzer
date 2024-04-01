@@ -1,0 +1,7 @@
+{
+    "skills": "GIT, Maven, Gradle, NodeJS, Terraform, Bash, Python, Kibana, Apache, Elasticsearch, ELK, Grafana, Cloudwatch, Ansible, Puppet, Docker, Kubernetes, Kibana, AWS Lambda, Azure Functions, S3, Azure Blob Storage, RDS, Azure SQL Database, EMR, Redshift, EKS, AKS, IAM, Veracode, Sequence",
+    "education": "[\"Edu1\":{\"degree\":\"B.S\",\"university\":\"Kennesaw State University\",\"graduationDate\":\"\",\"minor\":\"Mathematics\"},\n]",
+    "work_exp": "[{\"name\":\"Sr. DevSecOps Engineer\"},{\"name\":\"Sr. Cloud Architect\"},{\"name\":\"Sr. DevOps Engineer\"},{\"name\":\"AWS Cloud Engineer\"},{\"name\":\"Cloud Administrator\"}]",
+    "personal_info": "[\n  {\n    \"ID\": \"1\",\n    \"Name\": \"JORDAN SUBER\",\n    \"Email\": \"ad3mr0@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer experiences were found in the provided resume."
+}

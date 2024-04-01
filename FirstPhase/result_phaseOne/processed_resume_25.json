@@ -1,0 +1,7 @@
+{
+    "skills": "C++, C#, Java, Javascript, HTML/CSS, Python, Design Patterns, Testing & DevOps principles, Scrum development, OpenGL, ML principles, SQL",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"Bachelors of Science\",\n      \"university\": \"University of Nevada Reno\",\n      \"graduationDate\": \"December 2022\",\n      \"location\": \"Reno, NV\"\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": \"Associates of Science\",\n      \"university\": \"Truckee Meadows Community College\",\n      \"graduationDate\": \"May 2019\",\n      \"location\": \"Reno, NV\"\n    }\n  },\n  {\n    \"Edu3\": {\n      \"degree\": \"Honors Diploma\",\n      \"university\": \"Damonte Ranch High School\",\n      \"graduationDate\": \"June 2017\",\n      \"location\": \"Reno, NV\"\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"Unit Clerk\"},{\"name\":\"Safety Coordinator\"},{\"name\":\"IT liaison\"},{\"name\":\"Grillmaster\"},{\"name\":\"Host\"},{\"name\":\"Busser\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"ad4h94\",\n    \"Email\": \"ad4h94@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "[{\"name\":\"CS tutor\"}]"
+}

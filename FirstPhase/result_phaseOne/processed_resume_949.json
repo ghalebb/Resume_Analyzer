@@ -1,0 +1,7 @@
+{
+    "skills": "JMeter, HP LoadRunner, Neoload, IBM RPT, K6, Webstrom, HP Performance Center, Grafana, Kibana, Jenkins, App-dynamics, Sysdig, HTTP Watch, Perfmon, PAS tool, WinSCP, Putty, Truesight, SQL Server Management Studio-2012, DB visualizer 9.0.8, Mark logic, Influx DB, HP Quality Center, JIRA, Java, C/C++, Python, Agile, Waterfall, Mainframe",
+    "education": "[\"Edu1\":{\"degree\":\"BE\",\"university\":\"Dr Ambedkar Institute of Technology,\",\"graduationDate\":\"2015\",\"score\":\"8.75\"},\n\"Edu2\":{\"degree\":\"XII\",\"university\":\"DVS(IND) Pre university college,\",\"graduationDate\":\"2011\",\"score\":\"91.5\"},\n\"Edu3\":{\"degree\":\"X\",\"university\":\"Sri S Subramanya Shetty Memorial High School,\",\"graduationDate\":\"2009\",\"score\":\"90.72\"}]",
+    "work_exp": "[{\"name\":\"Zscaler\"},{\"name\":\"Quinbay\"},{\"name\":\"Capgemini\"},{\"name\":\"IBM India Pvt Ltd\"},{\"name\":\"Tata Consultancy Services\"},{\"name\":\"KFC\"}]",
+    "personal_info": "[{\"Name\":\"AMITH A C\",\"ID\":\"p1\",\"Email\":\"ad1mrj@r.postjobfree.com\"}]",
+    "volunteer_info": "[]"
+}

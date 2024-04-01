@@ -1,0 +1,7 @@
+{
+    "skills": "Visual Studio, C#/VB.NET, T-SQL, MS SQL Server, CSS3, JavaScript, HTML5, XML, jQuery, jSON, Web API, REST, Agile, SCRUM, ADO.NET, Entity Framework, TFS, Git, SQLite Studio, Window Forms, WPF, SourceTree, SQL Server Management Studio (SSMS), Phonegap build, Apache Cordova, PDF parser, AWS, Lambda, DynamoDB, SNS, IAM console, MS Unit Testing, KanBan, Ticket System, Source Safe",
+    "education": "[\"Edu1\":{\"degree\":\"Bachelor of Science\",\"university\":\"Devry University\",\"graduationDate\":\"2012\"}]",
+    "work_exp": "[{\"name\":\"Giesecke + Devrient\"},{\"name\":\"TekSystems/Ideation Inc\"},{\"name\":\"ManTech\"},{\"name\":\"Envoy Consulting Group\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"per001\",\n    \"Name\": \"Kit Sayasy\",\n    \"Email\": \"ad4d3w@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer experiences found in the provided resume."
+}

@@ -1,0 +1,7 @@
+{
+    "skills": "- PPAP\n- ISIR\n- Problem solving tools\n- Quality Documents\n- Audits\n- Process\n- Product Development\n- Inspection improvements\n- Software Skills\n- MS Excel\n- MS Word\n- MS PowerPoint",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"B.E\",\n      \"university\": \"A.R College Of Engineering College\",\n      \"graduationDate\": \"2014\",\n      \"score\": null\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": \"Higher Secondary\",\n      \"university\": \"St Marys Matriculation Higher Secondary School\",\n      \"graduationDate\": \"2008\",\n      \"score\": null\n    }\n  },\n  {\n    \"Edu3\": {\n      \"degree\": \"SSLC\",\n      \"university\": \"Govt School\",\n      \"graduationDate\": \"2006\",\n      \"score\": null\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"MOTHERSON\"},{\"name\":\"MICROTECH POLYMERS\"},{\"name\":\"QUALITY ENGINEER\"},{\"name\":\"IN-PROCESS QC INCHARGE\"},{\"name\":\"CUSTOMER SUPPORT OUALITY REPRESENTATIVE\"}]",
+    "personal_info": "[\"label\":\"Person\",\"ID\":\"Person_1\",\"Email\":\"ad3hoi@r.postjobfree.com\",\"Name\":\"A.K. RAMKUMAR\",\"DOB\":\"4'h March 1991\",\"Gender\":\"Male\",\"Nationality\":\"Indian\",\"Father's Name\":\"K. Krishnamoorthy\"]",
+    "volunteer_info": "The resume provided does not contain any volunteer work entities."
+}

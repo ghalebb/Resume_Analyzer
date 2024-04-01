@@ -1,0 +1,7 @@
+{
+    "skills": "Operating System, Red Hat, CentOS, Ubuntu, Virtualization, VMWare, ESXi, Vsphere, Vmotion, Cluster, Cloud (AWS), EC2, S3, EBS, EFS, IAM, CloudWatch, ELB, DevOps Tools, Ansible, GIT, Docker, Kubernetes, Package Management, YUM, RPM, Red Hat Satellite, Storage, SAN, NAS, LVM, RAID, Disk Management, LVM, fdisk, gdisk, Parted, Monitoring Tools, Nagios, Splunk, Servers, PXE boot, Kick-Start, System Security, Management, Firewall, Iptables, SELinux, McAfee, Version Control Tools, Git, GitLab, Bitbucket, Configuration, Management, Ansible, Backup Tools, NetBackup, Ticketing Tools, Jira, ServiceNow (SNOW)",
+    "education": "[\"Edu1\":{\"degree\":\"Bachelor in Arts\",\"university\":\"Queens College\",\"graduationDate\":\"2007\"},\n\"Edu2\":{\"degree\":null,\"university\":\"Udemy\",\"graduationDate\":\"2017\"}]",
+    "work_exp": "[{\"name\":\"BANK OF CHINA\"},{\"name\":\"ACCENTURE\"},{\"name\":\"YAHOO\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Name\",\n    \"ID\": \"P1\",\n    \"Email\": \"ad39he@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "[]"
+}

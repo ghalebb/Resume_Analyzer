@@ -1,0 +1,7 @@
+{
+    "skills": "Manual Testing, Test case design and execution, Defect reporting and tracking, Functional and user acceptance testing, Regression testing, Exploratory testing, Black box testing, Test documentation, API Testing, Data base knowledge, Mobile Testing, Automation Testing, Selenium WebDriver with C#, Nunit framework, Page Object Model, Data-driven testing",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"B. Tech\",\n      \"university\": \"Biju Patnaik University Rourkela\",\n      \"graduationDate\": \"2018\",\n      \"score\": null\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": \"Diploma\",\n      \"university\": \"S.C.T.E.V.T Rourkela\",\n      \"graduationDate\": \"2014\",\n      \"score\": null\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"Manual and Automation Test Engineer\"},{\"name\":\"Teacher\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"Khiti Prakash Rout\",\n    \"ID\": \"001\",\n    \"Email\": \"ad3fv3@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

@@ -1,0 +1,7 @@
+{
+    "skills": "- Microsoft Office\n- Planswift\n- AutoCAD",
+    "education": "[\"Edu1\":{\"degree\":\"B.E. Mechanical Engineering\",\"university\":\"Shri Angalamman College of Engineering and Technology, Trichy, Bharathidasan University\",\"graduationDate\":\"2003\",\"score\":\"70.00%\"},\"Edu2\":{\"degree\":\"H.S.C\",\"university\":\"A.R.R. Matriculation Higher. Sec. School, Kumbakonam\",\"graduationDate\":\"1999\",\"score\":\"72.00%\"},\"Edu3\":{\"degree\":\"S.S.L.C\",\"university\":\"A.R.R. Matriculation Higher. Sec. School, Kumbakonam\",\"graduationDate\":\"1997\",\"score\":\"68.00%\"}]",
+    "work_exp": "[{\"name\":\"Power Spray Electro-Mechanical L.L.C\"},{\"name\":\"BIC Contracting L.L.C\"},{\"name\":\"Drake & Scull International L.L.C\"},{\"name\":\"EFECO - Emirates Falcon Electromechanical Company L.L.C\"},{\"name\":\"National Projects and Construction L.L.C\"},{\"name\":\"Trans Gulf Electro-Mechanical L.L.C\"},{\"name\":\"Al Jaber Trading Enterprises L.L.C\"},{\"name\":\"Sobha Interiors Pvt Ltd\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Name\",\n    \"ID\": \"p1\",\n    \"Email\": \"adt4cb@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "The provided text does not contain any volunteer work experiences, so the list is empty."
+}

@@ -1,0 +1,7 @@
+{
+    "skills": "Innovative problem-solver, Flexible team player, Highly analytical thinker, Computer-literate",
+    "education": "[{\"Edu1\":{\"degree\":None,\"university\":\"UMASS LOWELL\",\"graduationDate\":\"1996\"},\n\"Edu2\":{\"degree\":None,\"university\":\"LOWELL HIGH SCHOOL\",\"graduationDate\":\"1992\"}}\n]",
+    "work_exp": "[{\"name\":\"E-Ink\"},{\"name\":\"Uni-repair\"},{\"name\":\"AXsun technology\"},{\"name\":\"Brooks automation\"}]",
+    "personal_info": "[\n  {\n    \"label\": \"Person\",\n    \"ID\": \"person1\",\n    \"Name\": \"KAMSAN THLANG\",\n    \"Email\": \"ad4e6n@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "The provided resume does not contain any volunteer work experiences, so the result is an empty list."
+}

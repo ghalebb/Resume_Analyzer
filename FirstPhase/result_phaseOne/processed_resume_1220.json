@@ -1,0 +1,7 @@
+{
+    "skills": "MS Office, EXCEL, POWER POINT, AUTOCAD",
+    "education": "The provided resume does not contain any education-related entities such as degrees, universities, graduation dates, or scores. Therefore, an empty list is returned.\n\n[]",
+    "work_exp": "[{\"name\":\"Sub-Contractor ( Mardan Mega Park)\"},{\"name\":\"Civil Supervisor (ABYATONA REAL ESTATE JEDDAH HEIGHTS)\"},{\"name\":\"Teacher\"}]",
+    "personal_info": "[{\"Name\":\"SHEHARYAR AHMAD\", \"Email\":\"adsq6n@r.postjobfree.com\"}]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume. Therefore, the list of volunteer work entities is empty."
+}

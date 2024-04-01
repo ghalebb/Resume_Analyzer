@@ -1,0 +1,7 @@
+{
+    "skills": "Apex Class, Apex Trigger, Controller Class, Data Loader, Dataloader.io, Programming, Problem Solving, Salesforce CRM, Salesforce Analytics, Salesforce Object Query Language (SOQL), Salesforce Search Language (SOSL), Visualforce",
+    "education": "[\n  {\n    \"Edu1\": {\n      \"degree\": \"M.Tech\",\n      \"university\": \"RTM UNIVERSITY, Nagpur\",\n      \"graduationDate\": \"2021\",\n      \"score\": \"89%\"\n    }\n  },\n  {\n    \"Edu2\": {\n      \"degree\": \"B.E\",\n      \"university\": \"RTM UNIVERSITY, Nagpur\",\n      \"graduationDate\": \"2015\",\n      \"score\": \"76%\"\n    }\n  },\n  {\n    \"Edu3\": {\n      \"degree\": \"HSC\",\n      \"university\": \"State Board of Maharashtra\",\n      \"graduationDate\": null,\n      \"score\": null\n    }\n  },\n  {\n    \"Edu4\": {\n      \"degree\": \"SSC\",\n      \"university\": \"State Board of Maharashtra\",\n      \"graduationDate\": null,\n      \"score\": null\n    }\n  }\n]",
+    "work_exp": "[{\"name\":\"Teacher\"}, {\"name\":\"NIT organization Pvt Ltd\"}]",
+    "personal_info": "[\n  {\n    \"Name\": \"Ankita Kamble\",\n    \"ID\": \"P01\",\n    \"Email\": \"ad4aj6@r.postjobfree.com\"\n  }\n]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

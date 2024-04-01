@@ -1,0 +1,7 @@
+{
+    "skills": "Python, machine learning, deep learning, natural language processing, Spacy, Grobid, Flask, LSTM, NumPy, Pandas, scikit-learn, Seaborn, Matplotlib, Neural Networks, LSTMs, LLMs, Tensorflow, Keras, PyTorch, Hugging Face Transformers, BERT, coreNLP, NLTK, TextBlob, MLflow, TensorFlow Extended, AutoML, Microsoft 365, Azure Fundamentals",
+    "education": "[\n \"Edu1\": {\n  \"degree\": \"AI Engineer Master Course\",\n  \"university\": \"Intellipaat\",\n  \"graduationDate\": \"October 2020\"\n },\n \"Edu2\": {\n  \"degree\": \"Bachelor of Civil Engineering\",\n  \"university\": null,\n  \"graduationDate\": null\n }\n]",
+    "work_exp": "[{\"name\":\"Junior Data Scientist\"},{\"name\":\"Software Engineer\"},{\"name\":\"Quantity Surveyor\"},{\"name\":\"Site Engineer\"}]",
+    "personal_info": "[\n {\n  \"Name\": \"VIGNESHVARAN GANESAN\",\n  \"ID\": \"p001\",\n  \"Email\": \"ad38bc@r.postjobfree.com\"\n }\n]",
+    "volunteer_info": "No volunteer work entities were found in the provided resume."
+}

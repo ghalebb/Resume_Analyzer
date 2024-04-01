@@ -1,0 +1,7 @@
+{
+    "skills": "Information Technology:\nNetwork infrastructure, Application development, Communications, Hosting: Private and public cloud, Azure, Sharepoint, internal and external portals, SaaS, Data integrity and security, Help Desk operations and SLAs, AS/400, IBM Power Series, Active Directory, Disaster recovery, Mobile Device Management\n\nManagerial:\nVendor management, Team building & mentoring, Project management utilizing Agile methodology, Technology assessment & deployment, Budgeting, purchasing & cost management, Training, Goals attainment, Business Intelligence, dashboards and reporting, Strategic & tactical planning, Risk assessment, Ensure service delivery by Managed Service Providers, Culture of constant improvement",
+    "education": "[\"Edu1\":{\"degree\":\"Computer Science\",\"university\":\"Queens College, New York, NY\"},\n\"Edu2\":{\"degree\":\"Technical certificate in electronics and computer technology\",\"university\":\"Suburban Tech Uniondale, NY\"}]",
+    "work_exp": "[{\"name\":\"IT Director\"},{\"name\":\"IT Manager\"},{\"name\":\"Network Engineer\"}]",
+    "personal_info": "[\n {\"label\":\"Person\",\"ID\":\"p1\",\"Name\":\"Gerard Galletta\",\"Email\":\"ad4ez2@r.postjobfree.com\",\"LinkedIn\":\"linkedin.com/in/gerard-galletta-9519361a/\"}\n]",
+    "volunteer_info": "[]"
+}
