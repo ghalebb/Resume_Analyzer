@@ -1,5 +1,5 @@
 import json
-
+import os
 
 class Response:
     def __init__(self, result_json, notes_file):
@@ -35,7 +35,7 @@ class Response:
         self.notes_file = notes_file
 
     def generate_notes(self):
-        notes = readJsonFIle(self.notes_file)
+        notes = readJsonFile(self.notes_file)
         generated_notes = []
         for key in self.result_json.keys():
             if self.result_json[key].lower() == notes[key]['desired_answer'].lower():
@@ -51,7 +51,10 @@ class Response:
         return " ".join(generated_notes)
 
 
-def readJsonFIle(path):
-    with open(path) as f:
+def readJsonFile(path):
+    with open(r'C:\Users\user\Desktop\Resume_Analyzer\Resume_Analyzer\SecondPhase\Prompts\notes.json') as f:
         data = json.load(f)
     return data
+
+
+

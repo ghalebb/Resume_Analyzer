@@ -55,7 +55,7 @@ class cleaner:
 
 
 if __name__ == '__main__':
-    folder_path = r'C:\Users\Hussam Salamh\Desktop\Projects\Resume_Analyzer\result_phaseOne'
-    output_csv_file = r'C:\Users\Hussam Salamh\Desktop\Projects\Resume_Analyzer\labeled_resumes.csv'
+    folder_path = r'C:\Users\user\Desktop\Resume_Analyzer\Resume_Analyzer\FirstPhase\labeled_data'
+    output_csv_file = r'C:\Users\user\Desktop\Resume_Analyzer\Resume_Analyzer\phase_one_results.csv'
     cleaner = cleaner(folder_path, output_csv_file)
     cleaner.main()

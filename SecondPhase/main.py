@@ -1,20 +1,24 @@
 import pandas as pd
 import time
-
 from SecondPhase.Checker import Checker
 from SecondPhase.Response import Response
+import json
 
 #TODO need to change the path for both
-GITHUB_DATASET_PATH = r"C:\Users\Hussam Salamh\Desktop\Projects\Resume_Analyzer\labeled_resumes.csv"
-RECOMMENDATION_FILE = r"C:\Users\Hussam Salamh\Desktop\Projects\Resume_Analyzer\recommendation.csv"
+GITHUB_DATASET_PATH = r"C:\Users\user\Desktop\Resume_Analyzer\Resume_Analyzer\labeled_resumes.csv"
+RECOMMENDATION_FILE = r"C:\Users\user\Desktop\Resume_Analyzer\Resume_Analyzer\recommendation.csv"
 SECRET_KEY = "AIzaSyB1-RLEHFheGAlC80C4WfGReFBRN6sccPc"
 
 
 def secondPhase(labeledData, key=SECRET_KEY, misspelling=None):
+    labeledData = json.loads(labeledData)
+    print('labeledData', labeledData)
     checker = Checker(key, labeledData, misspelling)
     results = checker.apply_checks()
+    print('results', results)
     response = Response(results, 'SecondPhase/Prompts/notes.json')
     recommendations = response.generate_notes()
+    print('recommendations', recommendations)
     return recommendations
 
 
@@ -33,7 +37,9 @@ class Main:
             try:
                 print(f"Processing resume {ind}")
                 time.sleep(0.05)
-                recommendations = secondPhase(SECRET_KEY, self.resumes['JSON_Content'][ind])
+                labeled_resume = self.resumes['JSON_Content'][ind]
+                recommendations = secondPhase(labeled_resume, key=SECRET_KEY)
+                print('recommendations', recommendations)
                 combined_data.append(
                     {
                         "Filename": ind,

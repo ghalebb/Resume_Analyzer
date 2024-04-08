@@ -1,16 +1,17 @@
 from SecondPhase.Checker import Checker
 from SecondPhase.Response import Response
 
-RESUME_RAW_TEXT_PATH = "RESUME_TEST.txt"
-LABEL_DATA_PATH = r"./Test/labelDataTmp.json"
-SECRET_KEY = "AIzaSyB1-RLEHFheGAlC80C4WfGReFBRN6sccPc"
+RESUME_RAW_TEXT_PATH = "../SecondPhase/Prompts/template.json"
+# LABEL_DATA_PATH = r"./Test/labelDataTmp.json"
+LABEL_DATA_PATH = "../SecondPhase/Prompts/template.json"
+SECRET_KEY = "AIzaSyC7t6rx9qAaFR7uSRKbWxY4EdgA9fN71Qk"
 
+NOTES_PATH = '../SecondPhase/Prompts/notes.json'
 
 def append_data(result):
     with open("output.txt", "w") as f:
         f.write(str(result))
         print('succeed')
-
 
 
 def CheckSecondPhase():
@@ -19,7 +20,7 @@ def CheckSecondPhase():
     print("This the result after calling the checker class")
     print(results)
     print('---------------------------')
-    res = Response(results,"./SecondPhase/Prompts/notes.json")
+    res = Response(results,NOTES_PATH)
     recommendations = res.generate_notes()
     print(recommendations)
     return recommendations
