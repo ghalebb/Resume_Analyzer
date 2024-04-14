@@ -63,7 +63,27 @@ Example Output Format:
 
 The resume is below:
 
+
 """
 
+PROJECTS_PROMPT = """
+The instruction is to extract projects entities from a resume, focusing solely on projects experiences. The entities must be listed without duplication, imputation of missing values, or inclusion of irrelevant details like work experiance. If no projects entities are found, an empty list should be returned.
+
+Example Output Format:
+[{"name":"Machine Learning project", "description": "This project involves the implementation of a machine learning model, specifically fine-tuning a Language Model for a natural language processing task. Employed techniques such as transfer learning and hyperparameter optimization to enhance model performance."}]
+
+The resume is below:
+
+"""
+
+WORDCOUNT_PROMPT = """
+The instruction is to count the number of words in the resume.
+
+Example Output Format:
+"300"
+
+The resume is below:
+
+"""
 
 SECRET_KEY_GEMINI = "AIzaSyB1-RLEHFheGAlC80C4WfGReFBRN6sccPc"

@@ -65,6 +65,7 @@ class ResumeProcessor:
         self.work_exp = None
         self.education = None
         self.volunteer_info = None
+        self.project_into = None
 
     def findSkills(self, text):
         self.skills = self.model.generate_content(SKILLS_PROMPT + text).text
@@ -81,6 +82,8 @@ class ResumeProcessor:
     def findVolunteerInfo(self, text):
         self.volunteer_info = self.model.generate_content(VOLUNTEER_PROMPT + text).text
 
+    def findProjectsInfo(self, text):
+        self.project_into = self.model.generate_content(PROJECTS_PROMPT + text).text
     @staticmethod
     def save_processed_data(processed_data, output_path):
         with open(output_path, 'w') as file:
@@ -94,13 +97,15 @@ def process_and_save(model, output_directory, resume, index):
     model.findWorkExp(cleaned_text)
     model.findPersonalInfo(cleaned_text)
     model.findVolunteerInfo(cleaned_text)
+    model.findProjectInfo(cleaned_text)
 
     processed_data = {
         "skills": model.skills,
         "education": model.education,
         "work_exp": model.work_exp,
         "personal_info": model.personal_info,
-        "volunteer_info": model.volunteer_info
+        "volunteer_info": model.volunteer_info,
+        "project_info": model.project_into
     }
 
     outputPath = os.path.join(output_directory, f"processed_resume_{index}.json")

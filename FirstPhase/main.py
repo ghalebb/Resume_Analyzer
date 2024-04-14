@@ -22,7 +22,7 @@ def main(output_directory):
 
 
 NUMBER = [0]
-OUTPUT_FOLDER = r"C:\Users\Hussam Salamh\Desktop\Projects\task\result_with_new_prompt"
+OUTPUT_FOLDER = r"C:\Users\galeb\Desktop\Resume_Analyzer\FirstPhase\output_file"
 if not os.path.exists(OUTPUT_FOLDER):
     os.makedirs(OUTPUT_FOLDER)
 
